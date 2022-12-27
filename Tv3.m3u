@@ -72,7 +72,7 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Canal i VE
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Caracol CO
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+http://200.110.169.237:8202/play/a038
 #EXTINF:-1,Cali TV CO
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Telemundo
