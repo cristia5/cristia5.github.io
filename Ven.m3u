@@ -1,93 +1,93 @@
 #EXTM3U
-#EXTINF:-1,Nubeh TV * | VE
+#EXTINF:-3,Nubeh TV * | VE
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Listas en M3U.CL * | CL
+#EXTINF:-3,Listas en M3U.CL * | CL
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Oxigeno Network * | VE
+#EXTINF:-3,Oxigeno Network * | VE
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Panavision * | VE
+#EXTINF:-3,Panavision * | VE
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Canal Once Del Zulia | VE
+#EXTINF:-3,Canal Once Del Zulia | VE
 http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Catatumbo TV | VE
+#EXTINF:-3,Catatumbo TV | VE
 https://vcp3.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Promar TV | VE
+#EXTINF:-3,Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Reforma TV | VE
+#EXTINF:-3,Reforma TV | VE
 https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Telearagua | VE
+#EXTINF:-3,Telearagua | VE
 http://190.205.43.236:8080/hls/nginx.m3u8?PlaylistM3UCL
-#EXTINF:-1,Televen | VE
+#EXTINF:-3,Televen | VE
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8?PlaylistM3UCL
-#EXTINF:-1,TLT | VE
+#EXTINF:-3,TLT | VE
 https://vcp4.myplaytv.com/xtlt/xtlt.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,TVO | VE
+#EXTINF:-3,TVO | VE
 https://vcp3.myplaytv.com/tvo/tvo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Vepaco TV | VE
+#EXTINF:-3,Vepaco TV | VE
 https://vcp3.myplaytv.com/tvepaco/tvepaco/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Telesur | VE
+#EXTINF:-3,Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Telesur English | VE
+#EXTINF:-3,Telesur English | VE
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,ShowVen TV | VE
+#EXTINF:-3,ShowVen TV | VE
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,TVS Maracay | VE
+#EXTINF:-3,TVS Maracay | VE
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Canal i | VE
+#EXTINF:-3,Canal i | VE
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Venevision | VE
+#EXTINF:-3,Venevision | VE
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Solo Stand Up | CL
+#EXTINF:-3,Solo Stand Up | CL
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Retro Plus TV | CL
+#EXTINF:-3,Retro Plus TV | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Retro Plus TV Señal 2 | CL
+#EXTINF:-3,Retro Plus TV Señal 2 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Retro Plus TV Señal 3 | CL
+#EXTINF:-3,Retro Plus TV Señal 3 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Urban TV | ES
+#EXTINF:-3,Urban TV | ES
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Rewind Radio y TV | CL
+#EXTINF:-3,Rewind Radio y TV | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Recuerdos Retro Radio TV | CL
+#EXTINF:-3,Recuerdos Retro Radio TV | CL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Natanael TV | PA
+#EXTINF:-3,Natanael TV | PA
 https://stmv1.voxhdnet.com/natanael040322/natanael040322/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Italianissimo | VE
+#EXTINF:-3,Italianissimo | VE
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,MovieFE | VE
+#EXTINF:-3,MovieFE | VE
 https://vcp.myplaytv.com:443/moviefe/ngrp:moviefe_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Anzoategui TV | VE
+#EXTINF:-3,Anzoategui TV | VE
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Mundo de la Musica TV | CL
+#EXTINF:-3,Mundo de la Musica TV | CL
 https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,TVV | VE
+#EXTINF:-3,TVV | VE
 https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Telecolor | VE
+#EXTINF:-3,Telecolor | VE
 https://vcp.myplaytv.com/telecolor/telecolor/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Chivacoa TV | VE
+#EXTINF:-3,Chivacoa TV | VE
 https://vdo.panelstreaming.live:3974/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1,eSports Max TV | VE
+#EXTINF:-3,eSports Max TV | VE
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Fiesta Max TV | VE
+#EXTINF:-3,Fiesta Max TV | VE
 http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Humor Max Channel | VE
+#EXTINF:-3,Humor Max Channel | VE
 http://vcpar.myplaytv.com/humormax/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Cantina TV | VE
+#EXTINF:-3,Cantina TV | VE
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,EXC TV | VE
+#EXTINF:-3,EXC TV | VE
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Miranda TV | VE
+#EXTINF:-3,Miranda TV | VE
 https://vcp.myplaytv.com/mdatv/mdtav/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,PLTV | VE
+#EXTINF:-3,PLTV | VE
 https://vcp.myplaytv.com/pltv/pltv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,TRV | VE
+#EXTINF:-3,TRV | VE
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,BTA TV | VE
+#EXTINF:-3,BTA TV | VE
 https://vcp3.myplaytv.com/bta/bta/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Telesol | VE
+#EXTINF:-3,Telesol | VE
 https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,TV FANB | VE
+#EXTINF:-3,TV FANB | VE
 https://vcp2.myplaytv.com/tvfanb/tvfenab/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Vale TV | VE
+#EXTINF:-3,Vale TV | VE
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
