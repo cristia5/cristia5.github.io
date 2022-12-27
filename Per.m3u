@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1,DMJ * | PE
+https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,+ Listas en M3U.CL * | CL
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Best Cable Sports | PE
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Contacto Deportivo | PE
+https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal IPE | PE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+#EXTINF:-1,Best Cable Music | PE
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Hatun TV | PE
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Karibeña TV | PE
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1,Mas Cumbia | PE
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Memorias TV | PE
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Mundo de la Musica TV | CL
+https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Planeta TV | PE
+https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,TOP Latino TV | PE
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Turbo Mix TV | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF:-1,Vision Musica TV | PE
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Onda Digital TV | PE
+https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,TV Peru Noticias | PE
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF:-1,UCI Noticias 1 | PE
+http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,UCI Noticias 2 | PE
+http://168.205.133.38:80/uci2/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Vision Noticias Peru | PE
+https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8?PlaylistM3UCL
+#EXTINF:-1,Antares TV | PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,ATV | PE
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,ATV+ | PE
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Autentica TV | PE
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Best Cable TV | PE
+https://tv.inka.net.pe/bestcable/bestcable/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,BHTV | PE
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal 8 Catacaos | PE
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8?PlaylistM3UCL
+#EXTINF:-1,Central TV Chosica | PE
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Controversia TV | PE
+https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,CR TV | PE
+https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Cultura 24 TV | PE
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Doble C TV | PE
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
+#EXTINF:-1,Exitosa | PE
+https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
+#EXTINF:-1,Genios TV | PE
+https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Goresam TV | PE
+https://stream.plixitv.live:443/goresamtv/goresamtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Hechicera TV | PE
+https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Huacho Peru TV | PE
+https://inliveserver.com:1936/9512/9512/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Inkavision | PE
+https://7.innovatestream.pe:19360/inkavision/inkavision.m3u8?PlaylistM3UCL
+#EXTINF:-1,JN19 | PE
+https://servilive.com:3149/live/jn19tvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1,Master Television | PE
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Mega TV | PE
+https://media2.cdnlayer.biz:8081/8008/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Monterrico TV | PE
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,OK TeVe | PE
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Ovacion | PE
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Palmeras TV | PE
+https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1,Panamericana | PE
+https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
+#EXTINF:-1,Pax TV | PE
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Planea TV | PE
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Sanjuanera TV | PE
+https://live.obslivestream.com/sanjuanera/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Sol Stereo | PE
+https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Telecolor TV | PE
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Tumpis TV | PE
+https://servilive.com:3531/live/tumpistvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1,TV 5 | PE
+https://live.obslivestream.com/tv5/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,TV Cosmos 15.1 | PE
+https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TVPE | PE
+https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF:-1,TVperuanisima | PE
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Unitel | PE
+https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Uranio TV | PE
+https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Via Alto Mayo TV | PE
+https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Via Television Tarapoto | PE
+https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Vision TV | PE
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,VZ TV | PE
+https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL
