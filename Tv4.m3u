@@ -7,8 +7,6 @@ http://200.110.169.237:8202/play/a01r
 http://200.110.169.237:8202/play/a022
 #EXTINF:-3,Animal Planet
 http://200.110.169.237:8202/play/a01i
-#EXTINF:-3,BETHEL
-http://200.110.169.237:8202/play/a04i
 #EXTINF:-3,BabyFirst
 http://200.110.169.237:8202/play/a00s
 #EXTINF:-3,CNN Espanol
@@ -71,18 +69,6 @@ http://200.110.169.237:8202/play/a024
 http://200.110.169.237:8202/play/a01w
 #EXTINF:-3,Fox Sports 3
 http://200.110.169.237:8202/play/a01x
-#EXTINF:-3,GamaTV
-http://200.110.169.237:8202/play/a054
-#EXTINF:-3,HBO
-http://200.110.169.237:8202/play/a01z
-#EXTINF:-3,HBO 2
-http://200.110.169.237:8202/play/a02u
-#EXTINF:-3,HBO Family
-http://200.110.169.237:8202/play/a02x
-#EXTINF:-3,HBO Plus
-http://200.110.169.237:8202/play/a02v
-#EXTINF:-3,HBO XTREME SD
-http://200.110.169.237:8202/play/a02w
 #EXTINF:-3,History Channel
 http://200.110.169.237:8202/play/a00c
 #EXTINF:-3,HomeandHealth
@@ -91,8 +77,6 @@ http://200.110.169.237:8202/play/a03w
 http://200.110.169.237:8202/play/a00f
 #EXTINF:-3,LA KALLE
 http://200.110.169.237:8202/play/a04h
-#EXTINF:-3,La Tele
-http://200.110.169.237:8202/play/a02h
 #EXTINF:-3,Lifetime
 http://200.110.169.237:8202/play/a00t
 #EXTINF:-3,MTV
@@ -105,8 +89,6 @@ http://200.110.169.237:8202/play/a02c
 http://200.110.169.237:8202/play/a00a
 #EXTINF:-3,RCN Novelas
 http://200.110.169.237:8202/play/a03q
-#EXTINF:-3,SNT
-http://200.110.169.237:8202/play/a00o
 #EXTINF:-3,STAR CHANNEL
 http://200.110.169.237:8202/play/a00j
 #EXTINF:-3,Senal Colombia
@@ -141,8 +123,6 @@ http://200.110.169.237:8202/play/a025
 http://200.110.169.237:8202/play/a02i
 #EXTINF:-3,Telecaribe
 http://200.110.169.237:8202/play/a02g
-#EXTINF:-3,Telefuturo
-http://200.110.169.237:8202/play/a04r
 #EXTINF:-3,Teleislas
 http://200.110.169.237:8202/play/a03m
 #EXTINF:-3,Telemundo
@@ -151,16 +131,8 @@ http://200.110.169.237:8202/play/a01y
 http://200.110.169.237:8202/play/a027
 #EXTINF:-3,Trece
 http://200.110.169.237:8202/play/a02j
-#EXTINF:-3,Unicanal
-http://200.110.169.237:8202/play/a02a
 #EXTINF:-3,Universal
 http://200.110.169.237:8202/play/a00e
-#EXTINF:-3,Universal Cinema SD
-http://200.110.169.237:8202/play/a033
-#EXTINF:-3,Universal Comedy SD
-http://200.110.169.237:8202/play/a034
-#EXTINF:-3,Universal Premiere SD
-http://200.110.169.237:8202/play/a032
 #EXTINF:-3,ViaX
 http://200.110.169.237:8202/play/a01u
 #EXTINF:-3,Warner
