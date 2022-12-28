@@ -12,8 +12,6 @@ http://cdn.adultiptv.net/bigtits.m3u8
 #EXTINF:-3 tvg-id="AdultIPTVnetBlonde.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Blonde (720p)
 http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-3 tvg-id="AdultIPTVnetBlowjob.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Blowjob (720p)
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-3 tvg-id="AdultIPTVnetBrunette.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Brunette (720p)
 http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-3 tvg-id="AdultIPTVnetCompilation.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Compilation (720p)
 http://cdn.adultiptv.net/compilation.m3u8
@@ -31,8 +29,6 @@ http://cdn.adultiptv.net/interracial.m3u8
 http://cdn.adultiptv.net/latina.m3u8
 #EXTINF:-3 tvg-id="AdultIPTVnetLesbian.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Lesbian (720p)
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-3 tvg-id="AdultIPTVnetLiveCams.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Live Cams (720p)
-http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-3 tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net MILF (720p)
 http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-3 tvg-id="AdultIPTVnetPornstar.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Pornstar (720p)
@@ -87,11 +83,3 @@ http://live.mycamtv.com/arab.m3u8
 http://live.mycamtv.com/squirt.m3u8
 #EXTINF:-3 tvg-id="MyCamTVWhite.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV White
 http://live.mycamtv.com/white.m3u8
-#EXTINF:-3 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/3Q3YEku.png" group-title="XXX",O-la-la [Not 24/7]
-http://92.242.14.114:4022/udp/225.0.55.234:1234
-#EXTINF:-3 tvg-id="PinkOTV.it" tvg-logo="https://i.imgur.com/QinRAGU.png" group-title="XXX",Pink'O TV (720p)
-http://w4.12all.tv:4000/play/pinkotv/index.m3u8
-#EXTINF:-3 tvg-id="RedlightHD.nl" tvg-logo="https://i.imgur.com/sU6Ty6J.png" group-title="XXX",Redlight HD (720p)
-http://w4.12all.tv:4000/play/privatetv1/index.m3u8
-#EXTINF:-3 tvg-id="XpandedTV.uk" tvg-logo="https://i.imgur.com/swETi4i.png" group-title="XXX",XpandedTV.uk (720p)
-https://vod2t.xpanded.com/x3tv2/index.m3u8
