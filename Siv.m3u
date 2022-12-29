@@ -1,65 +1,59 @@
 #EXTM3U
-#EXTINF:-3,Unknown 38
+#EXTINF:-3,Tv10
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-3,Unknown 46
+#EXTINF:-3,RCG
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-3,Unknown 47
+#EXTINF:-3,NRT | MX
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-3,Unknown 48
+#EXTINF:-3,RTQ
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-3,Unknown 50
+#EXTINF:-3,TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-#EXTINF:-3,Unknown 51
+#EXTINF:-3,TMTV
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
-#EXTINF:-3,Unknown 53
-https://archive.org/serve/videopromo_201911/videopromo.mp4
-#EXTINF:-3,Unknown 58
+#EXTINF:-3,XEXTREMA
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-3,Unknown 60
+#EXTINF:-3,WOWTV | SAL
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-3,Unknown 81
+#EXTINF:-3,ARINGAG | KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-3,Unknown 82
+#EXTINF:-3,NOTV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-3,Unknown 85
+#EXTINF:-3,TV | PE
 http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-3,Unknown 89
+#EXTINF:-3,TEN | TV
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
-#EXTINF:-3,Unknown 95
+#EXTINF:-3,G HD | GALICIA
 http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-3,Unknown 96
+#EXTINF:-3,G HD16 | GALICIA
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-3,Unknown 97
 http://video.telesafor.com/hls/video_high.m3u8
-#EXTINF:-3,Unknown 101
+#EXTINF:-3,TELECENTRO 26 | AR
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-3,Unknown 103
+#EXTINF:-3,TELECENTRO MUSIC | AR
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-3,Unknown 105
+#EXTINF:-3,LITUS TV
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-3,Unknown 106
+#EXTINF:-3,EL GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:-3,Unknown 109
+#EXTINF:-3,RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-3,Unknown 113
+#EXTINF:-3,ENGANCHE TOTAL
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-3,Unknown 117
+#EXTINF:-3,CAMPUS TV HD | CL
 http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
-#EXTINF:-3,Unknown 122
+#EXTINF:-3,PE TV
 https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-3,Unknown 124
+#EXTINF:-3,CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-3,Unknown 126
+#EXTINF:-3,IP
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-3,Unknown 127
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-3,Unknown 130
+#EXTINF:-3,TELEMAX ANIMAL
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
-#EXTINF:-3,Unknown 133
+#EXTINF:-3,AUTOMOTOR | TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-3,Unknown 135
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:-3,Unknown 158
+#EXTINF:-3,ALEGRÍA | TV
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
-#EXTINF:-3,Unknown 164
+#EXTINF:-3,MAXIMA | TV
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
