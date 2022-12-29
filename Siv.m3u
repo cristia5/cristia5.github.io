@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-3,Unknown 0
-https://i.imgur.com/QFo6Ptm.png"
-#EXTINF:-3,Unknown 1
-http://bit.ly/2Rg4VNc
-#EXTINF:-3,Unknown 3
-https://pastebin.com/raw/fB9n4WrX
 #EXTINF:-3,Unknown 38
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-3,Unknown 40
-http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-3,Unknown 46
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-3,Unknown 47
@@ -25,24 +17,12 @@ https://archive.org/serve/videopromo_201911/videopromo.mp4
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-3,Unknown 60
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-3,Unknown 62
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-#EXTINF:-3,Unknown 63
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
-#EXTINF:-3,Unknown 77
-http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
-#EXTINF:-3,Unknown 80
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-3,Unknown 81
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-3,Unknown 82
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-3,Unknown 83
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 #EXTINF:-3,Unknown 85
 http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-3,Unknown 86
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-3,Unknown 89
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 #EXTINF:-3,Unknown 95
@@ -65,51 +45,25 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:-3,Unknown 113
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-3,Unknown 116
-http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
 #EXTINF:-3,Unknown 117
 http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
-#EXTINF:-3,Unknown 119
-http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
 #EXTINF:-3,Unknown 122
 https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-3,Unknown 124
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-3,Unknown 125
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-3,Unknown 126
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-3,Unknown 127
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-3,Unknown 130
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
-#EXTINF:-3,Unknown 131
-http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
-#EXTINF:-3,Unknown 132
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 #EXTINF:-3,Unknown 133
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-3,Unknown 135
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:-3,Unknown 138
-http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-#EXTINF:-3,Unknown 139
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 #EXTINF:-3,Unknown 143
 http://i.imgur.com/VWctVbq.mp4
-#EXTINF:-3,Unknown 151
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-#EXTINF:-3,Unknown 153
-http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 #EXTINF:-3,Unknown 158
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
-#EXTINF:-3,Unknown 162
-http://unlimited11-cl.dps.live/duna/aac/icecast.audio
-#EXTINF:-3,Unknown 163
-http://tunein.digitalproserver.com/laclavebb.aac
 #EXTINF:-3,Unknown 164
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
-#EXTINF:-3,Unknown 165
-http://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8
-#EXTINF:-3,Unknown 167
-http://unlimited1-us.dps.live/radiopaula/go/audio/now/livestream1.m3u8
