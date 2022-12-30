@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-3 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png",Ecuavisa (1080p)
+#EXTINF:-3 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png",Ecuavisa HD
 http://200.24.132.99:8000/play/a012
 #EXTINF:-3,RTS HD
 http://200.24.132.99:8000/play/a004
