@@ -13,7 +13,7 @@ http://200.24.132.99:8000/play/a02h
 http://200.24.132.99:8000/play/a008
 #EXTINF:-3,GOL TV
 http://200.24.132.99:8000/play/a023
-#EXTINF:-3,Ecuavisa SD
+#EXTINF:-3 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png",Ecuavisa (720p)
 http://200.24.132.99:8000/play/a013
 #EXTINF:-3,Teleamazonas SD
 http://200.24.132.99:8000/play/a00n
