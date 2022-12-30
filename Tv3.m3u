@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-3,Ecuavisa HD
+#EXTINF:-3 tvg-id="Ecuavisa.ec" ,Ecuavisa HD
 http://200.24.132.99:8000/play/a012
 #EXTINF:-3,RTS HD
 http://200.24.132.99:8000/play/a004
