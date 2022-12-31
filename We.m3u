@@ -59,7 +59,7 @@ http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
 #EXTINF:-3,ESPN 2 OK
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(01)/index.m3u8
 #EXTINF:-3,DXTV DEPORTES
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+http://186.33.227.198/DXTV/smil:DXTV.smil/Dxtv/iptv.m3u8
 #EXTINF:-3,DXTV DEPORTES
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 #EXTINF:-3,CDO DEPORTES
