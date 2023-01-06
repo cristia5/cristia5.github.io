@@ -1,66 +1,28 @@
 #EXTM3U
 #EXTINF:-3 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png",Ecuavisa HD
 http://200.24.132.99:8000/play/a012
-#EXTINF:-3,RTS HD
-http://200.24.132.99:8000/play/a004
+#EXTINF:-3,RTS
+http://200.24.132.99:8000/play/a02s
 #EXTINF:-3,TELEAMAZONAS HD
 http://200.24.132.99:8000/play/a006
-#EXTINF:-3,ECTV HD
-http://200.24.132.99:8000/play/a00f
 #EXTINF:-3,GamaTV
 http://200.24.132.99:8000/play/a02h
-#EXTINF:-3,TC HD
-http://200.24.132.99:8000/play/a008
-#EXTINF:-3,GOL TV
-http://200.24.132.99:8000/play/a023
-#EXTINF:-3 tvg-id="Ecuavisa.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png",Ecuavisa (720p)
-http://200.24.132.99:8000/play/a013
-#EXTINF:-3,Teleamazonas SD
-http://200.24.132.99:8000/play/a00n
 #EXTINF:-3,ECTV SD
 hhttp://200.24.132.99:8000/play/a00j
 #EXTINF:-3,Tc Television SD
 http://200.24.132.99:8000/play/a00m
-#EXTINF:-3,Ecuavisa
-http://200.24.132.99:8000/play/a02k
-#EXTINF:-3,RTS
-http://200.24.132.99:8000/play/a02s
-#EXTINF:-3,Teleamazonas
-http://200.24.132.99:8000/play/a02l
-#EXTINF:-3,Ecuador TV
-http://200.24.132.99:8000/play/a02g
-#EXTINF:-3,TC Television
-http://200.24.132.99:8000/play/a02j
 #EXTINF:-3,ESPN CO
 http://200.24.132.99:8000/play/a02m
 #EXTINF:-3,ESPN
 http://200.24.132.99:8000/play/a022
-#EXTINF:-3,ESPN 2
-http://200.24.132.99:8000/play/a01v
-#EXTINF:-3,ESPN 2 Latin
-http://200.24.132.99:8000/play/a021
-#EXTINF:-3,ESPN 3
-http://200.24.132.99:8000/play/a02w
-#EXTINF:-3,ESPN 4
-http://200.24.132.99:8000/play/a02f
-#EXTINF:-3,Fox Sports 2
-http://200.24.132.99:8000/play/a028
 #EXTINF:-3,Fox Sports 3
 http://200.24.132.99:8000/play/a029
-#EXTINF:-3,RCN
-http://200.110.169.237:8202/play/a039
-#EXTINF:-3,RCN Novelas
-http://200.24.132.99:8000/play/a02b
-#EXTINF:-3,Venevision VE
-http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3,Canal i VE
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3,Caracol CO
-http://200.110.169.237:8202/play/a038
-#EXTINF:-3,Cali TV CO
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3,Telemundo
-http://200.24.132.99:8000/play/a02a
+#EXTINF:-3 tvg-id="DOS COÑOS DOS POLLAS FOLLANDO" tvg-logo="https://img-cf.xvideos-cdn.com/videos/thumbs169ll/b2/34/03/b234037f1abacecd67593b2710be124d/b234037f1abacecd67593b2710be124d.5.jpg",DOS COÑOS DOS POLLAS FOLLANDO PELÍCULA (1080p)
+https://cdn77-vid.xvideos-cdn.com/550pTtS8W3N-evlZx1LG-A==,1672999117/videos/hls/b2/34/03/b234037f1abacecd67593b2710be124d/hls-1080p-88fd7.m3u8
+#EXTINF:-3 tvg-id="PELÍCULA DE FOLLADA DE GANGBANG SUPER LARGA" tvg-logo="https://img-cf.xvideos-cdn.com/videos/thumbs169ll/07/0e/cb/070ecbc328c957c81393a12fa2158b1c/070ecbc328c957c81393a12fa2158b1c.14.jpg",PELÍCULA DE FOLLADA DE GANGBANG SUPER LARGA (1080p)
+https://hls6-cf.xvideos-cdn.com/b4d60ff01d5bb4a71552222f93551efd7ca3948b-1673000320/videos/hls/07/0e/cb/070ecbc328c957c81393a12fa2158b1c/hls-1080p-8d52a.m3u8
+#EXTINF:-3 tvg-id="Trio con mis hermanastras mucho sexo con estas putas" tvg-logo="https://img-cf.xvideos-cdn.com/videos/thumbs169ll/8c/ba/0b/8cba0b5230cc7bd07e40963ef1ff12d4/8cba0b5230cc7bd07e40963ef1ff12d4.26.jpg",Trio con mis hermanastras mucho sexo con estas putas (1080p)
+https://cdn77-vid.xvideos-cdn.com/jUIxCQDt3CTyGNTwJkTFlQ==,1673000695/videos/hls/8c/ba/0b/8cba0b5230cc7bd07e40963ef1ff12d4/hls-1080p-51d7e.m3u8
 #EXTINF:-3,Nat Geo
 http://200.24.132.99:8000/play/a01d
 #EXTINF:-3,Discovery Channel
@@ -93,41 +55,3 @@ http://200.24.132.99:8000/play/a01w
 http://200.24.132.99:8000/play/a01u
 #EXTINF:-3,E Entertainment
 http://200.24.132.99:8000/play/a020
-#EXTINF:-3,Enlace
-http://200.24.132.99:8000/play/a01o
-#EXTINF:-3,Esne TV
-http://200.24.132.99:8000/play/a02v
-#EXTINF:-3,FX
-http://200.24.132.99:8000/play/a02r
-#EXTINF:-3,France 24
-http://200.24.132.99:8000/play/a02c
-#EXTINF:-3,HomeandHealth
-http://200.24.132.99:8000/play/a02e
-#EXTINF:-3,I-Sat
-http://200.24.132.99:8000/play/a01h
-#EXTINF:-3,MTV
-http://200.24.132.99:8000/play/a01i
-#EXTINF:-3,Nick Jr
-http://200.24.132.99:8000/play/a02t
-#EXTINF:-3,Nickelodeon
-http://200.24.132.99:8000/play/a01b
-#EXTINF:-3,Sony
-http://200.24.132.99:8000/play/a02o
-#EXTINF:-3,Space
-http://200.24.132.99:8000/play/a02q
-#EXTINF:-3,TBS
-http://200.24.132.99:8000/play/a02d
-#EXTINF:-3,TCM
-http://200.24.132.99:8000/play/a01k
-#EXTINF:-3,TNT
-http://200.24.132.99:8000/play/a01n
-#EXTINF:-3,TVE
-http://200.24.132.99:8000/play/a01p
-#EXTINF:-3,TyC
-http://200.24.132.99:8000/play/a024
-#EXTINF:-3,Universal
-http://200.24.132.99:8000/play/a01g
-#EXTINF:-3,Warner
-http://200.24.132.99:8000/play/a01z
-#EXTINF:-3,Zona Latina
-http://200.24.132.99:8000/play/a01j
