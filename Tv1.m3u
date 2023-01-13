@@ -1,13 +1,11 @@
 #EXTM3U
 #EXTINF:-3,24 Horas
 http://45.232.210.1:8062/play/a08l/index.m3u8
-#EXTINF:-3,AE Mundo
+#EXTINF:-3,Twich Savitar
+https://dgeft87wbj63p.cloudfront.net/0508dd532edebc24303b_s4vitaar_46490113100_1673366798/720p60/index-dvr.m3u8
 #EXTINF:-3,Globovisión
-https://youtu.be/yKK25txGsHo
 http://45.232.210.1:8062/play/a08y/index.m3u8
 #EXTINF:-3,Animal Planet
-#EXTINF:-3,YOUTUBE
-https://www.youtube.com/embed/Y7Vl9EWbrfQ
 http://45.232.210.1:8062/play/a08p/index.m3u8
 #EXTINF:-3,AXN
 http://45.232.210.1:8062/play/a0b6/index.m3u8
