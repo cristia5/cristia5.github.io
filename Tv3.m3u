@@ -25,6 +25,8 @@ https://hls4-cf.xvideos-cdn.com/62dcf3212f016467463992a98a2b550e9846e480-1674880
 https://hls3-cf.xvideos-cdn.com/12aa9e33d5a02a63f177f6280bb0ab11c6a426a6-1674879952/videos/hls/7a/eb/01/7aeb019fc861878aef74a61a850f85b7-1/hls.m3u8
 #EXTINF:-3,Nat Geo
 http://200.24.132.99:8000/play/a01d
+#EXTINF:-3,Getafe
+https://panda-live-b563adec099d.b-cdn.net/c88d0e21-1a31-45a7-a13c-7eb93b220745_src/index.m3u8
 #EXTINF:-3,Discovery Channel
 http://200.24.132.99:8000/play/a01x
 #EXTINF:-3,History Channel
