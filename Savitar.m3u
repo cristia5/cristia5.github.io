@@ -1,9 +1,33 @@
 #EXTM3U
 #EXTINF:-3,Twvivo
-https://usher.ttvnw.net/api/channel/hls/ladymestra_.m3u8?player_type=pulsar&player_backend=mediaplayer&playlist_include_framerate=true&allow_source=true&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ladymestra_%22%2C%22channel_id%22%3A738951170%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%22archives%22%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22MtAxiQqfC90xhyYGkoB9yDqPzpq9PQhc%22%2C%22expires%22%3A1674981673%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A564711697%2C%22user_ip%22%3A%22181.199.44.160%22%2C%22version%22%3A2%7D&sig=6b3ea7207466a3c7a4f1bc1c79edbdf2735a3749&cdm=wv&player_version=1.16.0
+
 #EXTINF:-3,Hacking y Ciberseguridad10|01
 https://dgeft87wbj63p.cloudfront.net/0508dd532edebc24303b_s4vitaar_46490113100_1673366798/720p60/index-dvr.m3u8
+#EXTINF:-3,Hacking y Ciberseguridad11|01
+https://dgeft87wbj63p.cloudfront.net/4c553b452efb8c089455_s4vitaar_46493598796_1673452728/720p60/index-dvr.m3u8
+#EXTINF:-3,Hacking y Ciberseguridad12|01
+https://dgeft87wbj63p.cloudfront.net/8edc3d026807d764d72c_s4vitaar_46497083580_1673539060/720p60/index-dvr.m3u8
+#EXTINF:-3,Hacking y Ciberseguridad15|01
+https://dgeft87wbj63p.cloudfront.net/e000de188e16d20d45d3_s4vitaar_46509406076_1673799701/720p60/index-dvr.m3u8
+#EXTINF:-3,Hacking y Ciberseguridad16|01
+https://dgeft87wbj63p.cloudfront.net/c174d89d113d30ec88eb_s4vitaar_46512457452_1673884895/720p60/index-dvr.m3u8
+#EXTINF:-3,Hacking y Ciberseguridad17|01
+https://dgeft87wbj63p.cloudfront.net/b1c7a30baf3a8877e3a3_s4vitaar_46515912092_1673971071/720p60/index-dvr.m3u8
+#EXTINF:-3,Hacking y Ciberseguridad18|01
+https://dgeft87wbj63p.cloudfront.net/6fe11e34f8021b7a2ccc_s4vitaar_46519621468_1674060403/720p60/index-dvr.m3u8
+#EXTINF:-3,Hacking y Ciberseguridad22|01
+https://dgeft87wbj63p.cloudfront.net/81c6fad8c7f6db88bef2_s4vitaar_46535514284_1674403069/720p60/index-dvr.m3u8
+#EXTINF:-3,Hacking y Ciberseguridad23|01
+https://dgeft87wbj63p.cloudfront.net/faea9dbabf9a24f38a59_s4vitaar_46538793628_1674490269/720p60/index-dvr.m3u8
+#EXTINF:-3,Hacking y Ciberseguridad25|01
+https://dgeft87wbj63p.cloudfront.net/80fe289ddfc523cca175_s4vitaar_46545795340_1674662270/720p60/index-dvr.m3u8
+#EXTINF:-3,Hacking y Ciberseguridad26|01
+https://dgeft87wbj63p.cloudfront.net/3686a6ff56c3fd331b3e_s4vitaar_46549380940_1674749195/720p60/index-dvr.m3u8
+#EXTINF:-3,Hacking y Ciberseguridad28|01
+https://dgeft87wbj63p.cloudfront.net/a44316c8bb8c04085d00_s4vitaar_46557532540_1674921559/720p60/index-dvr.m3u8
 #EXTINF:-3,Probando herramientas01
-https://dgeft87wbj63p.cloudfront.net/39502aa16f5cfc089459_s4vitaar_46526614220_1674230230/720p60/index-dvr.m3u8
+https://dgeft87wbj63p.cloudfront.net/5e20e992f00877e07aac_s4vitaar_46500700300_1673628251/720p60/index-dvr.m3u8
 #EXTINF:-3,Probando herramientas02
+https://dgeft87wbj63p.cloudfront.net/39502aa16f5cfc089459_s4vitaar_46526614220_1674230230/720p60/index-dvr.m3u8
+#EXTINF:-3,Probando herramientas03
 https://dgeft87wbj63p.cloudfront.net/985977ae982e3481ae61_s4vitaar_46552968076_1674835451/720p60/index-dvr.m3u8
