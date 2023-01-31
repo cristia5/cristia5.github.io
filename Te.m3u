@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:-3,Ecuavisa HD
+http://200.24.132.99:8000/play/a012
+#EXTINF:-3,RTS HD
+http://200.24.132.99:8000/play/a004
+#EXTINF:-3,TELEAMAZONAS HD
+http://200.24.132.99:8000/play/a006
+#EXTINF:-3,ECTV HD
+http://200.24.132.99:8000/play/a00f
+#EXTINF:-3,GamaTV
+http://200.24.132.99:8000/play/a02h
+#EXTINF:-3,TC HD
+http://200.24.132.99:8000/play/a008
+#EXTINF:-3,GOL TV
+http://200.24.132.99:8000/play/a023
+#EXTINF:-3,Ecuavisa SD
+http://200.24.132.99:8000/play/a013
+#EXTINF:-3,Teleamazonas SD
+http://200.24.132.99:8000/play/a00n
+#EXTINF:-3,ECTV SD
+hhttp://200.24.132.99:8000/play/a00j
+#EXTINF:-3,Tc Television SD
+http://200.24.132.99:8000/play/a00m
+#EXTINF:-3,Ecuavisa
+http://200.24.132.99:8000/play/a02k
+#EXTINF:-3,RTS
+http://200.24.132.99:8000/play/a02s
+#EXTINF:-3,Teleamazonas
+http://200.24.132.99:8000/play/a02l
+#EXTINF:-3,Ecuador TV
+http://200.24.132.99:8000/play/a02g
+#EXTINF:-3,TC Television
+http://200.24.132.99:8000/play/a02j
+#EXTINF:-3,ESPN HD
+http://45.232.211.196:1080/play/a058
+#EXTINF:-3,ESPN 2 Latin HD
+http://45.232.211.196:1080/play/a045
+#EXTINF:-3,ESPN 2 HD
+http://45.232.211.196:1080/play/a04l
+#EXTINF:-3,ESPN 3 HD
+http://45.232.211.196:1080/play/a04i
+#EXTINF:-3,ESPN 4 HD
+http://45.232.211.196:1080/play/a051
+#EXTINF:-3,ESPN EXTRA HD
+http://45.232.211.196:1080/play/a05i
+#EXTINF:-3,History Channel HD
+http://45.232.211.196:1080/play/a03u
+#EXTINF:-3,Nat Geo HD
+http://45.232.211.196:1080/play/a05e
+#EXTINF:-3,ESPN CO
+http://200.24.132.99:8000/play/a02m
+#EXTINF:-3,ESPN
+http://200.24.132.99:8000/play/a022
+#EXTINF:-3,ESPN 2
+http://200.24.132.99:8000/play/a01v
+#EXTINF:-3,ESPN 2 Latin
+http://200.24.132.99:8000/play/a021
+#EXTINF:-3,ESPN 3
+http://200.24.132.99:8000/play/a02w
+#EXTINF:-3,ESPN 4
+http://200.24.132.99:8000/play/a02f
+#EXTINF:-3,Fox Sports 2
+http://200.24.132.99:8000/play/a028
+#EXTINF:-3,Fox Sports 3
+http://200.24.132.99:8000/play/a029
+#EXTINF:-3,RCN HD
+http://45.232.211.196:1080/play/a059
+#EXTINF:-3,RCN Novelas
+http://200.24.132.99:8000/play/a02b
+#EXTINF:-3,Venevision VE
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Canal i VE
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Caracol CO
+http://200.110.169.237:8202/play/a038
+#EXTINF:-3,Cali TV CO
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Telemundo
+http://200.24.132.99:8000/play/a02a
+#EXTINF:-3,Nat Geo
+http://200.24.132.99:8000/play/a01d
+#EXTINF:-3,Discovery Channel
+http://200.24.132.99:8000/play/a01x
+#EXTINF:-3,History Channel
+http://200.24.132.99:8000/play/a01e
+#EXTINF:-3,Canal Estrellas
+http://200.24.132.99:8000/play/a027
+#EXTINF:-3,CNN Espanol
+http://200.24.132.99:8000/play/a01q
+#EXTINF:-3,AE Mundo
+http://200.24.132.99:8000/play/a025
+#EXTINF:-3,AXN
+http://200.24.132.99:8000/play/a02p
+#EXTINF:-3,Animal Planet
+http://200.24.132.99:8000/play/a01y
+#EXTINF:-3,Cartoon Network
+http://200.24.132.99:8000/play/a01m
+#EXTINF:-3,Cinecanal
+http://200.24.132.99:8000/play/a01f
+#EXTINF:-3,Cinemax
+http://200.24.132.99:8000/play/a02n
+#EXTINF:-3,Discovery Kids
+http://200.24.132.99:8000/play/a01s
+#EXTINF:-3,Discovery Turbo
+http://200.24.132.99:8000/play/a02u
+#EXTINF:-3,Disney Channel
+http://200.24.132.99:8000/play/a01w
+#EXTINF:-3,Disney Jr
+http://200.24.132.99:8000/play/a01u
+#EXTINF:-3,Disney XD
+http://200.24.132.99:8000/play/a01c
+#EXTINF:-3,E Entertainment
+http://200.24.132.99:8000/play/a020
+#EXTINF:-3,Enlace
+http://200.24.132.99:8000/play/a01o
+#EXTINF:-3,Esne TV
+http://200.24.132.99:8000/play/a02v
+#EXTINF:-3,FX
+http://200.24.132.99:8000/play/a02r
+#EXTINF:-3,FXM
+http://200.24.132.99:8000/play/a01t
+#EXTINF:-3,France 24
+http://200.24.132.99:8000/play/a02c
+#EXTINF:-3,HomeandHealth
+http://200.24.132.99:8000/play/a02e
+#EXTINF:-3,I-Sat
+http://200.24.132.99:8000/play/a01h
+#EXTINF:-3,MTV
+http://200.24.132.99:8000/play/a01i
+#EXTINF:-3,NatGeo Kids
+http://200.24.132.99:8000/play/a01l
+#EXTINF:-3,Nick Jr
+http://200.24.132.99:8000/play/a02t
+#EXTINF:-3,Nickelodeon
+http://200.24.132.99:8000/play/a01b
+#EXTINF:-3,Sony
+http://200.24.132.99:8000/play/a02o
+#EXTINF:-3,Space
+http://200.24.132.99:8000/play/a02q
+#EXTINF:-3,TBS
+http://200.24.132.99:8000/play/a02d
+#EXTINF:-3,TCM
+http://200.24.132.99:8000/play/a01k
+#EXTINF:-3,TNT
+http://200.24.132.99:8000/play/a01n
+#EXTINF:-3,TVE
+http://200.24.132.99:8000/play/a01p
+#EXTINF:-3,TyC
+http://200.24.132.99:8000/play/a024
+#EXTINF:-3,Universal
+http://200.24.132.99:8000/play/a01g
+#EXTINF:-3,Warner
+http://200.24.132.99:8000/play/a01z
+#EXTINF:-3,Zona Latina
+http://200.24.132.99:8000/play/a01j
