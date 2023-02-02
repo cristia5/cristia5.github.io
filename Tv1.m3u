@@ -15,8 +15,8 @@ http://45.232.210.1:8062/play/a093/index.m3u8
 http://45.232.210.1:8062/play/a09m/index.m3u8
 #EXTINF:-3,CDF Basico
 http://45.232.210.1:8062/play/a08x/index.m3u8
-#EXTINF:-3,Platzidata
-https://mdstrm.com/live-stream-playlist/62befebb2e6d7b082b6c8602.m3u8?uid=TPETwZNCilpxUVB7nZhlAGD4tWQvTvtM&sid=TlT8zAu8jlQHKI42bHsgsKQAGWMFZoyT&pid=ihFrmp1Fyg2ct73HJhEWz8aBo4vL0huo&an=screen&at=web-app&av=v5.2.316&ref=https%3A%2F%2Fplatzi.com%2Flive%2Fmartes-de-datos-3101%2F&res=648x364&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-3,Platzilive
+https://mdstrm.com/live-stream-playlist/63600e0dde89b8089a6b863f.m3u8?uid=bsBlI5684VlSq4TSSSGKpXGZV3S9lWCF&sid=VHXh3wkEHG0MmrAwFl5Bg32WuYssPlLc&pid=IV755KOapwoQYi5D43mGN2hiGL6Puy6v&an=screen&at=web-app&av=v5.2.316&ref=https%3A%2F%2Fplatzi.com%2Flive%2F&res=648x364&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-3,CDF HD
 http://45.232.210.1:8062/play/a05l/index.m3u8
 #EXTINF:-3,platzi
