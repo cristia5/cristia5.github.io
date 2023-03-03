@@ -63,97 +63,97 @@ http://200.24.132.99:8000/play/a02f
 http://200.24.132.99:8000/play/a028
 #EXTINF:-3 group-title="Fútbol",Fox Sports 3
 http://200.24.132.99:8000/play/a029
-#EXTINF:-3,RCN HD
+#EXTINF:-3 group-title="Colombia",RCN HD
 http://45.232.211.196:1080/play/a059
-#EXTINF:-3,RCN Novelas
+#EXTINF:-3 group-title="Colombia",RCN Novelas
 http://200.24.132.99:8000/play/a02b
-#EXTINF:-3,Venevision VE
+#EXTINF:-3 group-title="Venezuela",Venevision VE
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3,Canal i VE
+#EXTINF:-3 group-title="Venezuela",Canal i VE
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3,Caracol CO
+#EXTINF:-3 group-title="Colombia",Caracol CO
 http://200.110.169.237:8202/play/a038
-#EXTINF:-3,Cali TV CO
+#EXTINF:-3 group-title="Colombia",Cali TV CO
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3,Canal 13 Cl
+#EXTINF:-3 group-title="Chile",Canal 13 Cl
 https://panel.miplay.cl:8081/c13/index.m3u8?PlaylistM3UCL
-#EXTINF:-3,Contacto Deportivo PE
+#EXTINF:-3 group-title="Perú",Contacto Deportivo PE
 https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
-#EXTINF:-3,Telemundo
+#EXTINF:-3 group-title="Noticias",Telemundo
 http://200.24.132.99:8000/play/a02a
-#EXTINF:-3,Nat Geo
+#EXTINF:-3 group-title="Educación",Nat Geo
 http://200.24.132.99:8000/play/a01d
-#EXTINF:-3,Discovery Channel
+#EXTINF:-3 group-title="Educación",Discovery Channel
 http://200.24.132.99:8000/play/a01x
-#EXTINF:-3,History Channel
+#EXTINF:-3 group-title="Educación",History Channel
 http://200.24.132.99:8000/play/a01e
-#EXTINF:-3,Canal Estrellas
+#EXTINF:-3 group-title="México",Canal Estrellas
 http://200.24.132.99:8000/play/a027
-#EXTINF:-3,CNN Espanol
+#EXTINF:-3 group-title="Noticias",CNN Espanol
 http://200.24.132.99:8000/play/a01q
-#EXTINF:-3,AE Mundo
+#EXTINF:-3 group-title="Películas",AE Mundo
 http://200.24.132.99:8000/play/a025
-#EXTINF:-3,AXN
+#EXTINF:-3 group-title="Películas",AXN
 http://200.24.132.99:8000/play/a02p
-#EXTINF:-3,Animal Planet
+#EXTINF:-3 group-title="Educación",Animal Planet
 http://200.24.132.99:8000/play/a01y
-#EXTINF:-3,Cartoon Network
+#EXTINF:-3 group-title="Infantil",Cartoon Network
 http://200.24.132.99:8000/play/a01m
-#EXTINF:-3,Cinecanal
+#EXTINF:-3 group-title="Películas",Cinecanal
 http://200.24.132.99:8000/play/a01f
-#EXTINF:-3,Cinemax
+#EXTINF:-3 group-title="Películas",Cinemax
 http://200.24.132.99:8000/play/a02n
-#EXTINF:-3,Discovery Kids
+#EXTINF:-3 group-title="Educación",Discovery Kids
 http://200.24.132.99:8000/play/a01s
-#EXTINF:-3,Discovery Turbo
+#EXTINF:-3 group-title="Educación",Discovery Turbo
 http://200.24.132.99:8000/play/a02u
-#EXTINF:-3,Disney Channel
+#EXTINF:-3 group-title="Educación",Disney Channel
 http://200.24.132.99:8000/play/a01w
-#EXTINF:-3,Disney Jr
+#EXTINF:-3 group-title="Educación",Disney Jr
 http://200.24.132.99:8000/play/a01u
-#EXTINF:-3,Disney XD
+#EXTINF:-3 group-title="Infantil",Disney XD
 http://200.24.132.99:8000/play/a01c
-#EXTINF:-3,E Entertainment
+#EXTINF:-3 group-title="Entretenimiento",E Entertainment
 http://200.24.132.99:8000/play/a020
-#EXTINF:-3,Enlace
+#EXTINF:-3 group-title="Religión",Enlace
 http://200.24.132.99:8000/play/a01o
-#EXTINF:-3,Esne TV
+#EXTINF:-3 group-title="Entretenimiento",Esne TV
 http://200.24.132.99:8000/play/a02v
-#EXTINF:-3,FX
+#EXTINF:-3 group-title="Películas",FX
 http://200.24.132.99:8000/play/a02r
-#EXTINF:-3,FXM
+#EXTINF:-3 group-title="Películas",FXM
 http://200.24.132.99:8000/play/a01t
-#EXTINF:-3,France 24
+#EXTINF:-3 group-title="Noticias",France 24
 http://200.24.132.99:8000/play/a02c
-#EXTINF:-3,HomeandHealth
+#EXTINF:-3 group-title="Cocina",HomeandHealth
 http://200.24.132.99:8000/play/a02e
-#EXTINF:-3,I-Sat
+#EXTINF:-3 group-title="Películas",I-Sat
 http://200.24.132.99:8000/play/a01h
-#EXTINF:-3,MTV
+#EXTINF:-3 group-title="Música",MTV
 http://200.24.132.99:8000/play/a01i
-#EXTINF:-3,NatGeo Kids
+#EXTINF:-3 group-title="Infantil",NatGeo Kids
 http://200.24.132.99:8000/play/a01l
-#EXTINF:-3,Nick Jr
+#EXTINF:-3 group-title="Infantil",Nick Jr
 http://200.24.132.99:8000/play/a02t
-#EXTINF:-3,Nickelodeon
+#EXTINF:-3 group-title="Infantil",Nickelodeon
 http://200.24.132.99:8000/play/a01b
-#EXTINF:-3,Sony
+#EXTINF:-3 group-title="Películas",Sony
 http://200.24.132.99:8000/play/a02o
-#EXTINF:-3,Space
+#EXTINF:-3 group-title="Películas",Space
 http://200.24.132.99:8000/play/a02q
-#EXTINF:-3,TBS
+#EXTINF:-3 group-title="Películas",TBS
 http://200.24.132.99:8000/play/a02d
-#EXTINF:-3,TCM
+#EXTINF:-3 group-title="Películas",TCM
 http://200.24.132.99:8000/play/a01k
-#EXTINF:-3,TNT
+#EXTINF:-3 group-title="Películas",TNT
 http://200.24.132.99:8000/play/a01n
-#EXTINF:-3,TVE
+#EXTINF:-3 group-title="Noticias",TVE
 http://200.24.132.99:8000/play/a01p
-#EXTINF:-3,TyC
+#EXTINF:-3 group-title="Películas",TyC
 http://200.24.132.99:8000/play/a024
-#EXTINF:-3,Universal
+#EXTINF:-3 group-title="Películas",Universal
 http://200.24.132.99:8000/play/a01g
-#EXTINF:-3,Warner
+#EXTINF:-3 group-title="Películas",Warner
 http://200.24.132.99:8000/play/a01z
-#EXTINF:-3,Zona Latina
+#EXTINF:-3 group-title="Películas",Zona Latina
 http://200.24.132.99:8000/play/a01j
