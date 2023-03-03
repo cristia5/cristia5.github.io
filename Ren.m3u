@@ -3,15 +3,15 @@
 http://200.24.132.99:8000/play/a012
 #EXTINF:-3 group-title="Ecuador",RTS HD
 http://200.24.132.99:8000/play/a004
-#EXTINF:-3,TELEAMAZONAS HD
+#EXTINF:-3 group-title="Ecuador",TELEAMAZONAS HD
 http://200.24.132.99:8000/play/a006
-#EXTINF:-3,ECTV HD
+#EXTINF:-3 group-title="Ecuador",ECTV HD
 http://200.24.132.99:8000/play/a00f
-#EXTINF:-3,GamaTV
+#EXTINF:-3 group-title="Ecuador",GamaTV
 http://200.24.132.99:8000/play/a02h
-#EXTINF:-3,TC HD
+#EXTINF:-3 group-title="Ecuador",TC HD
 http://200.24.132.99:8000/play/a008
-#EXTINF:-3,GOL TV
+#EXTINF:-3 group-title="Fútbol",GOL TV
 http://200.24.132.99:8000/play/a023
 #EXTINF:-3,Ecuavisa SD
 http://200.24.132.99:8000/play/a013
