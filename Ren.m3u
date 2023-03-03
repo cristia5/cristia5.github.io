@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-3 group-title="Ecuador",Ecuavisa HD
 http://200.24.132.99:8000/play/a012
-#EXTINF:-3 group-title="Indefinido",RTS HD
+#EXTINF:-3 group-title="Ecuador",RTS HD
 http://200.24.132.99:8000/play/a004
 #EXTINF:-3,TELEAMAZONAS HD
 http://200.24.132.99:8000/play/a006
