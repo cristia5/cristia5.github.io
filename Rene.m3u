@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-3 11 - Repretel
+#EXTINF:-3 group-title="México",Repretel
 http://190.149.66.90:16000/play/a026/index.m3u8
-#EXTINF:-3 4 - Repretel
+#EXTINF:-3 group-title="México",Repretel
 http://190.149.66.90:16000/play/a02y/index.m3u8
-#EXTINF:-3 42 - Extra TV 42
+#EXTINF:-3 group-title="Música",Extra TV
 http://190.149.66.90:16000/play/a004/index.m3u8
-#EXTINF:-3 6 - Repretel
+#EXTINF:-3 group-title="México",Reprete6
 http://190.149.66.90:16000/play/a025/index.m3u8
-#EXTINF:-3 A&E
+#EXTINF:-3 group-title="Películas",A&E
 http://190.149.66.90:16000/play/a034/index.m3u8
-#EXTINF:-3 A&E HD
+#EXTINF:-3 group-title="Películas",A&E HD
 http://190.149.66.90:16000/play/a01l/index.m3u8
-#EXTINF:-3 AMC
+#EXTINF:-3 group-title="Películas",AMC
 http://190.149.66.90:16000/play/a016/index.m3u8
-#EXTINF:-3 AMC HD
+#EXTINF:-3 group-title="Películas",AMC HD
 http://190.149.66.90:16000/play/a01m/index.m3u8
-#EXTINF:-3 AXN
+#EXTINF:-3 group-title="Películas",AXN
 http://190.149.66.90:16000/play/a014/index.m3u8
-#EXTINF:-3 AXN HD
+#EXTINF:-3 group-title="Películas",AXN HD
 http://190.149.66.90:16000/play/a04r/index.m3u8
-#EXTINF:-3 AZ click HD
+#EXTINF:-3 group-title="México",AZ click HD
 http://190.149.66.90:16000/play/a01s/index.m3u8
-#EXTINF:-3 Animal Planet
+#EXTINF:-3 group-title="Educación",Animal Planet
 http://190.149.66.90:16000/play/a037/index.m3u8
-#EXTINF:-3 Animal Planet HD
+#EXTINF:-3 group-title="Educación",Animal Planet HD
 http://190.149.66.90:16000/play/a01j/index.m3u8
-#EXTINF:-3 Antena 7- RD
+#EXTINF:-3 group-title="Noticias",Antena 7- RD
 http://190.149.66.90:16000/play/a00m/index.m3u8
 #EXTINF:-3 Azcorazon
 http://190.149.66.90:16000/play/a00v/index.m3u8
