@@ -27,123 +27,123 @@ http://190.149.66.90:16000/play/a037/index.m3u8
 http://190.149.66.90:16000/play/a01j/index.m3u8
 #EXTINF:-3 group-title="Noticias",Antena 7- RD
 http://190.149.66.90:16000/play/a00m/index.m3u8
-#EXTINF:-3 Azcorazon
+#EXTINF:-3 group-title="México",Azcorazon
 http://190.149.66.90:16000/play/a00v/index.m3u8
-#EXTINF:-3 Azmundo
+#EXTINF:-3 group-title="México",Azmundo
 http://190.149.66.90:16000/play/a030/index.m3u8
-#EXTINF:-3 BBC World
+#EXTINF:-3 group-title="Noticias",BBC World
 http://190.149.66.90:16000/play/a018/index.m3u8
-#EXTINF:-3 Baby First
+#EXTINF:-3 group-title="Infantil",Baby First
 http://190.149.66.90:16000/play/a028/index.m3u8
-#EXTINF:-3 CARTOON NT HD
+#EXTINF:-3 group-title="Infantil",CARTOON NT HD
 http://190.149.66.90:16000/play/a00b/index.m3u8
-#EXTINF:-3 CDN2- RD
+#EXTINF:-3 group-title="Fútbol",CDN2- RD
 http://190.149.66.90:16000/play/a01z/index.m3u8
-#EXTINF:-3 CDN37 - RD
+#EXTINF:-3 group-title="Fútbol",CDN37 - RD
 http://190.149.66.90:16000/play/a02x/index.m3u8
-#EXTINF:-3 CINECANAL HD
+#EXTINF:-3 group-title="Películas",CINECANAL HD
 http://190.149.66.90:16000/play/a03h/index.m3u8
-#EXTINF:-3 CNNE
+#EXTINF:-3 group-title="Noticias",CNNE
 http://190.149.66.90:16000/play/a017/index.m3u8
-#EXTINF:-3 Canal 11 - GUA
+#EXTINF:-3 group-title="México",Canal 11 - GUA
 http://190.149.66.90:16000/play/a01x/index.m3u8
-#EXTINF:-3 Canal 13-GUA
+#EXTINF:-3 group-title="México",Canal 13-GUA
 http://190.149.66.90:16000/play/a01w/index.m3u8
-#EXTINF:-3 Canal 3 - GUA
+#EXTINF:-3 group-title="México",Canal 3 - GUA
 http://190.149.66.90:16000/play/a02u/index.m3u8
-#EXTINF:-3 Canal 4 - PAN
+#EXTINF:-3 group-title="México",Canal 4 - PAN
 http://190.149.66.90:16000/play/a044/index.m3u8
-#EXTINF:-3 Canal 7 - GUA
+#EXTINF:-3 group-title="México",Canal 7 - GUA
 http://190.149.66.90:16000/play/a02t/index.m3u8
-#EXTINF:-3 Canal 7 CR SD
+#EXTINF:-3 group-title="México",Canal 7 CR SD
 http://190.149.66.90:16000/play/a027/index.m3u8
-#EXTINF:-3 Canal 7 HD CR
+#EXTINF:-3 group-title="México",Canal 7 HD CR
 http://190.149.66.90:16000/play/a01g/index.m3u8
-#EXTINF:-3 Canal Antigua - GUA
+#EXTINF:-3 group-title="México",Canal Antigua - GUA
 http://190.149.66.90:16000/play/a02r/index.m3u8
-#EXTINF:-3 Canal Azteca - GUA
+#EXTINF:-3 group-title="México",Canal Azteca - GUA
 http://190.149.66.90:16000/play/a02s/index.m3u8
-#EXTINF:-3 Canal Claro
+#EXTINF:-3 group-title="México",Canal Claro
 http://190.149.66.90:16000/play/a00j/index.m3u8
-#EXTINF:-3 Canal Claro HD
+#EXTINF:-3 group-title="México",Canal Claro HD
 http://190.149.66.90:16000/play/a00a/index.m3u8
-#EXTINF:-3 Canal del Congreso
+#EXTINF:-3 group-title="México",Canal del Congreso
 http://190.149.66.90:16000/play/a041/index.m3u8
-#EXTINF:-3 Cartoon Network
+#EXTINF:-3 group-title="Infantil",Cartoon Network
 http://190.149.66.90:16000/play/a00o/index.m3u8
-#EXTINF:-3 Cartoonito
+#EXTINF:-3 group-title="Infantil",Cartoonito
 http://190.149.66.90:16000/play/a00q/index.m3u8
-#EXTINF:-3 Cine Latino
+#EXTINF:-3 group-title="Películas",Cine Latino
 http://190.149.66.90:16000/play/a04k/index.m3u8
-#EXTINF:-3 CineCanal
+#EXTINF:-3 group-title="Películas",CineCanal
 http://190.149.66.90:16000/play/a04n/index.m3u8
-#EXTINF:-3 CineMax
+#EXTINF:-3 group-title="Películas",CineMax
 http://190.149.66.90:16000/play/a04l/index.m3u8
-#EXTINF:-3 Claro Cinema
+#EXTINF:-3 group-title="Películas",Claro Cinema
 http://190.149.66.90:16000/play/a03d/index.m3u8
-#EXTINF:-3 Claro Musica
+#EXTINF:-3 group-title="Música",Claro Musica
 http://190.149.66.90:16000/play/a02j/index.m3u8
-#EXTINF:-3 Claro Sports 1 HD
+#EXTINF:-3 group-title="Fútbol",Claro Sports 1 HD
 http://190.149.66.90:16000/play/a008/index.m3u8
-#EXTINF:-3 Claro Sports 1 SD
+#EXTINF:-3 group-title="Fútbol",Claro Sports 1 SD
 http://190.149.66.90:16000/play/a04c/index.m3u8
-#EXTINF:-3 Claro Sports 2 HD
+#EXTINF:-3 group-title="Fútbol",Claro Sports 2 HD
 http://190.149.66.90:16000/play/a009/index.m3u8
-#EXTINF:-3 Claro Sports 2 SD
+#EXTINF:-3 group-title="Fútbol",Claro Sports 2 SD
 http://190.149.66.90:16000/play/a02f/index.m3u8
-#EXTINF:-3 Color Vision 9 - RD
+#EXTINF:-3 group-title="Películas",Color Vision 9 - RD
 http://190.149.66.90:16000/play/a02w/index.m3u8
-#EXTINF:-3 Comedy Central HD
+#EXTINF:-3 group-title="Comedia",Comedy Central HD
 http://190.149.66.90:16000/play/a03q/index.m3u8
-#EXTINF:-3 Concert Channel
+#EXTINF:-3 group-title="Música",Concert Channel
 http://190.149.66.90:16000/play/a04g/index.m3u8
-#EXTINF:-3 DHE
+#EXTINF:-3 group-title="Películas",DHE
 http://190.149.66.90:16000/play/a006/index.m3u8
-#EXTINF:-3 DHE HD
+#EXTINF:-3 group-title="Películas",DHE HD
 http://190.149.66.90:16000/play/a01r/index.m3u8
-#EXTINF:-3 DISC THEATHER HD
+#EXTINF:-3 group-title="Películas",DISC THEATHER HD
 http://190.149.66.90:16000/play/a03n/index.m3u8
-#EXTINF:-3 Digital 15 - RD
+#EXTINF:-3 group-title="México",Digital 15 - RD
 http://190.149.66.90:16000/play/a01y/index.m3u8
-#EXTINF:-3 Discovery Channel
+#EXTINF:-3 group-title="Educación",Discovery Channel
 http://190.149.66.90:16000/play/a036/index.m3u8
-#EXTINF:-3 Discovery Channel HD
+#EXTINF:-3 group-title="Educación",Discovery Channel HD
 http://190.149.66.90:16000/play/a051/index.m3u8
-#EXTINF:-3 Discovery Home & Health
+#EXTINF:-3 group-title="Educación",Discovery Home & Health
 http://190.149.66.90:16000/play/a04a/index.m3u8
-#EXTINF:-3 Discovery ID HD
+#EXTINF:-3 group-title="Educación",Discovery ID HD
 http://190.149.66.90:16000/play/a055/index.m3u8
-#EXTINF:-3 Discovery Kids
+#EXTINF:-3 group-title="Infantil",Discovery Kids
 http://190.149.66.90:16000/play/a045/index.m3u8
-#EXTINF:-3 Discovery Turbo
+#EXTINF:-3 group-title="Educación",Discovery Turbo
 http://190.149.66.90:16000/play/a049/index.m3u8
-#EXTINF:-3 Discovery World HD
+#EXTINF:-3 group-title="Educación",Discovery World HD
 http://190.149.66.90:16000/play/a052/index.m3u8
-#EXTINF:-3 Disney
+#EXTINF:-3 group-title="Infantil",Disney
 http://190.149.66.90:16000/play/a047/index.m3u8
-#EXTINF:-3 Disney JR
+#EXTINF:-3 group-title="Infantil",Disney JR
 http://190.149.66.90:16000/play/a00r/index.m3u8
-#EXTINF:-3 E!
+#EXTINF:-3 group-title="Entretenimiento",E!
 http://190.149.66.90:16000/play/a033/index.m3u8
-#EXTINF:-3 E! Entertairment HD
+#EXTINF:-3 group-title="Entretenimiento",E! Entertairment HD
 http://190.149.66.90:16000/play/a01k/index.m3u8
-#EXTINF:-3 ESPN
+#EXTINF:-3 group-title="Fútbol",ESPN
 http://190.149.66.90:16000/play/a03a/index.m3u8
-#EXTINF:-3 ESPN +
+#EXTINF:-3 group-title="Fútbol",ESPN +
 http://190.149.66.90:16000/play/a01d/index.m3u8
-#EXTINF:-3 ESPN 2
+#EXTINF:-3 group-title="Fútbol",ESPN 2
 http://190.149.66.90:16000/play/a03b/index.m3u8
-#EXTINF:-3 ESPN 2 HD
+#EXTINF:-3 group-title="Fútbol",ESPN 2 HD
 http://190.149.66.90:16000/play/a04w/index.m3u8
-#EXTINF:-3 ESPN 3
+#EXTINF:-3 group-title="Fútbol",ESPN 3
 http://190.149.66.90:16000/play/a02g/index.m3u8
-#EXTINF:-3 ESPN 3 HD
+#EXTINF:-3 group-title="Fútbol",ESPN 3 HD
 http://190.149.66.90:16000/play/a04v/index.m3u8
-#EXTINF:-3 ESPN 4
+#EXTINF:-3 group-title="Fútbol",ESPN 4
 http://190.149.66.90:16000/play/a04e/index.m3u8
-#EXTINF:-3 ESPN 4 HD
+#EXTINF:-3 group-title="Fútbol",ESPN 4 HD
 http://190.149.66.90:16000/play/a04q/index.m3u8
-#EXTINF:-3 ESPN HD
+#EXTINF:-3 group-title="Fútbol",ESPN HD
 http://190.149.66.90:16000/play/a04u/index.m3u8
 #EXTINF:-3 EURO Channel
 http://190.149.66.90:16000/play/a02b/index.m3u8
