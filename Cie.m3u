@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/uk.xml"
+#EXTM3U
 #EXTINF:-3,Venus
 http://181.78.27.186:5350/play/a00z
 #EXTINF:-3,VENU
