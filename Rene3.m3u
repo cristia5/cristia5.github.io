@@ -1,177 +1,177 @@
 #EXTM3U
-#EXTINF:-3 group-title="Indefinido",A&E
+#EXTINF:-3 group-title="Películas",A&E
 http://186.121.249.26:9000/play/a066
-#EXTINF:-3 group-title="Indefinido",A&E HD
+#EXTINF:-3 group-title="Películas",A&E HD
 http://186.121.249.26:9000/play/a012
-#EXTINF:-3 group-title="Indefinido",AMC
+#EXTINF:-3 group-title="Películas",AMC
 http://186.121.249.26:9000/play/a065
-#EXTINF:-3 group-title="Indefinido",AMC HD
+#EXTINF:-3 group-title="Películas",AMC HD
 http://186.121.249.26:9000/play/a013
-#EXTINF:-3 group-title="Indefinido",AXN
+#EXTINF:-3 group-title="Películas",AXN
 http://186.121.249.26:9000/play/a064
-#EXTINF:-3 group-title="Indefinido",AXN HD
+#EXTINF:-3 group-title="Películas",AXN HD
 http://186.121.249.26:9000/play/a021
-#EXTINF:-3 group-title="Indefinido",AZ click HD
+#EXTINF:-3 group-title="Educación",AZ click HD
 http://186.121.249.26:9000/play/a032
-#EXTINF:-3 group-title="Indefinido",Animal Planet HD
+#EXTINF:-3 group-title="Educación",Animal Planet HD
 http://186.121.249.26:9000/play/a00z
-#EXTINF:-3 group-title="Indefinido",BBC World
+#EXTINF:-3 group-title="Educación",BBC World
 http://186.121.249.26:9000/play/a05i
-#EXTINF:-3 group-title="Indefinido",CARTOON NT HD
+#EXTINF:-3 group-title="Infantil",CARTOON NT HD
 http://186.121.249.26:9000/play/a00j
-#EXTINF:-3 group-title="Indefinido",CINECANAL HD
+#EXTINF:-3 group-title="Películas",CINECANAL HD
 http://186.121.249.26:9000/play/a01j
-#EXTINF:-3 group-title="Indefinido",CNNE
+#EXTINF:-3 group-title="Noticias",CNNE
 http://186.121.249.26:9000/play/a04r
-#EXTINF:-3 group-title="Indefinido",Canal 11 - GUA
+#EXTINF:-3 group-title="Guatemala",Canal 11 - GUA
 http://186.121.249.26:9000/play/a060
-#EXTINF:-3 group-title="Indefinido",Canal 11 - HON
+#EXTINF:-3 group-title="Honduras",Canal 11 - HON
 http://186.121.249.26:9000/play/a06o
-#EXTINF:-3 group-title="Indefinido",Canal 13-GUA
+#EXTINF:-3 group-title="Guatemala",Canal 13-GUA
 http://186.121.249.26:9000/play/a05z
-#EXTINF:-3 group-title="Indefinido",Canal 3 - GUA
+#EXTINF:-3 group-title="Guatemala",Canal 3 - GUA
 http://186.121.249.26:9000/play/a06i
-#EXTINF:-3 group-title="Indefinido",Canal 3 Telesistemas HND
+#EXTINF:-3 group-title="Honduras",Canal 3 Telesistemas HND
 http://186.121.249.26:9000/play/a06q
-#EXTINF:-3 group-title="Indefinido",Canal 5 - HON
+#EXTINF:-3 group-title="Honduras",Canal 5 - HON
 http://186.121.249.26:9000/play/a06s
-#EXTINF:-3 group-title="Indefinido",Canal 7 - GUA
+#EXTINF:-3 group-title="Guatemala",Canal 7 - GUA
 http://186.121.249.26:9000/play/a06h
-#EXTINF:-3 group-title="Indefinido",Canal Antigua - GUA
+#EXTINF:-3 group-title="Guatemala",Canal Antigua - GUA
 http://186.121.249.26:9000/play/a06f
-#EXTINF:-3 group-title="Indefinido",Canal Azteca - GUA
+#EXTINF:-3 group-title="Guatemala",Canal Azteca - GUA
 http://186.121.249.26:9000/play/a06g
-#EXTINF:-3 group-title="Indefinido",Canal VTV HND
+#EXTINF:-3 group-title="Honduras",Canal VTV HND
 http://186.121.249.26:9000/play/a06r
-#EXTINF:-3 group-title="Indefinido",Cine Latino
+#EXTINF:-3 group-title="Películas",Cine Latino
 http://186.121.249.26:9000/play/a062
-#EXTINF:-3 group-title="Indefinido",Comedy Central HD
+#EXTINF:-3 group-title="Comedia",Comedy Central HD
 http://186.121.249.26:9000/play/a01s
-#EXTINF:-3 group-title="Indefinido",Concert Channel
+#EXTINF:-3 group-title="Música",Concert Channel
 http://186.121.249.26:9000/play/a05d
-#EXTINF:-3 group-title="Indefinido",DHE HD
+#EXTINF:-3 group-title="Películas",DHE HD
 http://186.121.249.26:9000/play/a018
-#EXTINF:-3 group-title="Indefinido",DISC THEATHER HD
+#EXTINF:-3 group-title="Música",DISC THEATHER HD
 http://186.121.249.26:9000/play/a01p
-#EXTINF:-3 group-title="Indefinido",Discovery Channel HD
+#EXTINF:-3 group-title="Educación",Discovery Channel HD
 http://186.121.249.26:9000/play/a02a
-#EXTINF:-3 group-title="Indefinido",Discovery ID HD
+#EXTINF:-3 group-title="Educación",Discovery ID HD
 http://186.121.249.26:9000/play/a02f
-#EXTINF:-3 group-title="Indefinido",Discovery World HD
+#EXTINF:-3 group-title="Educación",Discovery World HD
 http://186.121.249.26:9000/play/a02c
-#EXTINF:-3 group-title="Indefinido",E!
+#EXTINF:-3 group-title="Entretenimiento",E!
 http://186.121.249.26:9000/play/a067
-#EXTINF:-3 group-title="Indefinido",E! Entertairment HD
+#EXTINF:-3 group-title="Entretenimiento",E! Entertairment HD
 http://186.121.249.26:9000/play/a010
-#EXTINF:-3 group-title="Indefinido",ESPN +
+#EXTINF:-3 group-title="Fútbol",ESPN +
 http://186.121.249.26:9000/play/a00u
-#EXTINF:-3 group-title="Indefinido",ESPN 4 HD
+#EXTINF:-3 group-title="Fútbol",ESPN 4 HD
 http://186.121.249.26:9000/play/a020
-#EXTINF:-3 group-title="Indefinido",Europa HD
+#EXTINF:-3 group-title="Películas",Europa HD
 http://186.121.249.26:9000/play/a036
-#EXTINF:-3 group-title="Indefinido",FOX SPORTS 2 HD
+#EXTINF:-3 group-title="Fútbol",FOX SPORTS 2 HD
 http://186.121.249.26:9000/play/a01n
-#EXTINF:-3 group-title="Indefinido",FOX SPORTS 3 HD
+#EXTINF:-3 group-title="Fútbol",FOX SPORTS 3 HD
 http://186.121.249.26:9000/play/a026
-#EXTINF:-3 group-title="Indefinido",FX
+#EXTINF:-3 group-title="Películas",FX
 http://186.121.249.26:9000/play/a06b
-#EXTINF:-3 group-title="Indefinido",FX HD
+#EXTINF:-3 group-title="Películas",FX HD
 http://186.121.249.26:9000/play/a05n
-#EXTINF:-3 group-title="Indefinido",FX Movies HD
+#EXTINF:-3 group-title="Películas",FX Movies HD
 http://186.121.249.26:9000/play/a017
-#EXTINF:-3 group-title="Indefinido",Golden
+#EXTINF:-3 group-title="Películas",Golden
 http://186.121.249.26:9000/play/a05p
-#EXTINF:-3 group-title="Indefinido",Golf Channel HD
+#EXTINF:-3 group-title="Golf",Golf Channel HD
 http://186.121.249.26:9000/play/a01b
-#EXTINF:-3 group-title="Indefinido",H2
+#EXTINF:-3 group-title="Educación",H2
 http://186.121.249.26:9000/play/a05l
-#EXTINF:-3 group-title="Indefinido",HBO Family HD
+#EXTINF:-3 group-title="Películas",HBO Family HD
 http://186.121.249.26:9000/play/a00c
-#EXTINF:-3 group-title="Indefinido",HBO HD
+#EXTINF:-3 group-title="Películas",HBO HD
 http://186.121.249.26:9000/play/a009
-#EXTINF:-3 group-title="Indefinido",HBO Plus HD
+#EXTINF:-3 group-title="Películas",HBO Plus HD
 http://186.121.249.26:9000/play/a00b
-#EXTINF:-3 group-title="Indefinido",HBO XTREME
+#EXTINF:-3 group-title="Películas",HBO XTREME
 http://186.121.249.26:9000/play/a00d
-#EXTINF:-3 group-title="Indefinido",HBO2 HD
+#EXTINF:-3 group-title="Películas",HBO2 HD
 http://186.121.249.26:9000/play/a00a
-#EXTINF:-3 group-title="Indefinido",HCH- HON
+#EXTINF:-3 group-title="Honduras",HCH- HON
 http://186.121.249.26:9000/play/a06p
-#EXTINF:-3 group-title="Indefinido",HOLA! TV HD
+#EXTINF:-3 group-title="Entretenimiento",HOLA! TV HD
 http://186.121.249.26:9000/play/a01r
-#EXTINF:-3 group-title="Indefinido",HTV
+#EXTINF:-3 group-title="Música",HTV
 http://186.121.249.26:9000/play/a05y
-#EXTINF:-3 group-title="Indefinido",History HD
+#EXTINF:-3 group-title="Educación",History HD
 http://186.121.249.26:9000/play/a00t
-#EXTINF:-3 group-title="Indefinido",LIFE TIME
+#EXTINF:-3 group-title="Películas",LIFE TIME
 http://186.121.249.26:9000/play/a05t
-#EXTINF:-3 group-title="Indefinido",MTV 80s
+#EXTINF:-3 group-title="Música",MTV 80s
 http://186.121.249.26:9000/play/a05o
-#EXTINF:-3 group-title="Indefinido",MTV HD
+#EXTINF:-3 group-title="Música",MTV HD
 http://186.121.249.26:9000/play/a00v
-#EXTINF:-3 group-title="Indefinido",Multipremier
+#EXTINF:-3 group-title="Películas",Multipremier
 http://186.121.249.26:9000/play/a061
-#EXTINF:-3 group-title="Indefinido",Nick Jr
+#EXTINF:-3 group-title="Infantil",Nick Jr
 http://186.121.249.26:9000/play/a05s
-#EXTINF:-3 group-title="Indefinido",Nick SIM HD
+#EXTINF:-3 group-title="Infantil",Nick SIM HD
 http://186.121.249.26:9000/play/a01m
-#EXTINF:-3 group-title="Indefinido",Nickelodeon
+#EXTINF:-3 group-title="Infantil",Nickelodeon
 http://186.121.249.26:9000/play/a06c
-#EXTINF:-3 group-title="Indefinido",Paramount HD
+#EXTINF:-3 group-title="Películas",Paramount HD
 http://186.121.249.26:9000/play/a028
-#EXTINF:-3 group-title="Indefinido",Pasiones HD
+#EXTINF:-3 group-title="Películas",Pasiones HD
 http://186.121.249.26:9000/play/a02d
-#EXTINF:-3 group-title="Indefinido",Playboy
+#EXTINF:-3 group-title="Ciencia",Playboy
 http://186.121.249.26:9000/play/a00r
-#EXTINF:-3 group-title="Indefinido",QATAR en vivo
+#EXTINF:-3 group-title="Películas",QATAR en vivo
 http://186.121.249.26:9000/play/a063
-#EXTINF:-3 group-title="Indefinido",SEMILLITAS
+#EXTINF:-3 group-title="Películas",SEMILLITAS
 http://186.121.249.26:9000/play/a05g
-#EXTINF:-3 group-title="Indefinido",SONY HD
+#EXTINF:-3 group-title="Películas",SONY HD
 http://186.121.249.26:9000/play/a01i
-#EXTINF:-3 group-title="Indefinido",SPACE HD
+#EXTINF:-3 group-title="Películas",SPACE HD
 http://186.121.249.26:9000/play/a022
-#EXTINF:-3 group-title="Indefinido",STAR CHANNEL
+#EXTINF:-3 group-title="Películas",STAR CHANNEL
 http://186.121.249.26:9000/play/a068
-#EXTINF:-3 group-title="Indefinido",Star TVE HD
+#EXTINF:-3 group-title="Películas",Star TVE HD
 http://186.121.249.26:9000/play/a01a
-#EXTINF:-3 group-title="Indefinido",Studio Universal
+#EXTINF:-3 group-title="Películas",Studio Universal
 http://186.121.249.26:9000/play/a06a
-#EXTINF:-3 group-title="Indefinido",Studio Universal HD
+#EXTINF:-3 group-title="Películas",Studio Universal HD
 http://186.121.249.26:9000/play/a00x
-#EXTINF:-3 group-title="Indefinido",SyFy
+#EXTINF:-3 group-title="Películas",SyFy
 http://186.121.249.26:9000/play/a05x
-#EXTINF:-3 group-title="Indefinido",TCM
+#EXTINF:-3 group-title="Películas",TCM
 http://186.121.249.26:9000/play/a05k
-#EXTINF:-3 group-title="Indefinido",TNT HD
+#EXTINF:-3 group-title="Películas",TNT HD
 http://186.121.249.26:9000/play/a01o
-#EXTINF:-3 group-title="Indefinido",TNT Series HD
+#EXTINF:-3 group-title="Películas",TNT Series HD
 http://186.121.249.26:9000/play/a029
-#EXTINF:-3 group-title="Indefinido",Telecadena - HON
+#EXTINF:-3 group-title="Honduras",Telecadena - HON
 http://186.121.249.26:9000/play/a06t
-#EXTINF:-3 group-title="Indefinido",Telemundo HD
+#EXTINF:-3 group-title="Noticias",Telemundo HD
 http://186.121.249.26:9000/play/a014
-#EXTINF:-3 group-title="Indefinido",Teleunion - RD
+#EXTINF:-3 group-title="Noticias",Teleunion - RD
 http://186.121.249.26:9000/play/a06j
-#EXTINF:-3 group-title="Indefinido",UNIVERSAL CINEMA HD
+#EXTINF:-3 group-title="Películas",UNIVERSAL CINEMA HD
 http://186.121.249.26:9000/play/a02g
-#EXTINF:-3 group-title="Indefinido",UNIVERSAL COMEDY HD
+#EXTINF:-3 group-title="Películas",UNIVERSAL COMEDY HD
 http://186.121.249.26:9000/play/a01z
-#EXTINF:-3 group-title="Indefinido",UNIVERSAL CRIME HD
+#EXTINF:-3 group-title="Películas",UNIVERSAL CRIME HD
 http://186.121.249.26:9000/play/a01y
-#EXTINF:-3 group-title="Indefinido",UNIVERSAL PREMIERE 2 HD
+#EXTINF:-3 group-title="Películas",UNIVERSAL PREMIERE 2 HD
 http://186.121.249.26:9000/play/a01v
-#EXTINF:-3 group-title="Indefinido",UNIVERSAL PREMIERE HD
+#EXTINF:-3 group-title="Películas",UNIVERSAL PREMIERE HD
 http://186.121.249.26:9000/play/a01w
-#EXTINF:-3 group-title="Indefinido",UNIVERSAL REALITY HD
+#EXTINF:-3 group-title="Entretenimiento",UNIVERSAL REALITY HD
 http://186.121.249.26:9000/play/a01x
-#EXTINF:-3 group-title="Indefinido",Universal
+#EXTINF:-3 group-title="Películas",Universal
 http://186.121.249.26:9000/play/a069
-#EXTINF:-3 group-title="Indefinido",Universal TV
+#EXTINF:-3 group-title="Películas",Universal TV
 http://186.121.249.26:9000/play/a05r
-#EXTINF:-3 group-title="Indefinido",Univision HD
+#EXTINF:-3 group-title="Películas",Univision HD
 http://186.121.249.26:9000/play/a02e
-#EXTINF:-3 group-title="Indefinido",VENUS
+#EXTINF:-3 group-title="Ciencia",VENUS
 http://186.121.249.26:9000/play/a06n
-#EXTINF:-3 group-title="Indefinido",WARNER HD
+#EXTINF:-3 group-title="Películas",WARNER HD
 http://186.121.249.26:9000/play/a01h
