@@ -27,4 +27,6 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-3 group-title="Venezuela",Canal i VE
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Cali TV | CO
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 
