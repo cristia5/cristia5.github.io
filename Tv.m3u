@@ -25,3 +25,5 @@ https://live.seo.tv.bo/live/3SEO.m3u8
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-3 tvg-id="TVMInternacional.mz" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" group-title="General",TVM Internacional (480p) [Not 24/7]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-3 group-title="Venezuela",Canal i VE
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
