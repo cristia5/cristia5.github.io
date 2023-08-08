@@ -289,6 +289,8 @@ https://unlimited1-cl-isp.dps.live/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="64" tvg-name="Pintana TV" tvg-logo="https://lh3.googleusercontent.com/-Mthb4RQqfgU/XxyJnpes1QI/AAAAAAAA3Vo/Gmg_Wcr0Gv80KzXGNa3Z91BEea2r4ID0wCK8BGAsYHg/s0/2020-07-25.png", Pintana TV | CL
 http://live.mundogo.cl/mundo/Pintanatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-3 tvg-id="1014" tvg-name="PlanetaTV Music" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Music * | CL
+https://scl.edge.grupoz.cl/music/live/music.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="83" tvg-name="Pucon TV" tvg-logo="https://lh3.googleusercontent.com/-r4ejsHWoXtE/XYb7QVbZA4I/AAAAAAAArCw/XjvcDEIjGlAZnTFSCURiZYONDlWPs4GhwCK8BGAsYHg/s0/2019-09-21.png", Pucon TV | CL
 https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="415" tvg-name="Puranoticia" tvg-logo="https://i2.paste.pics/3dcc431073eca367aef2011ebdd26387.png", Puranoticia | CL
