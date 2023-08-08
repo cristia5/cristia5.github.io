@@ -119,6 +119,8 @@ https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8?Playlist
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Cadena 103 | AR
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Canal 10 Rio Negro | AR
+https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Canal 12 Madryn TV | AR
 https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Canal 13 La Rioja | AR
