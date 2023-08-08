@@ -131,5 +131,77 @@ https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Canal 4 Bahia Blanca | AR
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8?PlaylistM3UCL
+#EXTINF:-3,Canal 4 Jujuy | AR
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Canal 6 Entre Rios | AR
+https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Canal 7 Jujuy | AR
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Canal 79 Mar del Plata | AR
+https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Canal 9 Litoral | AR
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Canal Coop | AR
+https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Canal Rural | AR
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Canal XFN * | AR
+https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Celta TV | AR
+https://vivo.solumedia.com:19360/celta/celta.m3u8?PlaylistM3UCL
+#EXTINF:-3,Chaco TV | AR
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Chacra TV | AR
+https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Cosmos TV | AR
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
+#EXTINF:-3,Crossing TV * | AR
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL
+#EXTINF:-3,DEPORTV | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Informacion Periodistica | AR
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-3167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
+#EXTINF:-3,LTO Television | AR
+https://ltocatamarca.github.io/ltotv.m3u8?PlaylistM3UCL
+#EXTINF:-3,Lapacho TV Canal 11 | AR
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8?PlaylistM3UCL
+#EXTINF:-3,Latino Kids TV * | UY
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Magic Kids | AR
+https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
+#EXTINF:-3,Mas FM | AR
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL
+#EXTINF:-3,Metro TV Canal 12 Tucuman | AR
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null&PlaylistM3UCL
+#EXTINF:-3,Multivisión | AR
+https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Music Top | AR
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Neo TV * | AR
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+#EXTINF:-3,Net TV | AR
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Radiocanal San Francisco | AR
+http://204.199.3.2/.m3u8?PlaylistM3UCL
+#EXTINF:-3,Rewind Radio y TV * | CL
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Spectrum Channel | CL
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+#EXTINF:-3,Sublime Gracia TV | AR
+https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,T5 Satelital | AR
+https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8?PlaylistM3UCL
+#EXTINF:-3,TDC TV Santa Fe | AR
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,TIV Chaco | AR
+https://inliveserver.com:1936/14044/14044/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Telecreativa | AR
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Telemax | AR
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Telpin Canal 2 | AR
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Uni Teve | AR
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
+#EXTINF:-3,UNIRIO | AR
+https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8?PlaylistM3UCL
