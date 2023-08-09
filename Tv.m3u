@@ -17,8 +17,6 @@ https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
 #EXTINF:-3 tvg-id="SEOTV.bo" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="General",SEO TV (1080p)
 https://live.seo.tv.bo/live/1SEO.m3u8
-#EXTINF:-3 tvg-id="SEOTVNovelas.bo" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Series",SEO TV Novelas (1080p)
-https://live.seo.tv.bo/live/3SEO.m3u8
 #EXTINF:-3 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-3 tvg-id="TVMInternacional.mz" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" group-title="General",TVM Internacional (480p) [Not 24/7]
@@ -85,8 +83,6 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?PlaylistM3UCL
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3,ShowVen TV | VE
-https://vcp.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,TRV | VE
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,TVS Maracay | VE
@@ -97,8 +93,6 @@ https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8?PlaylistM3UCL
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Vale TV | VE
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3,eSports Max TV | VE
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Aire de Santa Fe | AR
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Azahares Radio Multimedia | AR
@@ -177,8 +171,6 @@ http://204.199.3.2/.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Spectrum Channel | CL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
-#EXTINF:-3,Sublime Gracia TV | AR
-https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,T5 Satelital | AR
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8?PlaylistM3UCL
 #EXTINF:-3,TDC TV Santa Fe | AR
@@ -257,10 +249,6 @@ http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="395" tvg-name="Mi Radio TV" tvg-logo="https://lh3.googleusercontent.com/-7XLo-eid_jI/Xm9iFNKwCYI/AAAAAAAAw8Y/TWJlVG10Ofc-nX2cNdUPKn7quq7hKWKBACK8BGAsYHg/s0/2020-03-16.png", Mi Radio TV | CL
 https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="164" tvg-name="NCTV" tvg-logo="https://i2.paste.pics/4a59ad761b7b6578b320729cb230f778.png", NCTV | CL
-https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="45" tvg-name="NTV" tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png", NTV | CL
-https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="974" tvg-name="Patagonia Radio TV" tvg-logo="https://i2.paste.pics/0f20f371ddf95dcc9deed1f97c7c1bb8.png", Patagonia Radio TV | CL
 https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://lh3.googleusercontent.com/-DB74taQncQw/XbSnai__c5I/AAAAAAAArt0/jqsOckrCWRMdlGZoE1ecSjJrHivTgt_fQCK8BGAsYHg/s0/2019-10-26.png", Pauta TV | CL
