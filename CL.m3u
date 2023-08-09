@@ -85,8 +85,6 @@ https://lancotv.damnserver.com/hls/stream.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl/tvm/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="1288" tvg-name="Suyai TV" tvg-logo="https://i2.paste.pics/e2924ada84b3f7e229cb483f0787444a.png", Suyai TV * | CL
 https://5ff3d9babae13.streamlock.net:443/ytptuzhund/ytptuzhund/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="1287" tvg-name="CDR" tvg-logo="https://i2.paste.pics/bd867f1a431411c9720ec246807ade49.png", CDR * | CL
-https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="1284" tvg-name="Autonoma Radio" tvg-logo="https://i2.paste.pics/ab3b4f72e0708cab3f568772f2f6bcac.png", Autonoma Radio * | CL
 https://stream.wifispeed.cl:3033/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="1282" tvg-name="Galactika Media" tvg-logo="https://i2.paste.pics/334ded887e14d80c7f01e985aa2e521a.png", Galactika Media * | CL
@@ -327,8 +325,6 @@ https://v2.tustreaming.cl/visionplustv/index.m3u8?PlaylistM3UCL
 https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="999" tvg-name="38TV" tvg-logo="https://i2.paste.pics/3cc1950b0f0c4ad15752bd5b6646fdf6.png", 38TV | CL
 https://v2.tustreaming.cl:19360/38tv/38tv.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="337" tvg-name="Buin Somos Todos" tvg-logo="https://lh3.googleusercontent.com/-qHSWQUuG5HU/XkIKFkSMFBI/AAAAAAAAv-o/80_hG25Pe6cfe7Dm3Uc6VDpcMp2Nd3ImwCK8BGAsYHg/s0/2020-02-10.png", Buin Somos Todos | CL
-https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="338" tvg-name="Canal 57 Melipilla" tvg-logo="https://i2.paste.pics/142f64e0f0f7392e87b0f08fe9220039.png", Canal 57 Melipilla | CL
 https://593b04c4c5670.streamlock.net:443/8148/8148/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="1025" tvg-name="Telecanal Santa Cruz" tvg-logo="https://i2.paste.pics/6a1696deb1c9517beb69237df03fb2a9.png", Telecanal Santa Cruz | CL
@@ -447,8 +443,6 @@ https://unlimited2-cl-isp.dps.live/13d/13d.smil/playlist.m3u8?PlaylistM3UCL
 https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="375" tvg-name="Valparaiso Sporting" tvg-logo="https://lh3.googleusercontent.com/-HLkq9KDNolI/XxzLq65I2KI/AAAAAAAA3ZI/Vx5DVILxWmoGc5_PJ01NSoc2wVODn-FqACK8BGAsYHg/s0/2020-07-25.png", Valparaiso Sporting | CL
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="63" tvg-name="Bajo Cero TV" tvg-logo="https://i2.paste.pics/3caab16270214727377ff0994bb64031.png", Bajo Cero TV | CL
-https://stmv2.zcasthn.com.br/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="1029" tvg-name="Evavisión Pachanga" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", Evavisión Pachanga | CL
 http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="1208" tvg-name="Viwix TV Music" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Music | CL
