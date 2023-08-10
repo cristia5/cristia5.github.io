@@ -29,15 +29,15 @@ http://45.169.99.154:58001/play/a021/index.m3u8
 http://45.169.99.154:58001/play/a00t/index.m3u8
 #EXTINF:-3,E! Entretenimiento HD
 http://45.169.99.154:58001/play/a012/index.m3u8
-#EXTINF:-3, ESPN +
+#EXTINF:-3 group-title="Fútbol",ESPN +
 http://45.169.99.154:58001/play/a02g/index.m3u8
-#EXTINF:-3, ESPN HD
+#EXTINF:-3 group-title="Fútbol HD",ESPN HD
 http://45.169.99.154:58001/play/a00m/index.m3u8
-#EXTINF:-3, ESPN 2 HD
+#EXTINF:-3 group-title="Fútbol HD",ESPN 2 HD
 http://45.169.99.154:58001/play/a00k/index.m3u8
-#EXTINF:-3, ESPN 3 HD
+#EXTINF:-3 group-title="Fútbol HD",ESPN 3 HD
 http://45.169.99.154:58001/play/a00l/index.m3u8
-#EXTINF:-3, ESPN 4 HD
+#EXTINF:-3 group-title="Fútbol HD",ESPN 4 HD
 http://45.169.99.154:58001/play/a02o/index.m3u8
 #EXTINF:-3,ZORRO Acción HD
 http://45.169.99.154:58001/play/a00g/index.m3u8
@@ -75,7 +75,7 @@ http://45.169.99.154:58001/play/a01o/index.m3u8
 http://45.169.99.154:58001/play/a01n/index.m3u8
 #EXTINF:-3,¡HOLA! televisión de alta definición
 http://45.169.99.154:58001/play/a00a/index.m3u8
-#EXTINF:-3 group-title="Educación",History Channel HD
+#EXTINF:-3 group-title="Educación",History Channel Eng HD
 http://45.169.99.154:58001/play/a02f/index.m3u8
 #EXTINF:-3,Hogar y Salud HD
 http://45.169.99.154:58001/play/a009/index.m3u8
@@ -299,23 +299,23 @@ http://138.59.177.34:8000/play/a026/index.m3u8
 http://138.59.177.34:8000/play/a051/index.m3u8
 #EXTINF:-3,E! Entretenimiento HD
 http://138.59.177.34:8000/play/a030/index.m3u8
-#EXTINF:-3, ESPN
+#EXTINF:-3 group-title="Fútbol",ESPN
 http://138.59.177.34:8000/play/a058/index.m3u8
-#EXTINF:-3, ESPN +
+#EXTINF:-3 group-title="Fútbol",ESPN +
 http://138.59.177.34:8000/play/a02t/index.m3u8
-#EXTINF:-3, ESPN 2
+#EXTINF:-3 group-title="Fútbol",ESPN 2
 http://138.59.177.34:8000/play/a059/index.m3u8
-#EXTINF:-3, ESPN 2 HD
+#EXTINF:-3 group-title="Fútbol HD",ESPN 2 HD
 http://138.59.177.34:8000/play/a072/index.m3u8
-#EXTINF:-3, ESPN 3
+#EXTINF:-3 group-title="Fútbol",ESPN 3
 http://138.59.177.34:8000/play/a046/index.m3u8
-#EXTINF:-3, ESPN 3 HD
+#EXTINF:-3 group-title="Fútbol HD",ESPN 3 HD
 http://138.59.177.34:8000/play/a071/index.m3u8
-#EXTINF:-3, ESPN 4
+#EXTINF:-3 group-title="Fútbol",ESPN 4
 http://138.59.177.34:8000/play/a06j/index.m3u8
-#EXTINF:-3, ESPN 4 HD
+#EXTINF:-3 group-title="Fútbol HD",ESPN 4 HD
 http://138.59.177.34:8000/play/a06v/index.m3u8
-#EXTINF:-3, ESPN HD
+#EXTINF:-3 group-title="Fútbol HD",ESPN HD
 http://138.59.177.34:8000/play/a070/index.m3u8
 #EXTINF:-3, canal EURO
 http://138.59.177.34:8000/play/a041/index.m3u8
@@ -377,9 +377,9 @@ http://138.59.177.34:8000/play/a022/index.m3u8
 http://138.59.177.34:8000/play/a05o/index.m3u8
 #EXTINF:-3,HTV
 http://138.59.177.34:8000/play/a04c/index.m3u8
-#EXTINF:-3,Historial de canal
+#EXTINF:-3 group-title="Educación",History de canal
 http://138.59.177.34:8000/play/a056/index.m3u8
-#EXTINF:-3,Historial HD
+#EXTINF:-3 group-title="Educación",History Channel HD
 http://138.59.177.34:8000/play/a02s/index.m3u8
 #EXTINF:-3,Hola!TV
 http://138.59.177.34:8000/play/a00w/index.m3u8
@@ -585,13 +585,13 @@ http://181.119.67.75:16123/play/ch13
 http://181.119.67.75:16123/play/ch14
 #EXTINF:-3,CONEXIÓN
 http://181.119.67.75:16123/play/ch15
-#EXTINF:-3, ESPN
+#EXTINF:-3 group-title="Fútbol",ESPN
 http://181.119.67.75:16123/play/ch16
-#EXTINF:-3,ESPN2
+#EXTINF:-3 group-title="Fútbol",ESPN 2
 http://181.119.67.75:16123/play/ch17
-#EXTINF:-3,ESPN3
+#EXTINF:-3 group-title="Fútbol",ESPN 3
 http://181.119.67.75:16123/play/ch18
-#EXTINF:-3,ESPN4
+#EXTINF:-3 group-title="Fútbol",ESPN 4
 http://181.119.67.75:16123/play/ch19
 #EXTINF:-3,DEPORTES ZORRO 2
 http://181.119.67.75:16123/play/ch20
@@ -785,7 +785,7 @@ http://160.20.165.245:8000/play/a01j/index.m3u8
 http://160.20.165.245:8000/play/a01f/index.m3u8
 #EXTINF:-3 group-title="Ecuador",GamaTV
 http://160.20.165.245:8000/play/a00r/index.m3u8
-#EXTINF:-3,HISTORIAL
+#EXTINF:-3 group-title="Educación",History Channel
 http://160.20.165.245:8000/play/a00m/index.m3u8
 #EXTINF:-3,MI MÚSICA ÉXITOS
 http://160.20.165.245:8000/play/a019/index.m3u8
@@ -845,19 +845,19 @@ http://45.189.117.202:48000/play/a00e/index.m3u8
 http://45.189.117.202:48000/play/a00d/index.m3u8
 #EXTINF:-3,10016 Música FreeTV
 http://45.189.117.202:48000/play/a00i/index.m3u8
-#EXTINF:-3,10018 ESPN 4HD
+#EXTINF:-3 group-title="Fútbol HD",ESPN 4 HD
 http://45.189.117.202:48000/play/a00j/index.m3u8
-#EXTINF:-3,10019 ESPN3 HD
+#EXTINF:-3 group-title="Fútbol HD",ESPN 3 HD
 http://45.189.117.202:48000/play/a01a/index.m3u8
-#EXTINF:-3,10020 Gol Perú
+#EXTINF:-3 group-title="Fútbol",Gol Perú
 http://45.189.117.202:48000/play/a00s/index.m3u8
 #EXTINF:-3,10021 TOP Latino
 http://45.189.117.202:48000/play/a019/index.m3u8
 #EXTINF:-3,10022 Canal Drama
 http://45.189.117.202:48000/play/a00k/index.m3u8
-#EXTINF:-3,10029 ESPN 2HD
+#EXTINF:-3 group-title="Fútbol HD",ESPN 2 HD
 http://45.189.117.202:48000/play/a00l/index.m3u8
-#EXTINF:-3,10030 ESPN 1HD
+#EXTINF:-3 group-title="Fútbol HD",ESPN HD
 http://45.189.117.202:48000/play/a00r/index.m3u8
 #EXTINF:-3,10047 HBO
 http://45.189.117.202:48000/play/a01g/index.m3u8
@@ -893,7 +893,7 @@ http://45.189.117.202:48000/play/a02f/index.m3u8
 http://45.189.117.202:48000/play/a00t/index.m3u8
 #EXTINF:-3,Disney Jr HD
 http://45.189.117.202:48000/play/a02j/index.m3u8
-#EXTINF:-3, Historial 2 HD
+#EXTINF:-3 group-title="Educación",History Channel 2HD
 http://45.189.117.202:48000/play/a02k/index.m3u8
 #EXTINF:-3, estrella más HD
 http://45.189.117.202:48000/play/a01y/index.m3u8
