@@ -374,7 +374,7 @@ http://138.59.177.34:8000/play/a02h/index.m3u8
 #EXTINF:-3 group-title="Colombia",RCN Novelas
 http://138.59.177.34:8000/play/a040/index.m3u8
 #EXTINF:-3 group-title="Colombia",Caracol CO
-http://181.119.67.75:16123/play/ch58
+http://160.20.165.245:8000/play/a00x/index.m3u8
 #EXTINF:-3 group-title="Colombia",RCN
 http://181.119.67.75:16123/play/ch59a
 #EXTINF:-3 group-title="Noticias",Telemundo HD
