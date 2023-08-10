@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-3 group-title="Educación",tvg-id="PlatziTV.es" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184" group-title="Education",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-3 group-title="Noticias",tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
+#EXTINF:-3 group-title="Noticias",tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-3 group-title="Noticias",tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+#EXTINF:-3 group-title="Noticias",tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-3 group-title="Noticias",tvg-id="RTenEspanol.ru" tvg-logo="https://i.imgur.com/Fbli6Ml.png" group-title="News",RT en Español (1080p) [Geo-blocked]
+#EXTINF:-3 group-title="Noticias",tvg-id="RTenEspanol.ru" tvg-logo="https://i.imgur.com/Fbli6Ml.png",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-3 group-title="Noticias",tvg-id="EcotelTV.ec" tvg-logo="https://i.imgur.com/Yr4xUKW.png" group-title="Undefined",Ecotel (720p) [Not 24/7]
+#EXTINF:-3 group-title="Noticias",tvg-id="EcotelTV.ec" tvg-logo="https://i.imgur.com/Yr4xUKW.png",Ecotel (720p) [Not 24/7]
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
-#EXTINF:-3 group-title="Noticias",tvg-id="GaliciaTVAmerica.es" tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png" group-title="Undefined",Galicia TV América (720p)
+#EXTINF:-3 group-title="Noticias",tvg-id="GaliciaTVAmerica.es" tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png",Galicia TV América (720p)
 http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-3 group-title="Noticias",tvg-id="HechosEcuador.ec" tvg-logo="https://i.imgur.com/Tof18lJ.png" group-title="Undefined",Hechos Ecuador (480p)
+#EXTINF:-3 group-title="Noticias",tvg-id="HechosEcuador.ec" tvg-logo="https://i.imgur.com/Tof18lJ.png",Hechos Ecuador (480p)
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-3 group-title="Educación",tvg-id="EducaTV.ec" tvg-logo="https://i.imgur.com/lY9Bx2u.png" group-title="Education",EducaTV (1080p) [Not 24/7]
 https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
