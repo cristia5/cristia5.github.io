@@ -75,7 +75,7 @@ http://45.169.99.154:58001/play/a01o/index.m3u8
 http://45.169.99.154:58001/play/a01n/index.m3u8
 #EXTINF:-3,¡HOLA! televisión de alta definición
 http://45.169.99.154:58001/play/a00a/index.m3u8
-#EXTINF:-3,Historial HD
+#EXTINF:-3 group-title="Educación",History Channel HD
 http://45.169.99.154:58001/play/a02f/index.m3u8
 #EXTINF:-3,Hogar y Salud HD
 http://45.169.99.154:58001/play/a009/index.m3u8
@@ -113,7 +113,7 @@ http://45.169.99.154:58001/play/a007/index.m3u8
 http://45.169.99.154:58001/play/a00q/index.m3u8
 #EXTINF:-3,Nick adolescente HD
 http://45.169.99.154:58001/play/a01t/index.m3u8
-#EXTINF:-3,Telemundo HD
+#EXTINF:-3 group-title="Noticias",Telemundo HD
 http://45.169.99.154:58001/play/a016/index.m3u8
 #EXTINF:-3, UNIVERSAL COMEDIA HD
 http://45.169.99.154:58001/play/a01z/index.m3u8
@@ -443,7 +443,7 @@ http://138.59.177.34:8000/play/a075/index.m3u8
 http://138.59.177.34:8000/play/a079/index.m3u8
 #EXTINF:-3,RCN-GUA
 http://138.59.177.34:8000/play/a062/index.m3u8
-#EXTINF:-3,RCN Novelas
+#EXTINF:-3 group-title="Colombia",RCN Novelas
 http://138.59.177.34:8000/play/a040/index.m3u8
 #EXTINF:-3,RHEMA TV
 http://138.59.177.34:8000/play/a06u/index.m3u8
@@ -511,9 +511,9 @@ http://138.59.177.34:8000/play/a04t/index.m3u8
 http://138.59.177.34:8000/play/a04q/index.m3u8
 #EXTINF:-3,Telecentro - RD
 http://138.59.177.34:8000/play/a03q/index.m3u8
-#EXTINF:-3,Telemundo
+#EXTINF:-3 group-title="Noticias",Telemundo
 http://138.59.177.34:8000/play/a02a/index.m3u8
-#EXTINF:-3,Telemundo HD
+#EXTINF:-3 group-title="Noticias",Telemundo HD2
 http://138.59.177.34:8000/play/a034/index.m3u8
 #EXTINF:-3,Telesistema RD
 http://138.59.177.34:8000/play/a01y/index.m3u8
@@ -669,9 +669,9 @@ http://181.119.67.75:16123/play/ch55
 http://181.119.67.75:16123/play/ch56
 #EXTINF:-3,DEPELÍCULA
 http://181.119.67.75:16123/play/ch57
-#EXTINF:-3,CARACOL
+#EXTINF:-3 group-title="Colombia",Caracol CO
 http://181.119.67.75:16123/play/ch58
-#EXTINF:-3,RCN
+#EXTINF:-3 group-title="Colombia",RCN
 http://181.119.67.75:16123/play/ch59a
 #EXTINF:-3,TELECARIBE
 http://181.119.67.75:16123/play/ch60
