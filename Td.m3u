@@ -29,16 +29,7 @@ http://45.169.99.154:58001/play/a021/index.m3u8
 http://45.169.99.154:58001/play/a00t/index.m3u8
 #EXTINF:-3,E! Entretenimiento HD
 http://45.169.99.154:58001/play/a012/index.m3u8
-#EXTINF:-3 group-title="Fútbol",ESPN +
-http://45.169.99.154:58001/play/a02g/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN HD
-http://45.169.99.154:58001/play/a00m/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 2 HD
-http://45.169.99.154:58001/play/a00k/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 3 HD
-http://45.169.99.154:58001/play/a00l/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 4 HD
-http://45.169.99.154:58001/play/a02o/index.m3u8
+
 #EXTINF:-3,ZORRO Acción HD
 http://45.169.99.154:58001/play/a00g/index.m3u8
 #EXTINF:-3, FOX Comedia HD
@@ -75,8 +66,7 @@ http://45.169.99.154:58001/play/a01o/index.m3u8
 http://45.169.99.154:58001/play/a01n/index.m3u8
 #EXTINF:-3,¡HOLA! televisión de alta definición
 http://45.169.99.154:58001/play/a00a/index.m3u8
-#EXTINF:-3 group-title="Educación",History Channel Eng HD
-http://45.169.99.154:58001/play/a02f/index.m3u8
+
 #EXTINF:-3,Hogar y Salud HD
 http://45.169.99.154:58001/play/a009/index.m3u8
 #EXTINF:-3,MTV HD
@@ -113,8 +103,7 @@ http://45.169.99.154:58001/play/a007/index.m3u8
 http://45.169.99.154:58001/play/a00q/index.m3u8
 #EXTINF:-3,Nick adolescente HD
 http://45.169.99.154:58001/play/a01t/index.m3u8
-#EXTINF:-3 group-title="Noticias",Telemundo HD
-http://45.169.99.154:58001/play/a016/index.m3u8
+
 #EXTINF:-3, UNIVERSAL COMEDIA HD
 http://45.169.99.154:58001/play/a01z/index.m3u8
 #EXTINF:-3,CRIMEN UNIVERSAL HD
@@ -299,24 +288,7 @@ http://138.59.177.34:8000/play/a026/index.m3u8
 http://138.59.177.34:8000/play/a051/index.m3u8
 #EXTINF:-3,E! Entretenimiento HD
 http://138.59.177.34:8000/play/a030/index.m3u8
-#EXTINF:-3 group-title="Fútbol",ESPN
-http://138.59.177.34:8000/play/a058/index.m3u8
-#EXTINF:-3 group-title="Fútbol",ESPN +
-http://138.59.177.34:8000/play/a02t/index.m3u8
-#EXTINF:-3 group-title="Fútbol",ESPN 2
-http://138.59.177.34:8000/play/a059/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 2 HD
-http://138.59.177.34:8000/play/a072/index.m3u8
-#EXTINF:-3 group-title="Fútbol",ESPN 3
-http://138.59.177.34:8000/play/a046/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 3 HD
-http://138.59.177.34:8000/play/a071/index.m3u8
-#EXTINF:-3 group-title="Fútbol",ESPN 4
-http://138.59.177.34:8000/play/a06j/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 4 HD
-http://138.59.177.34:8000/play/a06v/index.m3u8
-#EXTINF:-3 group-title="Fútbol",ESPN 2
-http://138.59.177.34:8000/play/a070/index.m3u8
+
 #EXTINF:-3, canal EURO
 http://138.59.177.34:8000/play/a041/index.m3u8
 #EXTINF:-3,EWTN
@@ -329,8 +301,7 @@ http://138.59.177.34:8000/play/a036/index.m3u8
 http://138.59.177.34:8000/play/a05a/index.m3u8
 #EXTINF:-3,FOX DEPORTES 2 HD
 http://138.59.177.34:8000/play/a05k/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",Fox Sports 3 HD
-http://138.59.177.34:8000/play/a073/index.m3u8
+
 #EXTINF:-3,FOX Deportes 2
 http://138.59.177.34:8000/play/a047/index.m3u8
 #EXTINF:-3,FUTV CR
@@ -345,8 +316,7 @@ http://138.59.177.34:8000/play/a035/index.m3u8
 http://138.59.177.34:8000/play/a01f/index.m3u8
 #EXTINF:-3, Cine y artes HD
 http://138.59.177.34:8000/play/a031/index.m3u8
-#EXTINF:-3 group-title="Fútbol",Fox Sports 3
-http://138.59.177.34:8000/play/a02h/index.m3u8
+
 #EXTINF:-3,dorado
 http://138.59.177.34:8000/play/a04d/index.m3u8
 #EXTINF:-3, estreno dorado 2 HD
@@ -377,10 +347,7 @@ http://138.59.177.34:8000/play/a022/index.m3u8
 http://138.59.177.34:8000/play/a05o/index.m3u8
 #EXTINF:-3,HTV
 http://138.59.177.34:8000/play/a04c/index.m3u8
-#EXTINF:-3 group-title="Educación",History de canal
-http://138.59.177.34:8000/play/a056/index.m3u8
-#EXTINF:-3 group-title="Educación",History Channel HD
-http://138.59.177.34:8000/play/a02s/index.m3u8
+
 #EXTINF:-3,Hola!TV
 http://138.59.177.34:8000/play/a00w/index.m3u8
 #EXTINF:-3,Hogar y Salud HD
@@ -423,8 +390,7 @@ http://138.59.177.34:8000/play/a06o/index.m3u8
 http://138.59.177.34:8000/play/a03s/index.m3u8
 #EXTINF:-3,Geo natural HD
 http://138.59.177.34:8000/play/a074/index.m3u8
-#EXTINF:-3 group-title="Educación",Nat Geo
-http://138.59.177.34:8000/play/a02f/index.m3u8
+
 #EXTINF:-3,Nicarao TV
 http://138.59.177.34:8000/play/a027/index.m3u8
 #EXTINF:-3,Nick Jr.
@@ -443,8 +409,7 @@ http://138.59.177.34:8000/play/a075/index.m3u8
 http://138.59.177.34:8000/play/a079/index.m3u8
 #EXTINF:-3,RCN-GUA
 http://138.59.177.34:8000/play/a062/index.m3u8
-#EXTINF:-3 group-title="Colombia",RCN Novelas
-http://138.59.177.34:8000/play/a040/index.m3u8
+
 #EXTINF:-3,RHEMA TV
 http://138.59.177.34:8000/play/a06u/index.m3u8
 #EXTINF:-3,SEMILLITAS
@@ -511,10 +476,7 @@ http://138.59.177.34:8000/play/a04t/index.m3u8
 http://138.59.177.34:8000/play/a04q/index.m3u8
 #EXTINF:-3,Telecentro - RD
 http://138.59.177.34:8000/play/a03q/index.m3u8
-#EXTINF:-3 group-title="Noticias",Telemundo
-http://138.59.177.34:8000/play/a02a/index.m3u8
-#EXTINF:-3 group-title="Noticias",Telemundo HD2
-http://138.59.177.34:8000/play/a034/index.m3u8
+
 #EXTINF:-3,Telesistema RD
 http://138.59.177.34:8000/play/a01y/index.m3u8
 #EXTINF:-3,Teleuniverso-RD
@@ -585,14 +547,7 @@ http://181.119.67.75:16123/play/ch13
 http://181.119.67.75:16123/play/ch14
 #EXTINF:-3,CONEXIÓN
 http://181.119.67.75:16123/play/ch15
-#EXTINF:-3 group-title="Fútbol",ESPN
-http://181.119.67.75:16123/play/ch16
-#EXTINF:-3 group-title="Fútbol",ESPN 2
-http://181.119.67.75:16123/play/ch17
-#EXTINF:-3 group-title="Fútbol",ESPN 3
-http://181.119.67.75:16123/play/ch18
-#EXTINF:-3 group-title="Fútbol",ESPN 4
-http://181.119.67.75:16123/play/ch19
+
 #EXTINF:-3,DEPORTES ZORRO 2
 http://181.119.67.75:16123/play/ch20
 #EXTINF:-3,DEPORTES ZORRO 3
@@ -669,10 +624,7 @@ http://181.119.67.75:16123/play/ch55
 http://181.119.67.75:16123/play/ch56
 #EXTINF:-3,DEPELÍCULA
 http://181.119.67.75:16123/play/ch57
-#EXTINF:-3 group-title="Colombia",Caracol CO
-http://181.119.67.75:16123/play/ch58
-#EXTINF:-3 group-title="Colombia",RCN
-http://181.119.67.75:16123/play/ch59a
+
 #EXTINF:-3,TELECARIBE
 http://181.119.67.75:16123/play/ch60
 #EXTINF:-3,SENAL COLOMBIA
@@ -775,18 +727,15 @@ http://160.20.165.245:8000/play/a00l/index.m3u8
 http://160.20.165.245:8000/play/a00u/index.m3u8
 #EXTINF:-3,EWTN
 http://160.20.165.245:8000/play/a00v/index.m3u8
-#EXTINF:-3 group-title="Ecuador",Ecuador TV
-http://160.20.165.245:8000/play/a00q/index.m3u8
+
 #EXTINF:-3,FANPOP
 http://160.20.165.245:8000/play/a01g/index.m3u8
 #EXTINF:-3,FMHFAMILIA
 http://160.20.165.245:8000/play/a01j/index.m3u8
 #EXTINF:-3,FMHKIDS
 http://160.20.165.245:8000/play/a01f/index.m3u8
-#EXTINF:-3 group-title="Ecuador",GamaTV
-http://160.20.165.245:8000/play/a00r/index.m3u8
-#EXTINF:-3 group-title="Educación",History Channel
-http://160.20.165.245:8000/play/a00m/index.m3u8
+
+
 #EXTINF:-3,MI MÚSICA ÉXITOS
 http://160.20.165.245:8000/play/a019/index.m3u8
 #EXTINF:-3,MI MUSICA REGETON
@@ -795,8 +744,7 @@ http://160.20.165.245:8000/play/a018/index.m3u8
 http://160.20.165.245:8000/play/a01b/index.m3u8
 #EXTINF:-3,MI MÚSICA SALSA
 http://160.20.165.245:8000/play/a01a/index.m3u8
-#EXTINF:-3 group-title="Educación",Nat Geo
-http://160.20.165.245:8000/play/a00z/index.m3u8
+
 #EXTINF:-3,NTN 24
 http://160.20.165.245:8000/play/a00y/index.m3u8
 #EXTINF:-3,NUESTRA TELE
@@ -817,8 +765,7 @@ http://160.20.165.245:8000/play/a01c/index.m3u8
 http://160.20.165.245:8000/play/a01e/index.m3u8
 #EXTINF:-3,TITAN
 http://160.20.165.245:8000/play/a01i/index.m3u8
-#EXTINF:-3 group-title="Ecuador",Teleamazonas
-http://160.20.165.245:8000/play/a00p/index.m3u8
+
 #EXTINF:-3,CANAL UNIVERSAL
 http://160.20.165.245:8000/play/a01d/index.m3u8
 #EXTINF:-3,ADVERTENCIA
@@ -845,20 +792,12 @@ http://45.189.117.202:48000/play/a00e/index.m3u8
 http://45.189.117.202:48000/play/a00d/index.m3u8
 #EXTINF:-3,10016 Música FreeTV
 http://45.189.117.202:48000/play/a00i/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 4 HD
-http://45.189.117.202:48000/play/a00j/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 3 HD
-http://45.189.117.202:48000/play/a01a/index.m3u8
-#EXTINF:-3 group-title="Fútbol",Gol Perú
-http://45.189.117.202:48000/play/a00s/index.m3u8
+
 #EXTINF:-3,10021 TOP Latino
 http://45.189.117.202:48000/play/a019/index.m3u8
 #EXTINF:-3,10022 Canal Drama
 http://45.189.117.202:48000/play/a00k/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 2 HD
-http://45.189.117.202:48000/play/a00l/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN HD
-http://45.189.117.202:48000/play/a00r/index.m3u8
+
 #EXTINF:-3,10047 HBO
 http://45.189.117.202:48000/play/a01g/index.m3u8
 #EXTINF:-3,10048 HBO 2
@@ -893,8 +832,7 @@ http://45.189.117.202:48000/play/a02f/index.m3u8
 http://45.189.117.202:48000/play/a00t/index.m3u8
 #EXTINF:-3,Disney Jr HD
 http://45.189.117.202:48000/play/a02j/index.m3u8
-#EXTINF:-3 group-title="Educación",History Channel 2HD
-http://45.189.117.202:48000/play/a02k/index.m3u8
+
 #EXTINF:-3, estrella más HD
 http://45.189.117.202:48000/play/a01y/index.m3u8
 #EXTINF:-3,TeleLima
