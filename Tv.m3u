@@ -299,3 +299,88 @@ https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="902" tvg-name="Ñublevision" tvg-logo="https://i2.paste.pics/eccc0f198fb9739c2fda39aef85e81ae.png", Ñublevision | CL
 https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8?PlaylistM3UCL
+#agosto
+#EXTINF:-3 group-title="Educación",Nat Geo
+http://138.59.177.34:8000/play/a02f/index.m3u8
+#EXTINF:-3 group-title="Educación",Nat Geo
+http://160.20.165.245:8000/play/a00z/index.m3u8
+#EXTINF:-3 group-title="Educación",History Channel Eng HD
+http://45.169.99.154:58001/play/a02f/index.m3u8
+#EXTINF:-3 group-title="Educación",History Channel HD
+http://138.59.177.34:8000/play/a02s/index.m3u8
+#EXTINF:-3 group-title="Educación",History Channel
+http://160.20.165.245:8000/play/a00m/index.m3u8
+#EXTINF:-3 group-title="Educación",History de canal
+http://138.59.177.34:8000/play/a056/index.m3u8
+#EXTINF:-3 group-title="Educación",History Channel HD
+http://138.59.177.34:8000/play/a02s/index.m3u8
+#EXTINF:-3 group-title="Educación",History Channel 2HD
+http://45.189.117.202:48000/play/a02k/index.m3u8
+#EXTINF:-3 group-title="Ecuador",Teleamazonas
+http://160.20.165.245:8000/play/a00p/index.m3u8
+#EXTINF:-3 group-title="Ecuador",Ecuador TV
+http://160.20.165.245:8000/play/a00q/index.m3u8
+#EXTINF:-3 group-title="Ecuador",GamaTV
+http://160.20.165.245:8000/play/a00r/index.m3u8
+#EXTINF:-3 group-title="Fútbol",ESPN +
+http://45.169.99.154:58001/play/a02g/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD",ESPN HD
+http://45.169.99.154:58001/play/a00m/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD",ESPN 2 HD
+http://45.169.99.154:58001/play/a00k/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD",ESPN 3 HD
+http://45.169.99.154:58001/play/a00l/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD",ESPN 4 HD
+http://45.169.99.154:58001/play/a02o/index.m3u8
+#EXTINF:-3 group-title="Fútbol",ESPN
+http://138.59.177.34:8000/play/a058/index.m3u8
+#EXTINF:-3 group-title="Fútbol",ESPN +
+http://138.59.177.34:8000/play/a02t/index.m3u8
+#EXTINF:-3 group-title="Fútbol",ESPN 2
+http://138.59.177.34:8000/play/a059/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD",ESPN 2 HD
+http://138.59.177.34:8000/play/a072/index.m3u8
+#EXTINF:-3 group-title="Fútbol",ESPN 3
+http://138.59.177.34:8000/play/a046/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD",ESPN 3 HD
+http://138.59.177.34:8000/play/a071/index.m3u8
+#EXTINF:-3 group-title="Fútbol",ESPN 4
+http://138.59.177.34:8000/play/a06j/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD",ESPN 4 HD
+http://138.59.177.34:8000/play/a06v/index.m3u8
+#EXTINF:-3 group-title="Fútbol",ESPN 2
+http://138.59.177.34:8000/play/a070/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD",ESPN 4 HD
+http://45.189.117.202:48000/play/a00j/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD",ESPN 3 HD
+http://45.189.117.202:48000/play/a01a/index.m3u8
+#EXTINF:-3 group-title="Fútbol",Gol Perú
+http://45.189.117.202:48000/play/a00s/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD",ESPN 2 HD
+http://45.189.117.202:48000/play/a00l/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD",ESPN HD
+http://45.189.117.202:48000/play/a00r/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD",Fox Sports 3 HD
+http://138.59.177.34:8000/play/a073/index.m3u8
+#EXTINF:-3 group-title="Fútbol",ESPN
+http://181.119.67.75:16123/play/ch16
+#EXTINF:-3 group-title="Fútbol",ESPN 2
+http://181.119.67.75:16123/play/ch17
+#EXTINF:-3 group-title="Fútbol",ESPN 3
+http://181.119.67.75:16123/play/ch18
+#EXTINF:-3 group-title="Fútbol",ESPN 4
+http://181.119.67.75:16123/play/ch19
+#EXTINF:-3 group-title="Fútbol",Fox Sports 3
+http://138.59.177.34:8000/play/a02h/index.m3u8
+#EXTINF:-3 group-title="Colombia",RCN Novelas
+http://138.59.177.34:8000/play/a040/index.m3u8
+#EXTINF:-3 group-title="Colombia",Caracol CO
+http://181.119.67.75:16123/play/ch58
+#EXTINF:-3 group-title="Colombia",RCN
+http://181.119.67.75:16123/play/ch59a
+#EXTINF:-3 group-title="Noticias",Telemundo HD
+http://45.169.99.154:58001/play/a016/index.m3u8
+#EXTINF:-3 group-title="Noticias",Telemundo
+http://138.59.177.34:8000/play/a02a/index.m3u8
+#EXTINF:-3 group-title="Noticias",Telemundo HD2
+http://138.59.177.34:8000/play/a034/index.m3u8
