@@ -9,7 +9,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/Yr4xUKW.png",Ecotel
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
-#EXTINF:-3 group-title="Noticias",tvg-id="GaliciaTVAmerica.es" tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png",Galicia TV América (720p)
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png",Galicia TV América
 http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/Tof18lJ.png",Hechos Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
@@ -211,7 +211,7 @@ https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
 http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Chile" tvg-logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png",Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Chile",tvg-id="1377" tvg-name="Cauquenesnet TV" tvg-logo="https://i.paste.pics/c68d2bbc21789bd5b1ddc5353b4637ba.png", Cauquenesnet TV
+#EXTINF:-3 group-title="Chile" tvg-logo="https://i.paste.pics/c68d2bbc21789bd5b1ddc5353b4637ba.png",Cauquenesnet TV
 https://vdo.miserver.pro:3102/stream/play.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Chile" tvg-logo="https://i2.paste.pics/d4950684d99dbc3a25f4ef74a2895871.png",ClickTv Internacional
 https://patagoniaip.trapemn.tv:1936/comunales/clicktv1.stream/playlist.m3u8?PlaylistM3UCL
