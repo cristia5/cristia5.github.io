@@ -323,7 +323,7 @@ http://160.20.165.245:8000/play/a00q/index.m3u8
 http://160.20.165.245:8000/play/a00r/index.m3u8
 #EXTINF:-3 group-title="Fútbol",ESPN +
 http://45.169.99.154:58001/play/a02g/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN HD
+#EXTINF:-3 group-title="Ecuador"Oromar tv
 http://45.169.99.154:58001/play/a00m/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD",ESPN 2 HD
 http://45.169.99.154:58001/play/a00k/index.m3u8
