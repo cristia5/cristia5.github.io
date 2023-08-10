@@ -315,7 +315,7 @@ http://138.59.177.34:8000/play/a071/index.m3u8
 http://138.59.177.34:8000/play/a06j/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD",ESPN 4 HD
 http://138.59.177.34:8000/play/a06v/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN HD
+#EXTINF:-3 group-title="Fútbol HD",ESPN 2
 http://138.59.177.34:8000/play/a070/index.m3u8
 #EXTINF:-3, canal EURO
 http://138.59.177.34:8000/play/a041/index.m3u8
