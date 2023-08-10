@@ -3,11 +3,11 @@
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-3 group-title="Noticias",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-3 group-title="Noticias",tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Español (1080p)
+#EXTINF:-3 group-title="Noticias",tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-3 group-title="Noticias",tvg-id="RTenEspanol.ru" tvg-logo="https://i.imgur.com/Fbli6Ml.png",RT en Español (1080p) [Geo-blocked]
+#EXTINF:-3 group-title="Noticias",tvg-logo="https://i.imgur.com/Fbli6Ml.png",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-3 group-title="Noticias",tvg-id="EcotelTV.ec" tvg-logo="https://i.imgur.com/Yr4xUKW.png",Ecotel (720p) [Not 24/7]
+#EXTINF:-3 group-title="Noticias",tvg-logo="https://i.imgur.com/Yr4xUKW.png",Ecotel
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:-3 group-title="Noticias",tvg-id="GaliciaTVAmerica.es" tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png",Galicia TV América (720p)
 http://america-crtvg.flumotion.com/playlist.m3u8
