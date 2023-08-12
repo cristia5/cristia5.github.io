@@ -353,15 +353,15 @@ http://138.59.177.34:8000/play/a070/index.m3u8
 http://45.189.117.202:48000/play/a00j/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD",ESPN 32 HD
 http://45.189.117.202:48000/play/a01a/index.m3u8
-#EXTINF:-3,group-title="Fútbol HD",Tigo Deportes HD
+#EXTINF:-3 group-title="Fútbol HD",Tigo Deportes HD
 http://138.59.177.34:8000/play/a05i/index.m3u8
-#EXTINF:-3,group-title="Fútbol HD",Claro Deportes 1 HD
+#EXTINF:-3 group-title="Fútbol HD",Claro Deportes 1 HD
 http://138.59.177.34:8000/play/a01i/index.m3u8
-#EXTINF:-3,group-title="Fútbol",Claro Deportes 1
+#EXTINF:-3 group-title="Fútbol",Claro Deportes 1
 http://138.59.177.34:8000/play/a06h/index.m3u8
-#EXTINF:-3,group-title="Fútbol HD",Claro Sports 2 HD
+#EXTINF:-3 group-title="Fútbol HD",Claro Sports 2 HD
 http://138.59.177.34:8000/play/a01j/index.m3u8
-#EXTINF:-3,group-title"Fútbol",Claro Sports 2
+#EXTINF:-3 group-title"Fútbol",Claro Sports 2
 http://138.59.177.34:8000/play/a045/index.m3u8
 #EXTINF:-3 group-title="Fútbol",Gol Perú
 http://45.189.117.202:48000/play/a00s/index.m3u8
@@ -369,9 +369,9 @@ http://45.189.117.202:48000/play/a00s/index.m3u8
 http://45.189.117.202:48000/play/a00l/index.m3u8
 #EXTINF:-3 group-title="Ecuador",Oromar Tv
 http://160.20.165.245:8000/play/a00t/index.m3u8
-#EXTINF:-3,group-title="Noticias",RT ESPAÑOL
+#EXTINF:-3 group-title="Noticias",RT ESPAÑOL
 http://160.20.165.245:8000/play/a00w/index.m3u8
-#EXTINF:-3,group-title="Ecuador",RTU
+#EXTINF:-3 group-title="Ecuador",RTU
 http://160.20.165.245:8000/play/a00s/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD",Fox Sports 3 HD
 http://138.59.177.34:8000/play/a073/index.m3u8
@@ -383,9 +383,9 @@ http://181.119.67.75:16123/play/ch17
 http://181.119.67.75:16123/play/ch18
 #EXTINF:-3 group-title="Fútbol",ESPN 41
 http://181.119.67.75:16123/play/ch19
-#EXTINF:-3,group-title="Fútbol",FOX Deportes 2
+#EXTINF:-3 group-title="Fútbol",FOX Deportes 2
 http://138.59.177.34:8000/play/a047/index.m3u8
-#EXTINF:-3,group-title="Fútbol HD",FOX DEPORTES 3 HD
+#EXTINF:-3 group-title="Fútbol HD",FOX DEPORTES 31 HD
 http://45.169.99.154:58001/play/a00n/index.m3u8
 #EXTINF:-3 group-title="Fútbol",Fox Sports 3
 http://138.59.177.34:8000/play/a02h/index.m3u8
@@ -401,5 +401,5 @@ http://45.169.99.154:58001/play/a016/index.m3u8
 http://138.59.177.34:8000/play/a02a/index.m3u8
 #EXTINF:-3 group-title="Noticias",Telemundo HD2
 http://138.59.177.34:8000/play/a034/index.m3u8
-#EXTINF:-3,group-title="Venezuela",VE MÁS
+#EXTINF:-3 group-title="Venezuela",VE MÁS
 http://181.119.67.75:16123/play/ch36
