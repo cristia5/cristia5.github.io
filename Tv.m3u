@@ -355,7 +355,7 @@ http://45.189.117.202:48000/play/a00j/index.m3u8
 http://45.189.117.202:48000/play/a01a/index.m3u8
 #EXTINF:-3,group-title="Fútbol HD",Tigo Deportes HD
 http://138.59.177.34:8000/play/a05i/index.m3u8
-#EXTINF:-3,group-title="Fútbol",Claro Deportes 1 HD
+#EXTINF:-3,group-title="Fútbol HD",Claro Deportes 1 HD
 http://138.59.177.34:8000/play/a01i/index.m3u8
 #EXTINF:-3,group-title="Fútbol",Claro Deportes 1
 http://138.59.177.34:8000/play/a06h/index.m3u8
