@@ -361,7 +361,7 @@ http://138.59.177.34:8000/play/a01i/index.m3u8
 http://138.59.177.34:8000/play/a06h/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD",Claro Sports 2 HD
 http://138.59.177.34:8000/play/a01j/index.m3u8
-#EXTINF:-3 group-title"Fútbol",Claro Sports 2
+#EXTINF:-3 group-title="Fútbol",Claro Sports 2
 http://138.59.177.34:8000/play/a045/index.m3u8
 #EXTINF:-3 group-title="Fútbol",Gol Perú
 http://45.189.117.202:48000/play/a00s/index.m3u8
