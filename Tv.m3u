@@ -379,6 +379,10 @@ http://181.119.67.75:16123/play/ch17
 http://181.119.67.75:16123/play/ch18
 #EXTINF:-3 group-title="Fútbol",ESPN 41
 http://181.119.67.75:16123/play/ch19
+#EXTINF:-3,group-title="Fútbol",FOX Deportes 2
+http://138.59.177.34:8000/play/a047/index.m3u8
+#EXTINF:-3,group-title="Fútbol HD",FOX DEPORTES 3 HD
+http://45.169.99.154:58001/play/a00n/index.m3u8
 #EXTINF:-3 group-title="Fútbol",Fox Sports 3
 http://138.59.177.34:8000/play/a02h/index.m3u8
 #EXTINF:-3 group-title="Colombia",RCN Novelas

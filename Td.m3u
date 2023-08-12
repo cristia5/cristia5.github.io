@@ -40,8 +40,7 @@ http://45.169.99.154:58001/play/a00h/index.m3u8
 http://45.169.99.154:58001/play/a00f/index.m3u8
 #EXTINF:-3,FOX DEPORTES 2 HD
 http://45.169.99.154:58001/play/a006/index.m3u8
-#EXTINF:-3,FOX DEPORTES 3 HD
-http://45.169.99.154:58001/play/a00n/index.m3u8
+
 #EXTINF:-3, Serie FOX HD
 http://45.169.99.154:58001/play/a00e/index.m3u8
 #EXTINF:-3, FX HD
@@ -295,8 +294,6 @@ http://138.59.177.34:8000/play/a05a/index.m3u8
 #EXTINF:-3,FOX DEPORTES 2 HD
 http://138.59.177.34:8000/play/a05k/index.m3u8
 
-#EXTINF:-3,FOX Deportes 2
-http://138.59.177.34:8000/play/a047/index.m3u8
 #EXTINF:-3,FUTV CR
 http://138.59.177.34:8000/play/a05z/index.m3u8
 #EXTINF:-3,FUTV HD CR
