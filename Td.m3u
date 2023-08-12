@@ -240,10 +240,6 @@ http://138.59.177.34:8000/play/a06q/index.m3u8
 http://138.59.177.34:8000/play/a05b/index.m3u8
 #EXTINF:-3,Claro Música
 http://138.59.177.34:8000/play/a04a/index.m3u8
-#EXTINF:-3, Claro Deportes 1 HD
-http://138.59.177.34:8000/play/a01i/index.m3u8
-#EXTINF:-3,Claro Deportes 1 SD
-http://138.59.177.34:8000/play/a06h/index.m3u8
 
 #EXTINF:-3, Color Vision 9 - RD
 http://138.59.177.34:8000/play/a04u/index.m3u8
