@@ -483,8 +483,7 @@ http://138.59.177.34:8000/play/a01y/index.m3u8
 http://138.59.177.34:8000/play/a03n/index.m3u8
 #EXTINF:-3,Televida RD
 http://138.59.177.34:8000/play/a01b/index.m3u8
-#EXTINF:-3, Tigo Deportes HD
-http://138.59.177.34:8000/play/a05i/index.m3u8
+
 #EXTINF:-3,Tooncast
 http://138.59.177.34:8000/play/a04x/index.m3u8
 #EXTINF:-3,Tru TV
