@@ -273,7 +273,7 @@ https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 https://paneltv.online:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Chile" tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png",T-Vinet
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Chile" tvg-logo="https://lh3.googleusercontent.com/-ocbRhw13yZU/YD59yD7KV1I/AAAAAAABAfA/YTu015L36W07t8HVpzWdjgAYJvY3a42QgCK8BGAsYHg/s512/2021-03-02.jpg",TV 5 Linares
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://lh3.googleusercontent.com/-ocbRhw13yZU/YD59yD7KV1I/AAAAAAABAfA/YTu015L36W07t8HVpzWdjgAYJvY3a42QgCK8BGAsYHg/s512/2021-03-02.jpg",TV 5 Linares
 https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Chile" tvg-logo="https://lh3.googleusercontent.com/-uohfVTgGqkU/XrmveWQiUXI/AAAAAAAA0oQ/Bn7Ad9_7KMY6oMCjD2UJi_cp-8ynyLYSQCK8BGAsYHg/s0/2020-05-11.png",TV Elqui
 https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
