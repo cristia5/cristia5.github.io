@@ -506,8 +506,7 @@ http://138.59.177.34:8000/play/a00q/index.m3u8
 http://181.119.67.75:16123/play/ch01
 #EXTINF:-3,DISCOVERY KIDS
 http://181.119.67.75:16123/play/ch02
-#EXTINF:-3,ganar
-http://181.119.67.75:16123/play/a041
+
 #EXTINF:-3,DISNEY
 http://181.119.67.75:16123/play/ch03
 #EXTINF:-3,ZOOMOO
@@ -809,8 +808,7 @@ http://45.189.117.202:48000/play/a027/index.m3u8
 http://45.189.117.202:48000/play/a026/index.m3u8
 #EXTINF:-3,10099 HD dorado
 http://45.189.117.202:48000/play/a025/index.m3u8
-#EXTINF:-3,1124 DW Español
-http://45.189.117.202:48000/play/a00m/index.m3u8
+
 #EXTINF:-3,2003 Pucalpa TV
 http://45.189.117.202:48000/play/a02f/index.m3u8
 #EXTINF:-3,DisneyHD
