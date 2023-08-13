@@ -371,7 +371,7 @@ http://181.119.67.75:16123/play/a041
 http://160.20.165.245:8000/play/a00t/index.m3u8
 #EXTINF:-3 group-title="Noticias",RT ESPAÑOL
 http://160.20.165.245:8000/play/a00w/index.m3u8
-#EXTINF:-3 group-title="Noticias",DW Español1
+#EXTINF:-3 group-title="Noticias",DW Español 1
 http://45.189.117.202:48000/play/a00m/index.m3u8
 #EXTINF:-3 group-title="Ecuador",RTU
 http://160.20.165.245:8000/play/a00s/index.m3u8
