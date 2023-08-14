@@ -313,7 +313,7 @@ http://138.59.177.34:8000/play/a056/index.m3u8
 http://138.59.177.34:8000/play/a02s/index.m3u8
 #EXTINF:-3 group-title="Educación",History Channel 2HD
 http://45.189.117.202:48000/play/a02k/index.m3u8
-#EXTINF:-3 group-title="Ecuador",Teleamazonas
+#EXTINF:-3 group-title="Ecuador" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/800px-Teleamazonas_Logo.png",Teleamazonas
 http://160.20.165.245:8000/play/a00p/index.m3u8
 #EXTINF:-3 group-title="Ecuador",Ecuador TV
 http://160.20.165.245:8000/play/a00q/index.m3u8
