@@ -301,6 +301,8 @@ https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8?Pla
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Bolivia" tvg-logo="https://lh3.googleusercontent.com/-N3zh29QSPGc/XoJ-bfc5s-I/AAAAAAAAxUU/049-pOmZOb4ESR2rDTzzDCO6zO5niZ5-QCK8BGAsYHg/s0/2020-03-30.png",RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Perú" tvg-logo="https://lh3.googleusercontent.com/-421vow8pfJs/X5waL4rYooI/AAAAAAAA634/92Pn5Ue8nJQjtxdr9zKc2yQrmo9dsBuXACK8BGAsYHg/s0/2020-10-30.png",Tvperuanisima
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Educación",Nat Geo
 http://138.59.177.34:8000/play/a02f/index.m3u8
 #EXTINF:-3 group-title="Educación",Nat Geo
