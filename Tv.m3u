@@ -365,47 +365,47 @@ https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8?Playlist
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="México" tvg-logo="https://i2.paste.pics/2a17d47eaeaa1669aa46af0eab75ae94.png",Tlaxcala TV
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="251" tvg-name="13 Max Television" tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png", 13 Max Television
+#EXTINF:-3 tvg-id="251" tvg-name="13 Max Television" tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png",13 Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="249" tvg-name="5TV" tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png", 5TV
+#EXTINF:-3 tvg-id="249" tvg-name="5TV" tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png",5TV
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="1333" tvg-name="AVC HD" tvg-logo="https://i.paste.pics/79e23fd722a391e2aaa15255f0c598bf.png", AVC HD
+#EXTINF:-3 tvg-id="1333" tvg-name="AVC HD" tvg-logo="https://i.paste.pics/79e23fd722a391e2aaa15255f0c598bf.png",AVC HD
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="266" tvg-name="Canal 10" tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png", Canal 10
+#EXTINF:-3 tvg-id="266" tvg-name="Canal 10" tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png",Canal 10
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="231" tvg-name="Canal 3 Las Heras" tvg-logo="https://lh3.googleusercontent.com/-Bo1d38m3t7E/X1TI1TCW_HI/AAAAAAAA5TQ/m4ZStqzslPcCdG1y7R1XQ4arveLLpxHjgCK8BGAsYHg/s0/2020-09-06.jpg", Canal 3 Las Heras
+#EXTINF:-3 tvg-id="231" tvg-name="Canal 3 Las Heras" tvg-logo="https://lh3.googleusercontent.com/-Bo1d38m3t7E/X1TI1TCW_HI/AAAAAAAA5TQ/m4ZStqzslPcCdG1y7R1XQ4arveLLpxHjgCK8BGAsYHg/s0/2020-09-06.jpg",Canal 3 Las Heras
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="260" tvg-name="Canal 4 San Juan" tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png", Canal 4 San Juan
+#EXTINF:-3 tvg-id="260" tvg-name="Canal 4 San Juan" tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png",Canal 4 San Juan
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="261" tvg-name="Canal 6 Moreno" tvg-logo="https://lh3.googleusercontent.com/-SlqJrd0GiYk/XjtCBz2FbhI/AAAAAAAAvog/HkkKzNWrEOYiE08Rdlw-mxsDtzpJ_zD8wCK8BGAsYHg/s0/2020-02-05.png", Canal 6 Moreno
+#EXTINF:-3 tvg-id="261" tvg-name="Canal 6 Moreno" tvg-logo="https://lh3.googleusercontent.com/-SlqJrd0GiYk/XjtCBz2FbhI/AAAAAAAAvog/HkkKzNWrEOYiE08Rdlw-mxsDtzpJ_zD8wCK8BGAsYHg/s0/2020-02-05.png",Canal 6 Moreno
 https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="1401" tvg-name="Canal 7 Neuquen" tvg-logo="https://i2.paste.pics/3c4cc0fb4d7d1bb1526eb7f6aba52515.png", Canal 7 Neuquen
+#EXTINF:-3 tvg-id="1401" tvg-name="Canal 7 Neuquen" tvg-logo="https://i2.paste.pics/3c4cc0fb4d7d1bb1526eb7f6aba52515.png",Canal 7 Neuquen
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="1336" tvg-name="Canal 8 Mar del Plata" tvg-logo="https://i.paste.pics/f367fbd7489929df2ba48ecab15137a6.png", Canal 8 Mar del Plata
+#EXTINF:-3 tvg-id="1336" tvg-name="Canal 8 Mar del Plata" tvg-logo="https://i.paste.pics/f367fbd7489929df2ba48ecab15137a6.png",Canal 8 Mar del Plata
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="1417" tvg-name="Canal E" tvg-logo="https://i2.paste.pics/ca86f0cdfc4fc1f2efc681aa0de687e9.png", Canal E
+#EXTINF:-3 tvg-id="1417" tvg-name="Canal E" tvg-logo="https://i2.paste.pics/ca86f0cdfc4fc1f2efc681aa0de687e9.png",Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="1356" tvg-name="El Histonauta TV" tvg-logo="https://i.paste.pics/1b5c2445187d85bcc724d7da7f6e1e1c.png", El Histonauta TV
+#EXTINF:-3 tvg-id="1356" tvg-name="El Histonauta TV" tvg-logo="https://i.paste.pics/1b5c2445187d85bcc724d7da7f6e1e1c.png",El Histonauta TV
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="1357" tvg-name="El Nueve" tvg-logo="https://i.paste.pics/13823cd098146dd48d400df104aa2d78.png", El Nueve
+#EXTINF:-3 tvg-id="1357" tvg-name="El Nueve" tvg-logo="https://i.paste.pics/13823cd098146dd48d400df104aa2d78.png",El Nueve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://i.paste.pics/d02b6b3b0cc50273b2bab778279779a3.png", El Trece
+#EXTINF:-3 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://i.paste.pics/d02b6b3b0cc50273b2bab778279779a3.png",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="212" tvg-name="Link TV" tvg-logo="https://lh3.googleusercontent.com/-vkXZdKTUiY8/X_IMq18-gxI/AAAAAAAA82k/4X2wus-6Pu0jJHKYjD2w66TpPqVoRk_IwCK8BGAsYHg/s0/2021-01-03.png", Link TV
+#EXTINF:-3 tvg-id="212" tvg-name="Link TV" tvg-logo="https://lh3.googleusercontent.com/-vkXZdKTUiY8/X_IMq18-gxI/AAAAAAAA82k/4X2wus-6Pu0jJHKYjD2w66TpPqVoRk_IwCK8BGAsYHg/s0/2021-01-03.png",Link TV
 https://panel.dattalive.com:443/8128_1/8128_1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="241" tvg-name="Litus TV" tvg-logo="https://lh3.googleusercontent.com/-q7-kJQtvOso/X1TK-HnauAI/AAAAAAAA5UI/AdF8_AvliswDIISemCqMoVi_e94C4ZrjwCK8BGAsYHg/s0/2020-09-06.png", Litus TV
+#EXTINF:-3 tvg-id="241" tvg-name="Litus TV" tvg-logo="https://lh3.googleusercontent.com/-q7-kJQtvOso/X1TK-HnauAI/AAAAAAAA5UI/AdF8_AvliswDIISemCqMoVi_e94C4ZrjwCK8BGAsYHg/s0/2020-09-06.png",Litus TV
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="1394" tvg-name="Medios Provincia" tvg-logo="https://i2.paste.pics/bae65ef98426cbae7a697c4caaa02d79.png", Medios Provincia
+#EXTINF:-3 tvg-id="1394" tvg-name="Medios Provincia" tvg-logo="https://i2.paste.pics/bae65ef98426cbae7a697c4caaa02d79.png",Medios Provincia
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="1406" tvg-name="Sello TV" tvg-logo="https://i2.paste.pics/2663b45b8a936b266642d1b22d5f7494.png", Sello TV
+#EXTINF:-3 tvg-id="1406" tvg-name="Sello TV" tvg-logo="https://i2.paste.pics/2663b45b8a936b266642d1b22d5f7494.png",Sello TV
 https://5f700d5b2c46f.streamlock.net:443/elsellotv/elsellotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="1366" tvg-name="Solive TV" tvg-logo="https://i.paste.pics/842e38f49a53d78ea1cbcf0253c457e6.png", Solive TV
+#EXTINF:-3 tvg-id="1366" tvg-name="Solive TV" tvg-logo="https://i.paste.pics/842e38f49a53d78ea1cbcf0253c457e6.png",Solive TV
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica
+#EXTINF:-3 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png",TV Publica
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="291" tvg-name="Telediario Televisión" tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png", Telediario Televisión
+#EXTINF:-3 tvg-id="291" tvg-name="Telediario Televisión" tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png",Telediario Televisión
 https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="1374" tvg-name="Ver TV" tvg-logo="https://i.paste.pics/29e2330846b4b598f64d7035e4817cf4.png", Ver TV
+#EXTINF:-3 tvg-id="1374" tvg-name="Ver TV" tvg-logo="https://i.paste.pics/29e2330846b4b598f64d7035e4817cf4.png",Ver TV
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-3 group-title="Educación",Nat Geo
