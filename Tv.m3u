@@ -297,7 +297,7 @@ https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i2.paste.pics/eccc0f198fb9739c2fda39aef85e81ae.png",Ñublevision
 https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-titlle="Venezuela" tvg-logo="https://i.paste.pics/63432aef40121d1b7f572d1746e653b0.png",Globovision
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://i.paste.pics/63432aef40121d1b7f572d1746e653b0.png",Globovision
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Bolivia" tvg-logo="https://lh3.googleusercontent.com/-N3zh29QSPGc/XoJ-bfc5s-I/AAAAAAAAxUU/049-pOmZOb4ESR2rDTzzDCO6zO5niZ5-QCK8BGAsYHg/s0/2020-03-30.png",RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
