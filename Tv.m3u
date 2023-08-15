@@ -311,6 +311,15 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UC
 https://stmv2.zcasthn.com.br/streamlatino/streamlatino/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Chile" tvg-logo="https://i2.paste.pics/a64816b3950330d38cae04c477929f3f.png",Cultura Online
 https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Rep dom" tvg-logo="https://lh3.googleusercontent.com/-Wm0tIirwAaI/XzgSgfucd3I/AAAAAAAA4R4/P8FwD68fC00xVm39i-qNZewMWAqG2Be2wCK8BGAsYHg/s0/2020-08-15.jpg",Amé
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Rep dom" tvg-logo="https://lh3.googleusercontent.com/-B-xmeIzShMA/XzgVttyb-XI/AAAAAAAA4TQ/3NYa5It_NjoiP1w4a5l5kIZfQD7s8VPpwCK8BGAsYHg/s0/2020-08-15.jpg",Entelevision
+https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Rep dom" tvg-logo="https://lh3.googleusercontent.com/-uim4E6l-Qno/XzgV0SohEtI/AAAAAAAA4TY/Kyj2EYmEWsgOf-9yObXMrT5G4uXkxdMMgCK8BGAsYHg/s0/2020-08-15.png",Farovision
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title ="Rep dom" tvg-logo="https://lh3.googleusercontent.com/-Yf-U57lYWTA/XzgV6SlCSxI/AAAAAAAA4Tc/Xono2T0plso6ImGpmCNRByn9akdBEoPLQCK8BGAsYHg/s0/2020-08-15.jpg",Fuego TV 
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-3 group-title="Educación",Nat Geo
 http://138.59.177.34:8000/play/a02f/index.m3u8
 #EXTINF:-3 group-title="Educación",Nat Geo
