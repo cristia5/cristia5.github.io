@@ -367,7 +367,7 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?P
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png",13 Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 tvg-id="249" tvg-name="5TV" tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png",5TV
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png",5TV
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 tvg-id="1333" tvg-name="AVC HD" tvg-logo="https://i.paste.pics/79e23fd722a391e2aaa15255f0c598bf.png",AVC HD
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8?PlaylistM3UCL
