@@ -303,6 +303,10 @@ https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Perú" tvg-logo="https://lh3.googleusercontent.com/-421vow8pfJs/X5waL4rYooI/AAAAAAAA634/92Pn5Ue8nJQjtxdr9zKc2yQrmo9dsBuXACK8BGAsYHg/s0/2020-10-30.png",Tvperuanisima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Brasil" tvg-logo="https://lh3.googleusercontent.com/-LY7wBMeb00g/X0EVEU18Z0I/AAAAAAAA4zc/j9mtkuTANto5mr8TApDQI1sdWnZ68z12ACK8BGAsYHg/s0/2020-08-22.png",Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Brasil" tvg-logo="https://lh3.googleusercontent.com/-6VphUlD1L4Y/X0EdNxO1YFI/AAAAAAAA42I/eJl7n6TrfWEZn2j8HSOqg1lOBrieAjlAQCK8BGAsYHg/s0/2020-08-22.png",Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Educación",Nat Geo
 http://138.59.177.34:8000/play/a02f/index.m3u8
 #EXTINF:-3 group-title="Educación",Nat Geo
