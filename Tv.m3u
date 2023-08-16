@@ -387,7 +387,7 @@ http://160.20.165.245:8000/play/a00p/index.m3u8
 http://160.20.165.245:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png",Ecuavisa
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title='Ecuador",Tc
+#EXTINF:-3 group-title="Ecuador",Tc
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl94ijdC-X31ZhTCCMwwMGiP4kLNfekzejL2Rt8fF5CoU)/dm/3/x7wijay/s/live-2.m3u8#cell=lnyc
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logotipo_como_GamaTV_2008.png/120px-Logotipo_como_GamaTV_2008.png",GamaTV
 http://160.20.165.245:8000/play/a00r/index.m3u8
