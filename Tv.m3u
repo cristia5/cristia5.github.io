@@ -47,31 +47,31 @@ https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8?PlaylistM3UCL
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png",Telemusica
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Perú",Antares TV
+#EXTINF:-3 group-title="Perú" tvg-logo="https://lh3.googleusercontent.com/-GXO0Icql4EQ/XoKCsLIBYYI/AAAAAAAAxU8/orolaAsdhtcwmmCf7538H7VopRGVo2wbwCK8BGAsYHg/s0/2020-03-30.png",Antares TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Perú",Autentica TV
+#EXTINF:-3 group-title="Perú" tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png",Autentica TV
 https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Perú",BHTV
+#EXTINF:-3 group-title="Perú" tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png",BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Perú",Central TV Chosica
+#EXTINF:-3 group-title="Perú" tvg-logo="https://lh3.googleusercontent.com/-RYmmtKCcnsg/XoKDWBIosrI/AAAAAAAAxVM/VtTI9I3CvW4yG16vrFcn_DVaTi1QPAKGwCK8BGAsYHg/s0/2020-03",Central TV Chosica
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Perú",Contacto Deportivo
+#EXTINF:-3 group-title="Perú" tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Perú",Controversia TV
+#EXTINF:-3 group-title="Perú" tvg-logo="https://i2.paste.pics/15caba439340da84feba0a02f409c8ca.png",Controversia TV
 https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Perú",Cultura 24 TV
+#EXTINF:-3 group-title="Perú" tvg-logo="https://lh3.googleusercontent.com/-tyIk1Zn_9b4/XoKD7ngkdjI/AAAAAAAAxVU/YqFdEeFnHHEwerBlUrSu4ZiGRuhyh-uKACK8BGAsYHg/s0/2020-03-30.png",Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Perú",Genios TV
+#EXTINF:-3 group-title="Perú" tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png",Genios TV
 https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Perú",Hechicera TV
+#EXTINF:-3 group-title="Perú" tvg-logo="https://lh3.googleusercontent.com/-LBfErrZhDc0/XxzwqzgjMeI/AAAAAAAA3bI/HllaPXeqeGcCJFcSxg64LMBpAGFJk5EEACK8BGAsYHg/s0/2020-07-25.pn",Hechicera TV
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Perú",OK TeVe
+#EXTINF:-3 group-title="Perú" tvg-logo="https://i2.paste.pics/13a1cbfd1b00f4e4582a523c9eb3d3b2.png",OK TeVe
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Perú",Planeta TV
+#EXTINF:-3 group-title="Perú" tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Perú",TV Cosmos 15.1
+#EXTINF:-3 group-title="Perú" tvg-logo="https://th.bing.com/th/id/R.41b3175f16d89f971188173efd85f46a?rik=1OYdeVfIyJO6%2fQ&riu=http%3a%2f%2fbilder.wunschliste.de%2fgfx%2fbv%2fcosmo-tv.jpg&ehk=Uz4cAVkPbqLoPNxpOEssOb4dmGgiCWTmecdUYt1r0c8%3d&risl=&pid=ImgRaw&r=0",TV Cosmos
 https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Perú",Telecolor TV
+#EXTINF:-3 group-title="Perú" tvg-logo="https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png",Telecolor TV
 https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://i2.paste.pics/424b6a55497d0fcf8744e5a55ba2ff93.png",Anzoategui TV
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?PlaylistM3UCL
