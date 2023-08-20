@@ -25,7 +25,7 @@ http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_CaliTV.png/800px-Logo_CaliTV.png",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Colombia",Canal CNC Pasto
+#EXTINF:-3 group-title="Colombia" tvg-logo="https://lh3.googleusercontent.com/-dZ9PqSZd2cE/XzggrDstNRI/AAAAAAAA4Xo/FKEv_wL8Mf0VRrsdGcuuCCBhF4yRhoohgCK8BGAsYHg/s0/2020-08-15.png",Canal CNC Pasto
 https://hvtrafico.ddns.net/pastocnc9/cnc9/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Colombia",Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
@@ -461,7 +461,7 @@ http://138.59.177.34:8000/play/a047/index.m3u8
 http://45.169.99.154:58001/play/a00n/index.m3u8
 #EXTINF:-3 group-title="Fútbol",Fox Sports 3
 http://138.59.177.34:8000/play/a02h/index.m3u8
-#EXTINF:-3 group-title="Colombia",RCN Novelas
+#EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/800px-RCN_Novelas_logo_2019.png",RCN Novelas
 http://138.59.177.34:8000/play/a040/index.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/800px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png",Caracol CO
 http://160.20.165.245:8000/play/a00x/index.m3u8
