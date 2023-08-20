@@ -363,21 +363,19 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Argentina" tvg-logo="https://i.paste.pics/29e2330846b4b598f64d7035e4817cf4.png",Ver TV
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Educación",Nat Geo
+#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/National_Geographic_Wild_Logo_2019.svg/800px-National_Geographic_Wild_Logo_2019.svg.png",Nat Geo
 http://138.59.177.34:8000/play/a02f/index.m3u8
-#EXTINF:-3 group-title="Educación",Nat Geo
+#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/National_Geographic_Wild_Logo_2019.svg/800px-National_Geographic_Wild_Logo_2019.svg.png",Nat Geo1
 http://160.20.165.245:8000/play/a00z/index.m3u8
-#EXTINF:-3 group-title="Educación",History Channel Eng HD
+#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",History Channel Eng HD
 http://45.169.99.154:58001/play/a02f/index.m3u8
-#EXTINF:-3 group-title="Educación",History Channel HD
+#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",History Channel HD
 http://138.59.177.34:8000/play/a02s/index.m3u8
-#EXTINF:-3 group-title="Educación",History Channel
+#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",History Channel
 http://160.20.165.245:8000/play/a00m/index.m3u8
-#EXTINF:-3 group-title="Educación",History de canal
+#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",History Channel1
 http://138.59.177.34:8000/play/a056/index.m3u8
-#EXTINF:-3 group-title="Educación",History Channel HD
-http://138.59.177.34:8000/play/a02s/index.m3u8
-#EXTINF:-3 group-title="Educación",History Channel 2HD
+#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/H2_channel_logo.PNG/800px-H2_channel_logo.PNG",History Channel 2HD
 http://45.189.117.202:48000/play/a02k/index.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/800px-Teleamazonas_Logo.png",Teleamazonas
 http://160.20.165.245:8000/play/a00p/index.m3u8
