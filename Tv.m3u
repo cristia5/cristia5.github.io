@@ -21,7 +21,7 @@ https://live.seo.tv.bo/live/1SEO.m3u8
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/Ns3WrOQ.png",TVM Internacional
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
-#EXTINF:-3 group-title="Venezuela",Canal i
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-EZAjwsDGsfM/YEth5st_ZaI/AAAAAAABAkk/SmN2QnV5cpsk_CQ8FC9zPRTPBqsZqEj2gCK8BGAsYHg/s512/2021-03-12.png",Canal i
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_CaliTV.png/800px-Logo_CaliTV.png",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
@@ -73,21 +73,21 @@ https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Perú",Telecolor TV
 https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Venezuela",Anzoategui TV
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://i2.paste.pics/424b6a55497d0fcf8744e5a55ba2ff93.png",Anzoategui TV
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Venezuela",Panavision
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png",Panavision
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Venezuela",Promar TV
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Promar_Television.png/800px-Promar_Television.png",Promar TV
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Venezuela",TRV
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://i2.paste.pics/691fbd76ac69d53faecf3480cecd4826.png",TRV
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Venezuela",TVS Maracay
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-opdSbo77LkM/YEtiwd5aljI/AAAAAAABAkw/zfF3b8WRKCkMiaVpD4zlHy0siTQmvlXRgCK8BGAsYHg/s512/2021-03-12.png",TVS Maracay
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Venezuela",Telesol
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://i2.paste.pics/6ce00e14d50fd87b8553b9c96201de3d.png",Telesol
 https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Venezuela",Vale TV
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Logo_de_VALE_TV.png/800px-Logo_de_VALE_TV.png",Vale TV
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Argentina",CINE
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
@@ -473,5 +473,5 @@ http://45.169.99.154:58001/play/a016/index.m3u8
 http://138.59.177.34:8000/play/a02a/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo HD2
 http://138.59.177.34:8000/play/a034/index.m3u8
-#EXTINF:-3 group-title="Venezuela",VE MÁS
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/800px-Ve_Plus_Logo_2019.png",Ve PLUS
 http://181.119.67.75:16123/play/ch36
