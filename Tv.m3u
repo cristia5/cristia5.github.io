@@ -421,7 +421,7 @@ http://138.59.177.34:8000/play/a070/index.m3u8
 http://45.189.117.202:48000/play/a00j/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 32 HD
 http://45.189.117.202:48000/play/a01a/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",Tigo Deportes HD
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/800px-Tigo_Sports_logo.svg.png",Tigo Sports HD
 http://138.59.177.34:8000/play/a05i/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/800px-Claro_TV_wordmark.svg.png",Claro Deportes 1 HD
 http://138.59.177.34:8000/play/a01i/index.m3u8
