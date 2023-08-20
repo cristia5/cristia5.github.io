@@ -463,7 +463,7 @@ http://45.169.99.154:58001/play/a00n/index.m3u8
 http://138.59.177.34:8000/play/a02h/index.m3u8
 #EXTINF:-3 group-title="Colombia",RCN Novelas
 http://138.59.177.34:8000/play/a040/index.m3u8
-#EXTINF:-3 group-title="Colombia",Caracol CO
+#EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/800px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png",Caracol CO
 http://160.20.165.245:8000/play/a00x/index.m3u8
 #EXTINF:-3 group-title="Colombia",RCN
 http://181.119.67.75:16123/play/ch59a
