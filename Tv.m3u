@@ -27,9 +27,9 @@ https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://lh3.googleusercontent.com/-dZ9PqSZd2cE/XzggrDstNRI/AAAAAAAA4Xo/FKEv_wL8Mf0VRrsdGcuuCCBhF4yRhoohgCK8BGAsYHg/s0/2020-08-15.png",Canal CNC Pasto
 https://hvtrafico.ddns.net/pastocnc9/cnc9/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Colombia",Canal Institucional
+#EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/800px-Se%C3%B1al_Institucional_logo.svg.png",Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Colombia",Canal Visión Dorada
+#EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/CanalVisionDorada.jpg/800px-CanalVisionDorada.jpg",Canal Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Colombia",Cosmovisión
 https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
