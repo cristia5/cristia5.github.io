@@ -155,8 +155,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?Playl
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Argentina",Radiocanal San Francisco
 http://204.199.3.2/.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Chile",Rewind Radio y TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Argentina",T5 Satelital
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Argentina",TDC TV Santa Fe
