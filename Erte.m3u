@@ -2,11 +2,9 @@
 #EXTINF:0,Platzi TV (1080p)
 #EXTGRP:Educación
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:0,EducaTV
-#EXTGRP:Educación
+#EXTINF:-3 group-title="Educación",EducaTV
 https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
-#EXTINF:0,Nat Geo
-#EXTGRP:Educación
+#EXTINF:-3 group-title="Educación",Nat Geo
 http://160.20.165.245:8000/play/a00z/index.m3u8
 #EXTINF:0,History Channel HD
 #EXTGRP:Educación
