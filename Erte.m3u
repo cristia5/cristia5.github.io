@@ -1,0 +1,709 @@
+#EXTM3U
+#EXTINF:0,Platzi TV (1080p)
+#EXTGRP:Educación
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:0,EducaTV
+#EXTGRP:Educación
+https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
+#EXTINF:0,Nat Geo
+#EXTGRP:Educación
+http://160.20.165.245:8000/play/a00z/index.m3u8
+#EXTINF:0,History Channel HD
+#EXTGRP:Educación
+http://138.59.177.34:8000/play/a02s/index.m3u8
+#EXTINF:0,History Channel
+#EXTGRP:Educación
+http://160.20.165.245:8000/play/a00m/index.m3u8
+#EXTINF:0,History de canal
+#EXTGRP:Educación
+http://138.59.177.34:8000/play/a056/index.m3u8
+#EXTINF:0,History Channel 2HD
+#EXTGRP:Educación
+http://45.189.117.202:48000/play/a02k/index.m3u8
+#EXTINF:0,History Channel Eng HD
+#EXTGRP:Educación
+http://45.169.99.154:58001/play/a02f/index.m3u8
+#EXTINF:0,Canal 26 (720p)
+#EXTGRP:Noticias
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:0,DW Español (1080p)
+#EXTGRP:Noticias
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0,RT en Español
+#EXTGRP:Noticias
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:0,Ecotel
+#EXTGRP:Noticias
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+#EXTINF:0,Galicia TV América
+#EXTGRP:Noticias
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0,Hechos Ecuador
+#EXTGRP:Noticias
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
+#EXTINF:0,SEO TV
+#EXTGRP:Noticias
+https://live.seo.tv.bo/live/1SEO.m3u8
+#EXTINF:0,TVM Internacional
+#EXTGRP:Noticias
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:0,Telesur
+#EXTGRP:Noticias
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TV 5 Linares
+#EXTGRP:Noticias
+https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TVN 24 Horas
+#EXTGRP:Noticias
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:0,Ñublevision
+#EXTGRP:Noticias
+https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,RT ESPAÑOL
+#EXTGRP:Noticias
+http://160.20.165.245:8000/play/a00w/index.m3u8
+#EXTINF:0,DW Español 1
+#EXTGRP:Noticias
+http://45.189.117.202:48000/play/a00m/index.m3u8
+#EXTINF:0,Telemundo HD
+#EXTGRP:Noticias
+http://45.169.99.154:58001/play/a016/index.m3u8
+#EXTINF:0,Telemundo
+#EXTGRP:Noticias
+http://138.59.177.34:8000/play/a02a/index.m3u8
+#EXTINF:0,Telemundo HD2
+#EXTGRP:Noticias
+http://138.59.177.34:8000/play/a034/index.m3u8
+#EXTINF:0,Tastemade en Español
+#EXTGRP:Cooking
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:0,Canal i
+#EXTGRP:Venezuela
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Anzoategui TV
+#EXTGRP:Venezuela
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Panavision
+#EXTGRP:Venezuela
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Promar TV
+#EXTGRP:Venezuela
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TRV
+#EXTGRP:Venezuela
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TVS Maracay
+#EXTGRP:Venezuela
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Telesol
+#EXTGRP:Venezuela
+https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Vale TV
+#EXTGRP:Venezuela
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Globovision
+#EXTGRP:Venezuela
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,VE MÁS
+#EXTGRP:Venezuela
+http://181.119.67.75:16123/play/ch36
+#EXTINF:0,Cali TV
+#EXTGRP:Colombia
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal CNC Pasto
+#EXTGRP:Colombia
+https://hvtrafico.ddns.net/pastocnc9/cnc9/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal Institucional
+#EXTGRP:Colombia
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal Visión Dorada
+#EXTGRP:Colombia
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+#EXTINF:0,Cosmovisión
+#EXTGRP:Colombia
+https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
+#EXTINF:0,Señal Colombia
+#EXTGRP:Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,La Despechada TV
+#EXTGRP:Colombia
+https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:0,Noticiero 90 Minutos
+#EXTGRP:Colombia
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TV Peñol
+#EXTGRP:Colombia
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TDI
+#EXTGRP:Colombia
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8?PlaylistM3UCL
+#EXTINF:0,Tele Familia
+#EXTGRP:Colombia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Telemusica
+#EXTGRP:Colombia
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
+#EXTINF:0,RCN Novelas
+#EXTGRP:Colombia
+http://138.59.177.34:8000/play/a040/index.m3u8
+#EXTINF:0,Caracol CO
+#EXTGRP:Colombia
+http://160.20.165.245:8000/play/a00x/index.m3u8
+#EXTINF:0,RCN
+#EXTGRP:Colombia
+http://181.119.67.75:16123/play/ch59a
+#EXTINF:0,CINE
+#EXTGRP:Argentina
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,CN 24/7 Neuquen
+#EXTGRP:Argentina
+https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,CPE TV
+#EXTGRP:Argentina
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Cadena 103
+#EXTGRP:Argentina
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 10 Rio Negro
+#EXTGRP:Argentina
+https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 12 Madryn TV
+#EXTGRP:Argentina
+https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 13 La Rioja
+#EXTGRP:Argentina
+http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 2 Sanagasta
+#EXTGRP:Argentina
+https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 20 Villamaria
+#EXTGRP:Argentina
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 22 Buenos Aires
+#EXTGRP:Argentina
+https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 4 Bahia Blanca
+#EXTGRP:Argentina
+https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 4 Jujuy
+#EXTGRP:Argentina
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 6 Entre Rios
+#EXTGRP:Argentina
+https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 7 Jujuy
+#EXTGRP:Argentina
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 79 Mar del Plata
+#EXTGRP:Argentina
+https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 9 Litoral
+#EXTGRP:Argentina
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal Coop
+#EXTGRP:Argentina
+https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal Rural
+#EXTGRP:Argentina
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Celta TV
+#EXTGRP:Argentina
+https://vivo.solumedia.com:19360/celta/celta.m3u8?PlaylistM3UCL
+#EXTINF:0,Chacra TV
+#EXTGRP:Argentina
+https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Cosmos TV
+#EXTGRP:Argentina
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
+#EXTINF:0,Crossing TV
+#EXTGRP:Argentina
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL
+#EXTINF:0,DEPORTV
+#EXTGRP:Argentina
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Informacion Periodistica
+#EXTGRP:Argentina
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-3167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
+#EXTINF:0,LTO Television
+#EXTGRP:Argentina
+https://ltocatamarca.github.io/ltotv.m3u8?PlaylistM3UCL
+#EXTINF:0,Lapacho TV Canal 11
+#EXTGRP:Argentina
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8?PlaylistM3UCL
+#EXTINF:0,Mas FM
+#EXTGRP:Argentina
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL
+#EXTINF:0,Metro TV Canal 12 Tucuman
+#EXTGRP:Argentina
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null&PlaylistM3UCL
+#EXTINF:0,Multivisión
+#EXTGRP:Argentina
+https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Music Top
+#EXTGRP:Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Neo TV
+#EXTGRP:Argentina
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+#EXTINF:0,Net TV
+#EXTGRP:Argentina
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Radiocanal San Francisco
+#EXTGRP:Argentina
+http://204.199.3.2/.m3u8?PlaylistM3UCL
+#EXTINF:0,T5 Satelital
+#EXTGRP:Argentina
+https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8?PlaylistM3UCL
+#EXTINF:0,TDC TV Santa Fe
+#EXTGRP:Argentina
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TIV Chaco
+#EXTGRP:Argentina
+https://inliveserver.com:1936/14044/14044/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Telecreativa
+#EXTGRP:Argentina
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Telemax
+#EXTGRP:Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Telpin Canal 2
+#EXTGRP:Argentina
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Uni Teve
+#EXTGRP:Argentina
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
+#EXTINF:0,UNIRIO
+#EXTGRP:Argentina
+https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,13 Max Television
+#EXTGRP:Argentina
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,5TV
+#EXTGRP:Argentina
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,AVC HD
+#EXTGRP:Argentina
+https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 10
+#EXTGRP:Argentina
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 3 Las Heras
+#EXTGRP:Argentina
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 6 Moreno
+#EXTGRP:Argentina
+https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 7 Neuquen
+#EXTGRP:Argentina
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 8 Mar del Plata
+#EXTGRP:Argentina
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal E
+#EXTGRP:Argentina
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,El Histonauta TV
+#EXTGRP:Argentina
+https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,El Nueve
+#EXTGRP:Argentina
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
+#EXTINF:0,El Trece
+#EXTGRP:Argentina
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+#EXTINF:0,Link TV
+#EXTGRP:Argentina
+https://panel.dattalive.com:443/8128_1/8128_1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Litus TV
+#EXTGRP:Argentina
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Medios Provincia
+#EXTGRP:Argentina
+https://stream.arcast.net:4443/mp/mp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Sello TV
+#EXTGRP:Argentina
+https://5f700d5b2c46f.streamlock.net:443/elsellotv/elsellotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Solive TV
+#EXTGRP:Argentina
+https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TV Publica
+#EXTGRP:Argentina
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
+#EXTINF:0,Telediario Televisión
+#EXTGRP:Argentina
+https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Ver TV
+#EXTGRP:Argentina
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Rewind Radio y TV
+#EXTGRP:Chile
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Camara de Diputados
+#EXTGRP:Chile
+https://tls-cl.cdnz.cl/camara/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Campo Abierto TV
+#EXTGRP:Chile
+https://v1.tustreaming.cl:19360/campoabierto/campoabierto.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 2 Quellon
+#EXTGRP:Chile
+https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 21 Chillán
+#EXTGRP:Chile
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 74 TeVe
+#EXTGRP:Chile
+https://Stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 9 Bío Bí­o TV
+#EXTGRP:Chile
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal Local
+#EXTGRP:Chile
+http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8?PlaylistM3UCL
+#EXTINF:0,Caracola TV
+#EXTGRP:Chile
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Cauquenesnet TV
+#EXTGRP:Chile
+https://vdo.miserver.pro:3102/stream/play.m3u8?PlaylistM3UCL
+#EXTINF:0,Decima TV
+#EXTGRP:Chile
+https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Ekiz TV
+#EXTGRP:Chile
+http://live.mundogo.cl/mundo/EquizTV/index.m3u8?PlaylistM3UCL
+#EXTINF:0,Enfoque Digital TV
+#EXTGRP:Chile
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Girovisual TV
+#EXTGRP:Chile
+https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Holvoet TV
+#EXTGRP:Chile
+https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Huasco TV
+#EXTGRP:Chile
+https://paneltv.online:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,ITV Patagonia
+#EXTGRP:Chile
+https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Iquique TV
+#EXTGRP:Chile
+https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8?PlaylistM3UCL
+#EXTINF:0,Juntos TV
+#EXTGRP:Chile
+https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8?PlaylistM3UCL
+#EXTINF:0,La Chilena TV
+#EXTGRP:Chile
+https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:0,La Red
+#EXTGRP:Chile
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Los Sauces TV
+#EXTGRP:Chile
+http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8?PlaylistM3UCL
+#EXTINF:0,Mega
+#EXTGRP:Chile
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Mi Radio TV
+#EXTGRP:Chile
+https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Pauta TV
+#EXTGRP:Chile
+https://unlimited1-cl-isp.dps.live/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,PinguinoTV
+#EXTGRP:Chile
+http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,PlanetaTV Music
+#EXTGRP:Chile
+https://scl.edge.grupoz.cl/music/live/music.m3u8?PlaylistM3UCL
+#EXTINF:0,Pucon TV
+#EXTGRP:Chile
+https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Puranoticia
+#EXTGRP:Chile
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+#EXTINF:0,Red Fueguina Radio
+#EXTGRP:Chile
+https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Spectrum Channel
+#EXTGRP:Chile
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+#EXTINF:0,SurTV
+#EXTGRP:Chile
+https://paneltv.online:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,T-Vinet
+#EXTGRP:Chile
+https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TV Elqui
+#EXTGRP:Chile
+https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TV Pop
+#EXTGRP:Chile
+https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
+#EXTINF:0,TV UCT
+#EXTGRP:Chile
+https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TVR Canal 11
+#EXTGRP:Chile
+https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,U Los Lagos
+#EXTGRP:Chile
+http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
+#EXTINF:0,UMAG TV 2
+#EXTGRP:Chile
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,UesTV
+#EXTGRP:Chile
+https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Chile Visual
+#EXTGRP:Chile
+https://stmv2.zcasthn.com.br/streamlatino/streamlatino/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Cultura Online
+#EXTGRP:Chile
+https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8?PlaylistM3UCL
+#EXTINF:0,VClassicTV
+#EXTGRP:Música
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,RTP
+#EXTGRP:Bolivia
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Sports
+#EXTGRP:Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
+#EXTINF:0,Band
+#EXTGRP:Brasil
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0,Amé
+#EXTGRP:Rep dom
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Entelevision
+#EXTGRP:Rep dom
+https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Farovision
+#EXTGRP:Rep dom
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Fuego TV
+#EXTGRP:unsorted
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Antares TV
+#EXTGRP:Perú
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Autentica TV
+#EXTGRP:Perú
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:0,BHTV
+#EXTGRP:Perú
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Central TV Chosica
+#EXTGRP:Perú
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Contacto Deportivo
+#EXTGRP:Perú
+https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
+#EXTINF:0,Controversia TV
+#EXTGRP:Perú
+https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL
+#EXTINF:0,Cultura 24 TV
+#EXTGRP:Perú
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Genios TV
+#EXTGRP:Perú
+https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:0,Hechicera TV
+#EXTGRP:Perú
+https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,OK TeVe
+#EXTGRP:Perú
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Planeta TV
+#EXTGRP:Perú
+https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+#EXTINF:0,TV Cosmos 15.1
+#EXTGRP:Perú
+https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Telecolor TV
+#EXTGRP:Perú
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+#EXTINF:0,Tvperuanisima
+#EXTGRP:Perú
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,ABC TV
+#EXTGRP:Paraguay
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3
+#EXTINF:0,Dismar TV
+#EXTGRP:Paraguay
+http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Estacion Cristal
+#EXTGRP:Paraguay
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,RCC TV
+#EXTGRP:Paraguay
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,15TV Sabinas
+#EXTGRP:México
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,8 NTV
+#EXTGRP:México
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,ADN 40
+#EXTGRP:México
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+#EXTINF:0,AMX Noticias
+#EXTGRP:México
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 10 Chiapas
+#EXTGRP:México
+https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 28 Nuevo Leon
+#EXTGRP:México
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 4 Saltillo
+#EXTGRP:México
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Jalisco TV
+#EXTGRP:México
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Multimedios CDMX
+#EXTGRP:México
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
+#EXTINF:0,Multimedios Laguna
+#EXTGRP:México
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?PlaylistM3UCL
+#EXTINF:0,Multimedios Monterrey
+#EXTGRP:México
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
+#EXTINF:0,Presumiendo Mexico
+#EXTGRP:México
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,RCG 1 Saltillo
+#EXTGRP:México
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,RTQ Queretaro
+#EXTGRP:México
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TVP Culiacan
+#EXTGRP:México
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Telemax Hermosillo
+#EXTGRP:México
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Teleplay
+#EXTGRP:México
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Tlaxcala TV
+#EXTGRP:México
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
+#EXTINF:0,Teleamazonas
+#EXTGRP:Ecuador
+http://160.20.165.245:8000/play/a00p/index.m3u8
+#EXTINF:0,Ecuador TV
+#EXTGRP:Ecuador
+http://160.20.165.245:8000/play/a00q/index.m3u8
+#EXTINF:0,Ecuavisa
+#EXTGRP:Ecuador
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?PlaylistM3UCL
+#EXTINF:0,GamaTV
+#EXTGRP:Ecuador
+http://160.20.165.245:8000/play/a00r/index.m3u8
+#EXTINF:0,Oromar Tv
+#EXTGRP:Ecuador
+http://160.20.165.245:8000/play/a00t/index.m3u8
+#EXTINF:0,RTU
+#EXTGRP:Ecuador
+http://160.20.165.245:8000/play/a00s/index.m3u8
+#EXTINF:0,ESPN +
+#EXTGRP:Fútbol
+http://45.169.99.154:58001/play/a02g/index.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:Fútbol
+http://138.59.177.34:8000/play/a058/index.m3u8
+#EXTINF:0,ESPN1 +
+#EXTGRP:Fútbol
+http://138.59.177.34:8000/play/a02t/index.m3u8
+#EXTINF:0,ESPN 2
+#EXTGRP:Fútbol
+http://138.59.177.34:8000/play/a059/index.m3u8
+#EXTINF:0,ESPN 3
+#EXTGRP:Fútbol
+http://138.59.177.34:8000/play/a046/index.m3u8
+#EXTINF:0,ESPN 4
+#EXTGRP:Fútbol
+http://138.59.177.34:8000/play/a06j/index.m3u8
+#EXTINF:0,ESPN 21
+#EXTGRP:Fútbol
+http://138.59.177.34:8000/play/a070/index.m3u8
+#EXTINF:0,Claro Deportes 1
+#EXTGRP:Fútbol
+http://138.59.177.34:8000/play/a06h/index.m3u8
+#EXTINF:0,Claro Sports 2
+#EXTGRP:Fútbol
+http://138.59.177.34:8000/play/a045/index.m3u8
+#EXTINF:0,Gol Perú
+#EXTGRP:Fútbol
+http://45.189.117.202:48000/play/a00s/index.m3u8
+#EXTINF:0,Win Sports
+#EXTGRP:Fútbol
+http://181.119.67.75:16123/play/a041
+#EXTINF:0,ESPN1
+#EXTGRP:Fútbol
+http://181.119.67.75:16123/play/ch16
+#EXTINF:0,ESPN 22
+#EXTGRP:Fútbol
+http://181.119.67.75:16123/play/ch17
+#EXTINF:0,ESPN 31
+#EXTGRP:Fútbol
+http://181.119.67.75:16123/play/ch18
+#EXTINF:0,ESPN 41
+#EXTGRP:Fútbol
+http://181.119.67.75:16123/play/ch19
+#EXTINF:0,FOX Deportes 2
+#EXTGRP:Fútbol
+http://138.59.177.34:8000/play/a047/index.m3u8
+#EXTINF:0,Fox Sports 3
+#EXTGRP:Fútbol
+http://138.59.177.34:8000/play/a02h/index.m3u8
+#EXTINF:0,ESPN 2 HD
+#EXTGRP:Fútbol HD
+http://45.169.99.154:58001/play/a00m/index.m3u8
+#EXTINF:0,ESPN 21 HD
+#EXTGRP:Fútbol HD
+http://45.169.99.154:58001/play/a00k/index.m3u8
+#EXTINF:0,ESPN 3 HD
+#EXTGRP:Fútbol HD
+http://45.169.99.154:58001/play/a00l/index.m3u8
+#EXTINF:0,ESPN 4 HD
+#EXTGRP:Fútbol HD
+http://45.169.99.154:58001/play/a02o/index.m3u8
+#EXTINF:0,ESPN 22 HD
+#EXTGRP:Fútbol HD
+http://138.59.177.34:8000/play/a072/index.m3u8
+#EXTINF:0,ESPN 31 HD
+#EXTGRP:Fútbol HD
+http://138.59.177.34:8000/play/a071/index.m3u8
+#EXTINF:0,ESPN 41 HD
+#EXTGRP:Fútbol HD
+http://138.59.177.34:8000/play/a06v/index.m3u8
+#EXTINF:0,ESPN 42 HD
+#EXTGRP:Fútbol HD
+http://45.189.117.202:48000/play/a00j/index.m3u8
+#EXTINF:0,ESPN 32 HD
+#EXTGRP:Fútbol HD
+http://45.189.117.202:48000/play/a01a/index.m3u8
+#EXTINF:0,Tigo Deportes HD
+#EXTGRP:Fútbol HD
+http://138.59.177.34:8000/play/a05i/index.m3u8
+#EXTINF:0,Claro Deportes 1 HD
+#EXTGRP:Fútbol HD
+http://138.59.177.34:8000/play/a01i/index.m3u8
+#EXTINF:0,Claro Sports 2 HD
+#EXTGRP:Fútbol HD
+http://138.59.177.34:8000/play/a01j/index.m3u8
+#EXTINF:0,ESPN 23 HD
+#EXTGRP:Fútbol HD
+http://45.189.117.202:48000/play/a00l/index.m3u8
+#EXTINF:0,Fox Sports 3 HD
+#EXTGRP:Fútbol HD
+http://138.59.177.34:8000/play/a073/index.m3u8
+#EXTINF:0,FOX DEPORTES 31 HD
+#EXTGRP:Fútbol HD
+http://45.169.99.154:58001/play/a00n/index.m3u8
