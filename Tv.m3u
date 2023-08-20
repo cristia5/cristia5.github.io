@@ -395,7 +395,7 @@ http://45.169.99.154:58001/play/a02g/index.m3u8
 http://45.169.99.154:58001/play/a00m/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/800px-ESPN2_logo.svg.png",ESPN 21 HD
 http://45.169.99.154:58001/play/a00k/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 3 HD
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 HD
 http://45.169.99.154:58001/play/a00l/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD",ESPN 4 HD
 http://45.169.99.154:58001/play/a02o/index.m3u8
@@ -407,9 +407,9 @@ http://138.59.177.34:8000/play/a02t/index.m3u8
 http://138.59.177.34:8000/play/a059/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/800px-ESPN2_logo.svg.png",ESPN 22 HD
 http://138.59.177.34:8000/play/a072/index.m3u8
-#EXTINF:-3 group-title="Fútbol",ESPN 3
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
 http://138.59.177.34:8000/play/a046/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 31 HD
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 31 HD
 http://138.59.177.34:8000/play/a071/index.m3u8
 #EXTINF:-3 group-title="Fútbol",ESPN 4
 http://138.59.177.34:8000/play/a06j/index.m3u8
@@ -419,7 +419,7 @@ http://138.59.177.34:8000/play/a06v/index.m3u8
 http://138.59.177.34:8000/play/a070/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD",ESPN 42 HD
 http://45.189.117.202:48000/play/a00j/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 32 HD
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 32 HD
 http://45.189.117.202:48000/play/a01a/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD",Tigo Deportes HD
 http://138.59.177.34:8000/play/a05i/index.m3u8
@@ -447,11 +447,11 @@ http://45.189.117.202:48000/play/a00m/index.m3u8
 http://160.20.165.245:8000/play/a00s/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD",Fox Sports 3 HD
 http://138.59.177.34:8000/play/a073/index.m3u8
-#EXTINF:-3 group-title="Fútbol",ESPN1
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png^,ESPN1
 http://181.119.67.75:16123/play/ch16
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/800px-ESPN2_logo.svg.png",ESPN 22
 http://181.119.67.75:16123/play/ch17
-#EXTINF:-3 group-title="Fútbol",ESPN 31
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 31
 http://181.119.67.75:16123/play/ch18
 #EXTINF:-3 group-title="Fútbol",ESPN 41
 http://181.119.67.75:16123/play/ch19
