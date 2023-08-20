@@ -31,11 +31,11 @@ https://hvtrafico.ddns.net/pastocnc9/cnc9/playlist.m3u8?PlaylistM3UCL
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/CanalVisionDorada.jpg/800px-CanalVisionDorada.jpg",Canal Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Colombia",Cosmovisión
+#EXTINF:-3 group-title="Colombia" tvg-logo="https://lh3.googleusercontent.com/-BK2illtLNdw/Xzgh2FS7TtI/AAAAAAAA4YM/gnbmSqIJG5wCwVJ2gUG0NPQgbo1axWmcwCK8BGAsYHg/s0/2020-08-15.jpg",Cosmovisión
 https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Colombia",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Colombia",La Despechada TV
+#EXTINF:-3 group-title="Colombia" tvg-logo="https://www.m3u.cl/logo/1285_La_Despechada_TV.png",La Despechada TV
 https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Colombia",Noticiero 90 Minutos
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
