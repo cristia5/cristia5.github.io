@@ -85,7 +85,7 @@ https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Venezuela",Telesol
 https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Noticias",Telesur
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Venezuela",Vale TV
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
