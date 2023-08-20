@@ -397,7 +397,7 @@ http://45.169.99.154:58001/play/a00m/index.m3u8
 http://45.169.99.154:58001/play/a00k/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 HD
 http://45.169.99.154:58001/play/a00l/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 4 HD
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png",ESPN 4 HD
 http://45.169.99.154:58001/play/a02o/index.m3u8
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png",ESPN
 http://138.59.177.34:8000/play/a058/index.m3u8
@@ -411,13 +411,13 @@ http://138.59.177.34:8000/play/a072/index.m3u8
 http://138.59.177.34:8000/play/a046/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 31 HD
 http://138.59.177.34:8000/play/a071/index.m3u8
-#EXTINF:-3 group-title="Fútbol",ESPN 4
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png",ESPN 4
 http://138.59.177.34:8000/play/a06j/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 41 HD
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png",ESPN 41 HD
 http://138.59.177.34:8000/play/a06v/index.m3u8
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/800px-ESPN2_logo.svg.png",ESPN 21
 http://138.59.177.34:8000/play/a070/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",ESPN 42 HD
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png",ESPN 42 HD
 http://45.189.117.202:48000/play/a00j/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 32 HD
 http://45.189.117.202:48000/play/a01a/index.m3u8
@@ -435,7 +435,7 @@ http://138.59.177.34:8000/play/a045/index.m3u8
 http://45.189.117.202:48000/play/a00s/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/800px-ESPN2_logo.svg.png",ESPN 23 HD
 http://45.189.117.202:48000/play/a00l/index.m3u8
-#EXTINF:-3 group-title="Fútbol",Win Sports
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/800px-WinSportsM%C3%A1s2022.png",Win Sports
 http://181.119.67.75:16123/play/a041
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/800px-Oromar_logo.png",Oromar Tv
 http://160.20.165.245:8000/play/a00t/index.m3u8
@@ -445,7 +445,7 @@ http://160.20.165.245:8000/play/a00w/index.m3u8
 http://45.189.117.202:48000/play/a00m/index.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://lh3.googleusercontent.com/--hZG0lvme_Y/Xzh9ardddaI/AAAAAAAA4dM/AORf7MfGAWEs0RYqXjxBU3WhYKdjCS2wACK8BGAsYHg/s0/2020-08-15.png",RTU
 http://160.20.165.245:8000/play/a00s/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",Fox Sports 3 HD
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png",Fox Sports 3 HD
 http://138.59.177.34:8000/play/a073/index.m3u8
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png",ESPN1
 http://181.119.67.75:16123/play/ch16
@@ -453,13 +453,13 @@ http://181.119.67.75:16123/play/ch16
 http://181.119.67.75:16123/play/ch17
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 31
 http://181.119.67.75:16123/play/ch18
-#EXTINF:-3 group-title="Fútbol",ESPN 41
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png",ESPN 41
 http://181.119.67.75:16123/play/ch19
-#EXTINF:-3 group-title="Fútbol",FOX Deportes 2
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Fox_sports_2.png/800px-Fox_sports_2.png",Fox Sports 2
 http://138.59.177.34:8000/play/a047/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD",FOX DEPORTES 31 HD
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png",Fox Sports 31 HD
 http://45.169.99.154:58001/play/a00n/index.m3u8
-#EXTINF:-3 group-title="Fútbol",Fox Sports 3
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png",Fox Sports 3
 http://138.59.177.34:8000/play/a02h/index.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/800px-RCN_Novelas_logo_2019.png",RCN Novelas
 http://138.59.177.34:8000/play/a040/index.m3u8
