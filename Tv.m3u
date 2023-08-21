@@ -135,25 +135,25 @@ https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-rJV-6hUdyZQ/X4uFfHugYtI/AAAAAAAA6eU/HLiqqhf4_s8RjgL6X3sKBWDBqEGXoR0KgCK8BGAsYHg/s0/2020-10-17.jpg",Informacion Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-3167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",LTO Television
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://i2.paste.pics/466330422d83225c42621e4dace9b939.png",LTO Television
 https://ltocatamarca.github.io/ltotv.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",Lapacho TV Canal 11
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://i2.paste.pics/be13659187eff4d8bf9de31dd8e29f38.png",Lapacho TV Canal 11
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",Mas FM
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://i2.paste.pics/9c35ed9d785ebcdea3a3319d584a9821.png",Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",Metro TV Canal 12 Tucuman
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://th.bing.com/th/id/R.74a3828cea9449e02595815ed1694470?rik=%2bn8eqN3lENrDIQ&riu=http%3a%2f%2fdirectostv.teleame.com%2fwp-content%2fuploads%2f2017%2f10%2fMetro-TV-Canal-12-Tucuman-en-vivo-Online.png&ehk=yz1qKyDHi4no29athdygTlttkdkRAzCTp3N9fNUJCqE%3d&risl=&pid=ImgRaw&r=0",Metro TV Canal 12 Tucuman
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null&PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",Multivisión
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png",Multivisión
 https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",Music Top
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",Neo TV
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",Net TV
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png",Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",Radiocanal San Francisco
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://i.paste.pics/92cfeeb047d8466ed46205907610192a.png",Radiocanal San Francisco
 http://204.199.3.2/.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",T5 Satelital
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-G1nwjyQoAx4/X0J_qYv5QEI/AAAAAAAA43c/Pl4yTVxgIGIDg5_axk58XwMP15X_PEi_ACK8BGAsYHg/s0/2020-08-23.pn",T5 Satelital
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Argentina",TDC TV Santa Fe
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
