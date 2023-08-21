@@ -155,19 +155,19 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 http://204.199.3.2/.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-G1nwjyQoAx4/X0J_qYv5QEI/AAAAAAAA43c/Pl4yTVxgIGIDg5_axk58XwMP15X_PEi_ACK8BGAsYHg/s0/2020-08-23.pn",T5 Satelital
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",TDC TV Santa Fe
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png",TDC TV Santa Fe
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",TIV Chaco
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://i2.paste.pics/330b02e76e0037244c14dde17f23fb3f.png",TIV Chaco
 https://inliveserver.com:1936/14044/14044/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",Telecreativa
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png",Telecreativa
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",Telemax
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",Telpin Canal 2
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-ulhiusmLK5w/XjtA5Bi-zrI/AAAAAAAAvoI/A7OP1Flx4xM4g5VOMH9ZfUz7HrxtW3OMQCK8BGAsYHg/s0/2020-02-05.png",Telpin Canal 2
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",Uni Teve
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/--AAhhuRqvN8/X4y9NE0LJXI/AAAAAAAA6iY/YoguEK_wmH0ax34yOvVR2eSBGS7gMoRJgCK8BGAsYHg/s0/2020-10-18.png",Uni Teve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Argentina",UNIRIO
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://i2.paste.pics/03ced29a4c90a58fd07ae3ffe2cd8d37.png",Unirio
 https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Chile" tvg-logo="https://i2.paste.pics/8ac54ede0184c4fd9e872231a6d673b3.png",Camara de Diputados
 https://tls-cl.cdnz.cl/camara/live/playlist.m3u8?PlaylistM3UCL
@@ -417,9 +417,9 @@ http://45.189.117.202:48000/play/a00j/index.m3u8
 http://45.189.117.202:48000/play/a01a/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/800px-Tigo_Sports_logo.svg.png",Tigo Sports HD
 http://138.59.177.34:8000/play/a05i/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/800px-Claro_TV_wordmark.svg.png",Claro Deportes 1 HD
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/800px-Claro_TV_wordmark.svg.png",Claro Sports 1 HD
 http://138.59.177.34:8000/play/a01i/index.m3u8
-#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/800px-Claro_TV_wordmark.svg.png",Claro Deportes 1
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/800px-Claro_TV_wordmark.svg.png",Claro Sports 1
 http://138.59.177.34:8000/play/a06h/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/800px-Claro_TV_wordmark.svg.png",Claro Sports 2 HD
 http://138.59.177.34:8000/play/a01j/index.m3u8
