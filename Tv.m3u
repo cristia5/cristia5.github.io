@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-3 group-title="Educación" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26 (720p)
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -473,5 +473,5 @@ http://181.119.67.75:16123/play/ch36
 https://a03ddb580441.us-east-1.playback.live-video.net/api/video/v1/us-east-1.311122646616.channel.5Zaq0HqDdcEQ.m3u8
 #EXTINF:-3 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",Telefe
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CqEFQjIkIkDWhH3JgWpldVgnpqEO09BBQ6zcP6H090MTv_ACc5JitooiYxVNSQhVXWBQ9h8afFxnum1O6YD44z6wuWo7VywvXkhZCVz5K6ozfo882bHrLBvNPPGw4fWnv4bVCxD3-fVFGw2PfWCmXKMlUH85pixfKwkycrTFUA1VcKzBaZ3oWxFVfo1P6aeOYdzRtDxZ9CrM_izIT9kg_hS6QeZeBHp3pBzhues6iSMHdHwB1v33EQSfL_BvDaJI0Hw6bHfnueBm_ZiuStKwwG2Zfev8s0wEEzkjgztk---tSZ7DbHN7ifBjPhSf8Kjh_GsR4SznjOAZJKOWkBEjer6V_4jSKQ_DgQAMq_7br-4BHQRSAonWP4RnvnsHAeKWq1yAU4KZP2z1H8arBmqPQXjNRPCS9xvQ80RPPuk_bgpscqu1Nf_RaW9WNB741g6y-SYTtv-r98RYze47XN-JOR2Mk-MHJBRqP9GEs-OWgSZvKy0KIisuNnXbZVV_2mzO1t6-Iyf2uGW-oiOd9q_fHaO3jHqUEArIP3pze-tbL6omp9gDbc30Tvqa_8Zo9v5zCApPiHsk-j6SEZlvVwsro6yvQvooDX18LpK4j0qGGt49D3IotBDHYxTTFRBPJMusyLmatMyUxLgGr2oDWTO61GtW0J8hb9D2mBsVtSa9NMVQtoWXm3yin-BnWr6CU_q_WpkfBOid_p18cxuCWTY57_TAxwoSAkKabQr0c28RC6wzND8MpY5r4Igm2nhlvTwXYs-SsZh8or15NcN9mPqKYULm6SJJioU3gievBP1MI-CQfI0PACFm7cvbFpQAbs85DkizUCad59kjEVRuFXVN22if10KHAYYK9dk0u87hGtI9-JXletxoAw8wp25vAd4Uk24BRhoMaMmjyGOSyFofdw8kIAEqCXVzLXdlc3QtMjC1Bw.m3u8
-#EXTINF:-3 group-title="Noticias",Canal 2612
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 261
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w935697024_b1864000_sleng.m3u8
