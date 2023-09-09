@@ -479,7 +479,5 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqUF0auaKQDi2O45yTbp8DQELSN
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-EZAjwsDGsfM/YEth5st_ZaI/AAAAAAABAkk/SmN2QnV5cpsk_CQ8FC9zPRTPBqsZqEj2gCK8BGAsYHg/s512/2021-03-12.png",Canal i2
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
-#EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg",Venezolana
-https://www.dailymotion.com/cdn/live/video/x828i6j.m3u8?sec=V2FrA2YFgTzjMezVeebAByURjIlwkLOOuAmH185Rlb_A4gtHxGfPEJRMVJ4DH-jl&dmTs=544683&dmV1st=70E7FC77568F0D9DCAB5A139DF31A3B1
 #EXTINF:-3 group-title="Fútbol",Fútbol
 https://a03ddb580441.us-east-1.playback.live-video.net/api/video/v1/us-east-1.311122646616.channel.5Zaq0HqDdcEQ.m3u8
