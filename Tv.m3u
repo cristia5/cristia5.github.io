@@ -3,7 +3,7 @@
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Español (1080p)
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-3 group-title="Noticias"tvg-logo="https://i.imgur.com/Fbli6Ml.png",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -438,7 +438,7 @@ http://160.20.165.245:8000/play/a00w/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo"https://i.imgur.com/Fbli6Ml.png",RT en Español2
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Español 1
-http://45.189.117.202:48000/play/a00m/index.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://lh3.googleusercontent.com/--hZG0lvme_Y/Xzh9ardddaI/AAAAAAAA4dM/AORf7MfGAWEs0RYqXjxBU3WhYKdjCS2wACK8BGAsYHg/s0/2020-08-15.png",RTU
 http://160.20.165.245:8000/play/a00s/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png",Fox Sports 3 HD
