@@ -483,7 +483,7 @@ https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/rcn-mas_1.png",Rcn Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-3 group-title="Fútbol",TNT Sport
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png",TNT Sport
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(TNT_SPORTS)/index.m3u8
 #EXTINF:-3 group-title="Fútbol",Fútbol
 https://a03ddb580441.us-east-1.playback.live-video.net/api/video/v1/us-east-1.311122646616.channel.5Zaq0HqDdcEQ.m3u8
