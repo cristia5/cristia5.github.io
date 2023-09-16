@@ -501,5 +501,11 @@ https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/EVTV-%E2%80%93-El-Venezonalo-TV-en-vivo-Online.png",EV TV
 https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/chunks.m3u8
+#EXTINF:-3 group-title="Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_panamericana_tv_2020_2.png",Panamericana Tv
+https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=kBUtINWvIwnp6RQVQFjri0LGwctJq_KhGGO-ckrcLdg2irXdPHh9kbfwS62xhTEI&dmTs=354894&dmV1st=c8289a6e-4f0c-4d50-9b5e-bc198ebbd2e8
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TVO-2015.png",TVO
+https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Promar_Television.png/800px-Promar_Television.png",Promar TV 1
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-3 group-title="Fútbol",Fútbol
 https://a03ddb580441.us-east-1.playback.live-video.net/api/video/v1/us-east-1.311122646616.channel.5Zaq0HqDdcEQ.m3u8
