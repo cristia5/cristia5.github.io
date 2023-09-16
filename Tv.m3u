@@ -489,7 +489,7 @@ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/chan
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?did=b1341915336756504a4afebeee
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/800px-Rts_logo.png",RTS
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
-#EXTINF:-3 group-title"Ecuador" tvg-logo='https://upload.wikimedia.org/wikipedia/commons/e/e4/Telereama_logo.png",Telerama
+#EXTINF:-3 group-title"Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Telereama_logo.png",Telerama
 https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-3 group-title="Fútbol",Fútbol
 https://a03ddb580441.us-east-1.playback.live-video.net/api/video/v1/us-east-1.311122646616.channel.5Zaq0HqDdcEQ.m3u8
