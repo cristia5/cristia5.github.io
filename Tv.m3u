@@ -499,7 +499,7 @@ https://customer-qczi39xffvq35rae.cloudflarestream.com/f41c1d91e17809daf3bc4a6c2
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://i.pinimg.com/originals/39/b7/b8/39b7b86cb4fdee1cddc65d430dd6a1e5.png",TVC
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
-#EXTINF:-3 group-title='Ecuador" tvg-logo="https://th.bing.com/th/id/R.7eb30c14057113f351b43608a73f7720?rik=CMNZY2Uh%2fYenJw&pid=ImgRaw&r=0",EV TV
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://th.bing.com/th/id/R.7eb30c14057113f351b43608a73f7720?rik=CMNZY2Uh%2fYenJw&pid=ImgRaw&r=0",EV TV
 https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/chunks.m3u8
 #EXTINF:-3 group-title="Fútbol",Fútbol
 https://a03ddb580441.us-east-1.playback.live-video.net/api/video/v1/us-east-1.311122646616.channel.5Zaq0HqDdcEQ.m3u8
