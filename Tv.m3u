@@ -493,6 +493,8 @@ https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp
 https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-3 group-title"Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/581px-EcuadorTV_logo.png",Ecuador TV 1
 https://customer-qczi39xffvq35rae.cloudflarestream.com/f41c1d91e17809daf3bc4a6c212680b7/manifest/video.m3u8?parentOrigin=https%3A%2F%2Flogixtv.com
+#EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/581px-EcuadorTV_logo.png",Ecuador TV Internacional
+https://customer-qczi39xffvq35rae.cloudflarestream.com/f41c1d91e17809daf3bc4a6c212680b7/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fwww.ecuadortv.ec
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://lh3.googleusercontent.com/--hZG0lvme_Y/Xzh9ardddaI/AAAAAAAA4dM/AORf7MfGAWEs0RYqXjxBU3WhYKdjCS2wACK8BGAsYHg/s0/2020-08-15.png",RTU 1
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-3 group-title="Fútbol",Fútbol
