@@ -505,5 +505,7 @@ https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf
 https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Promar_Television.png/800px-Promar_Television.png",Promar TV 1
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 263
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695077294/ei/TX8IZZHaPMGhkAP-wJjQBw/ip/2800%3Abf0%3A8273%3A1161%3Ae908%3A5121%3A718b%3A387c/id/2IfTdw28WFY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9f6ygpnof30w8ndQfZ61v58zy-wLYbjQK3Nvj0A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSyThJ8cjLCO-WzsGIRrRk8p9n8bWfyfKwZGkkcKZj20CIQCx5F0Ci1AB_2afo9e0Q-Sq22LgOAYlGTAlo_GJS9q0ng%3D%3D/file/index.m3u8
 #EXTINF:-3 group-title="Fútbol",Fútbol
 https://a03ddb580441.us-east-1.playback.live-video.net/api/video/v1/us-east-1.311122646616.channel.5Zaq0HqDdcEQ.m3u8
