@@ -65,7 +65,7 @@ http://138.59.177.34:8000/play/a06j/index.m3u8
 http://181.119.67.75:16123/play/ch19
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png",ESPN 41 HD
 http://138.59.177.34:8000/play/a06v/index.m3u8
-#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/800px-ESPN_Extra_Logo_2022.webp.png",Espn Extra
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/800px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
 http://138.59.177.34:8000/play/a047/index.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/581px-EcuadorTV_logo.png",Ecuador TV
 http://160.20.165.245:8000/play/a00q/index.m3u8
