@@ -53,3 +53,43 @@ http://138.59.177.34:8000/play/a070/index.m3u8
 http://181.119.67.75:16123/play/ch17
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/800px-ESPN2_logo.svg.png",ESPN 22 HD
 http://138.59.177.34:8000/play/a072/index.m3u8
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
+http://138.59.177.34:8000/play/a046/index.m3u8
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 31
+http://181.119.67.75:16123/play/ch18
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 31 HD
+http://138.59.177.34:8000/play/a071/index.m3u8
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png",ESPN 4
+http://138.59.177.34:8000/play/a06j/index.m3u8
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png",ESPN 41
+http://181.119.67.75:16123/play/ch19
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png",ESPN 41 HD
+http://138.59.177.34:8000/play/a06v/index.m3u8
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/800px-ESPN_Extra_Logo_2022.webp.png",Espn Extra
+http://138.59.177.34:8000/play/a047/index.m3u8
+#EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/581px-EcuadorTV_logo.png",Ecuador TV
+http://160.20.165.245:8000/play/a00q/index.m3u8
+#EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png",Ecuavisa 1
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?did=b13419
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://i.paste.pics/1b5c2445187d85bcc724d7da7f6e1e1c.png",El Histonauta TV
+https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png",Galicia TV América
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logotipo_como_GamaTV_2008.png/120px-Logotipo_como_GamaTV_2008.png",GamaTV
+http://160.20.165.245:8000/play/a00r/index.m3u8
+#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",History Channel HD
+http://138.59.177.34:8000/play/a02s/index.m3u8
+#EXTINF:-3 group-title="Chile" tvg-logo="https://lh3.googleusercontent.com/-pK0q2sl6njA/YLvYUotCF_I/AAAAAAABCrw/npXWp5Y_4Q83AVldxCKNFaadcbbxNV5cgCJEEGAsYHg/s512/2021-06-05.png",Iquique TV
+https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png",Multivisión
+https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/800px-National_Geographic_Channel.svg.png",Nat Geo
+http://138.59.177.34:8000/play/a02f/index.m3u8
+#EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/800px-Oromar_logo.png",Oromar Tv
+http://160.20.165.245:8000/play/a00t/index.m3u8
+#EXTINF:-3 group-title="Educación" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Promar_Television.png/800px-Promar_Television.png",Promar TV
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logotipo_de_RCN_Televisi%C3%B3n_%281998-2013%29.svg/800px-Logotipo_de_RCN_Televisi%C3%B3n_%281998-2013%29.svg.png",Rcn
+http://181.119.67.75:16123/play/ch59a
