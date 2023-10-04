@@ -66,6 +66,8 @@ http://181.119.67.75:16123/play/ch19
 http://138.59.177.34:8000/play/a06v/index.m3u8
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/800px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
 http://138.59.177.34:8000/play/a047/index.m3u8
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/EVTV-%E2%80%93-El-Venezonalo-TV-en-vivo-Online.png",EV TV
+https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/581px-EcuadorTV_logo.png",Ecuador TV
 http://160.20.165.245:8000/play/a00q/index.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png",Ecuavisa 1
