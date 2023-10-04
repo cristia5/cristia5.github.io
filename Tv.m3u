@@ -451,7 +451,7 @@ http://181.119.67.75:16123/play/ch17
 http://181.119.67.75:16123/play/ch18
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png",ESPN 41
 http://181.119.67.75:16123/play/ch19
-#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/800px-ESPN_Extra_Logo_2022.webp.png",Espn Extra
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/800px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
 http://138.59.177.34:8000/play/a047/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png",Fox Sports 31 HD
 http://45.169.99.154:58001/play/a00n/index.m3u8
@@ -461,7 +461,7 @@ http://138.59.177.34:8000/play/a02h/index.m3u8
 http://138.59.177.34:8000/play/a040/index.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/800px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png",Caracol CO
 http://160.20.165.245:8000/play/a00x/index.m3u8
-#EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logotipo_de_RCN_Televisi%C3%B3n_%281998-2013%29.svg/800px-Logotipo_de_RCN_Televisi%C3%B3n_%281998-2013%29.svg.png",RCN
+#EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logotipo_de_RCN_Televisi%C3%B3n_%281998-2013%29.svg/800px-Logotipo_de_RCN_Televisi%C3%B3n_%281998-2013%29.svg.png",Rcn
 http://181.119.67.75:16123/play/ch59a
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo HD
 http://45.169.99.154:58001/play/a016/index.m3u8
