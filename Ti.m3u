@@ -91,5 +91,11 @@ http://160.20.165.245:8000/play/a00t/index.m3u8
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Promar_Television.png/800px-Promar_Television.png",Promar TV
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Noticias"tvg-logo="https://i.imgur.com/Fbli6Ml.png",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/800px-Rts_logo.png",RTS
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
+#EXTINF:-3 group-title="Ecuador" tvg-logo="https://lh3.googleusercontent.com/--hZG0lvme_Y/Xzh9ardddaI/AAAAAAAA4dM/AORf7MfGAWEs0RYqXjxBU3WhYKdjCS2wACK8BGAsYHg/s0/2020-08-15.png",RTU 1
+https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logotipo_de_RCN_Televisi%C3%B3n_%281998-2013%29.svg/800px-Logotipo_de_RCN_Televisi%C3%B3n_%281998-2013%29.svg.png",Rcn
 http://181.119.67.75:16123/play/ch59a
