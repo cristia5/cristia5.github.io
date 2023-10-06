@@ -478,6 +478,8 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqUF0auaKQDi2O45yTbp8DQELSN
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logotipo_de_Venevisi%C3%B3n_%281966-1970%29.png",Venevisión
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/4470400.m3u8
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-EZAjwsDGsfM/YEth5st_ZaI/AAAAAAABAkk/SmN2QnV5cpsk_CQ8FC9zPRTPBqsZqEj2gCK8BGAsYHg/s512/2021-03-12.png",Canal i2
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-EZAjwsDGsfM/YEth5st_ZaI/AAAAAAABAkk/SmN2QnV5cpsk_CQ8FC9zPRTPBqsZqEj2gCK8BGAsYHg/s512/2021-03-12.png",Canal i3
 https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rcn-xtra_2.png/800px-Rcn-xtra_2.png",Rcn Extra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
