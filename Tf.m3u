@@ -27,6 +27,10 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
 https://hvtrafico.ddns.net/pastocnc9/cnc9/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Argentina" tvg-logo="https://i2.paste.pics/ca86f0cdfc4fc1f2efc681aa0de687e9.png",Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/Yr4xUKW.png",Ecotel
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/Tof18lJ.png",Hechos Ecuador
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/800px-Se%C3%B1al_Institucional_logo.svg.png",Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-EZAjwsDGsfM/YEth5st_ZaI/AAAAAAABAkk/SmN2QnV5cpsk_CQ8FC9zPRTPBqsZqEj2gCK8BGAsYHg/s512/2021-03-12.png",Canal i2
@@ -127,6 +131,8 @@ https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
 http://160.20.165.245:8000/play/a00p/index.m3u8
 #EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png",Telediario Televisión
 https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png",Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/800px-Tigo_Sports_logo.svg.png",Tigo Sports HD
 http://138.59.177.34:8000/play/a05i/index.m3u8
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/800px-Ve_Plus_Logo_2019.png",Ve PLUS
