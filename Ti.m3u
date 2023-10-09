@@ -125,8 +125,6 @@ https://live.seo.tv.bo/live/1SEO.m3u8
 http://138.59.177.34:8000/play/a07g/index.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/800px-Se%C3%B1al_Colombia_logo.svg.png",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",Tc Televisión
-http://200.24.204.242:6020/play/a0dp/index.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://lh3.googleusercontent.com/-vyt5Jhg2zHM/Xzgifjcw9EI/AAAAAAAA4Yo/w6AHqx1V86URrFxDMQ7mjNIZ9b97NbjswCK8BGAsYHg/s0/2020-08-15.jpg",TDI
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Argentina" tvg-logo="https://i2.paste.pics/330b02e76e0037244c14dde17f23fb3f.png",TIV Chaco
@@ -139,6 +137,8 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TVO-2015.png",TVO
 https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
+#EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",Tc Televisión
+http://200.24.204.242:6020/play/a0dp/index.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/800px-Teleamazonas_Logo.png",Teleamazonas
 http://160.20.165.245:8000/play/a00p/index.m3u8
 #EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png",Telediario Televisión
