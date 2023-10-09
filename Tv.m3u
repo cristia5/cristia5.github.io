@@ -459,8 +459,10 @@ http://45.169.99.154:58001/play/a00n/index.m3u8
 http://138.59.177.34:8000/play/a02h/index.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/800px-RCN_Novelas_logo_2019.png",RCN Novelas
 http://138.59.177.34:8000/play/a040/index.m3u8
-#EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/800px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png",Caracol CO
+#EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/800px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png",Caracol
 http://160.20.165.245:8000/play/a00x/index.m3u8
+#EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Caracol_HD_Internacional.png",Caracol Internacional
+http://160.20.165.245:8000/play/a00h/index.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logotipo_de_RCN_Televisi%C3%B3n_%281998-2013%29.svg/800px-Logotipo_de_RCN_Televisi%C3%B3n_%281998-2013%29.svg.png",Rcn
 http://181.119.67.75:16123/play/ch59a
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo HD
