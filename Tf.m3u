@@ -151,6 +151,8 @@ http://200.24.204.242:6020/play/a0e9/index.m3u8
 http://181.119.67.75:16123/play/ch36
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logotipo_de_Venevisi%C3%B3n_%281966-1970%29.png",Venevisión
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/4470400.m3u8
+#EXTINF:-3 group-title="Ecuador" tvg-logo="https://commons.wikimedia.org/wiki/File:Canal_Venus_logo_(2).svg#/media/File:Canal_Venus_logo.svg",Venus
+http://138.59.177.34:8000/play/a04h/index.m3u8
 #EXTINF:-3 group-title="Argentina" tvg-logo="https://i.paste.pics/29e2330846b4b598f64d7035e4817cf4.png",Ver TV
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/800px-WinSportsM%C3%A1s2022.png",Win Sports
