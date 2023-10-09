@@ -123,6 +123,8 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/800px-Se%C3%B1al_Colombia_logo.svg.png",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Ecuador" tvg-logo="https://www.pngjoy.com/pngl/972/11440148_brazzers-sextreme-tv-hd-png-download.png",SexTreme
+http://138.59.177.34:8000/play/a07g/index.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://lh3.googleusercontent.com/-vyt5Jhg2zHM/Xzgifjcw9EI/AAAAAAAA4Yo/w6AHqx1V86URrFxDMQ7mjNIZ9b97NbjswCK8BGAsYHg/s0/2020-08-15.jpg",TDI
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Argentina" tvg-logo="https://i2.paste.pics/330b02e76e0037244c14dde17f23fb3f.png",TIV Chaco
