@@ -101,10 +101,10 @@ https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL
 http://138.59.177.34:8000/play/a02f/index.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/800px-Oromar_logo.png",Oromar Tv
 http://160.20.165.245:8000/play/a00t/index.m3u8
-#EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Playboy_Logo_%28cropped%29.jpg",Playboy
-http://138.59.177.34:8000/play/a01r/index.m3u8
 #EXTINF:-3 group-title="Educación" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184",Platzi
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Playboy_Logo_%28cropped%29.jpg",Playboy
+http://138.59.177.34:8000/play/a01r/index.m3u8
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Promar_Television.png/800px-Promar_Television.png",Promar TV
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Noticias"tvg-logo="https://i.imgur.com/Fbli6Ml.png",RT en Españo2
