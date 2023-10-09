@@ -460,6 +460,9 @@ http://200.24.204.242:6020/play/a0ea/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Goltv.gif",Gol tv
 http://200.24.204.242:6020/play/a0eb/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg",TyC Sport
+http://200.24.204.242:6020/play/a0e9/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",TNT Sport
+http://200.24.204.242:6020/play/a0e8/index.m3u8
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png",Fox Sports 3
 http://138.59.177.34:8000/play/a02h/index.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/800px-RCN_Novelas_logo_2019.png",RCN Novelas
