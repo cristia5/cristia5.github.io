@@ -87,6 +87,8 @@ http://138.59.177.34:8000/play/a073/index.m3u8
 http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logotipo_como_GamaTV_2008.png/120px-Logotipo_como_GamaTV_2008.png",GamaTV
 http://160.20.165.245:8000/play/a00r/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Goltv.gif",Gol tv
+http://200.24.204.242:6020/play/a0eb/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/Tof18lJ.png",Hechos Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",History Channel HD
