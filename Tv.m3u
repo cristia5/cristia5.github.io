@@ -43,7 +43,7 @@ https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",History 2
 http://138.59.177.34:8000/play/a042/index.m3u8
-#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Discovery_Science_-_Logo_2012.svg",Discovery Science
+#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/SKY_DISCOVERY_SCIENCE_FHD.png",Discovery Science
 http://138.59.177.34:8000/play/a00v/index.m3u8
 #EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Casi_discovery_channel.jpg",Discovery Channel
 http://138.59.177.34:8000/play/a077/index.m3u8
