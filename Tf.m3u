@@ -69,10 +69,10 @@ http://138.59.177.34:8000/play/a04h/index.m3u8
 http://138.59.177.34:8000/play/a077/index.m3u8
 #EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/SKY_DISCOVERY_SCIENCE_FHD.png",Discovery Science
 http://138.59.177.34:8000/play/a00v/index.m3u8
-#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",History Channel HD
-http://138.59.177.34:8000/play/a02s/index.m3u8
 #EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",History 2
 http://138.59.177.34:8000/play/a042/index.m3u8
+#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",History Channel HD
+http://138.59.177.34:8000/play/a02s/index.m3u8
 #EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/800px-National_Geographic_Channel.svg.png",Nat Geo
 http://138.59.177.34:8000/play/a02f/index.m3u8
 #EXTINF:-3 group-title="Educación" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184",Platzi
