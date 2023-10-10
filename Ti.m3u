@@ -39,7 +39,7 @@ http://160.20.165.245:8000/play/a00h/index.m3u8
 http://138.59.177.34:8000/play/a01i/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/800px-Claro_TV_wordmark.svg.png",Claro Sports 2 HD
 http://138.59.177.34:8000/play/a01j/index.m3u8
-#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg",Discovery Channel
+#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Casi_discovery_channel.jpg",Discovery Channel
 http://138.59.177.34:8000/play/a077/index.m3u8
 #EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Discovery_Science_-_Logo_2012.svg",Discovery Science
 http://138.59.177.34:8000/play/a00v/index.m3u8
