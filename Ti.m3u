@@ -95,10 +95,10 @@ http://160.20.165.245:8000/play/a00r/index.m3u8
 http://200.24.204.242:6020/play/a0eb/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/Tof18lJ.png",Hechos Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
-#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",History Channel HD
-http://138.59.177.34:8000/play/a02s/index.m3u8
 #EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",History 2
 http://138.59.177.34:8000/play/a042/index.m3u8
+#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",History Channel HD
+http://138.59.177.34:8000/play/a02s/index.m3u8
 #EXTINF:-3 group-title="Chile" tvg-logo="https://lh3.googleusercontent.com/-pK0q2sl6njA/YLvYUotCF_I/AAAAAAABCrw/npXWp5Y_4Q83AVldxCKNFaadcbbxNV5cgCJEEGAsYHg/s512/2021-06-05.png",Iquique TV
 https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Chile" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png",Mega
