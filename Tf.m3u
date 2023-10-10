@@ -65,7 +65,7 @@ https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.BRoRu1UV4IzXlavItzXI4wHaDH%26pid%3DApi&f=1&ipt=c38a08201f8f6e63bcbce8be4d9439b6c932264932ec140319892f8679176b5f&ipo=images",Venus
 http://138.59.177.34:8000/play/a04h/index.m3u8
-#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg",Discovery Channel
+#EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Casi_discovery_channel.jpg",Discovery Channel
 http://138.59.177.34:8000/play/a077/index.m3u8
 #EXTINF:-3 group-title="Educación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Discovery_Science_-_Logo_2012.svg",Discovery Science
 http://138.59.177.34:8000/play/a00v/index.m3u8
