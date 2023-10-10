@@ -467,7 +467,7 @@ http://45.169.99.154:58001/play/a00n/index.m3u8
 http://200.24.204.242:6020/play/a0ea/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Goltv.gif",Gol tv
 http://200.24.204.242:6020/play/a0eb/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg",TyC Sport
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/6/62/20140217015157%21TyCSpHD.png",TyC Sport
 http://200.24.204.242:6020/play/a0e9/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",TNT Sport
 http://200.24.204.242:6020/play/a0e8/index.m3u8
