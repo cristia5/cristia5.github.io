@@ -69,23 +69,6 @@ http://138.59.177.34:8000/play/a02s/index.m3u8
 http://138.59.177.34:8000/play/a02f/index.m3u8
 #EXTINF:-3 group-title="Educación" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184",Platzi
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-
-#EXTINF:-3 group-title="México" tvg-logo="https://lh3.googleusercontent.com/-qjB3qbIAv50/XzgmYBza-8I/AAAAAAAA4Zs/HJvLB653vUsZhdzVWpX1ClIAVV7P9KexQCK8BGAsYHg/s0/2020-08-15.png",15 TV Sabinas
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="México" tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png",ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Perú" tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png",Autentica TV
-https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-3 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-EZAjwsDGsfM/YEth5st_ZaI/AAAAAAABAkk/SmN2QnV5cpsk_CQ8FC9zPRTPBqsZqEj2gCK8BGAsYHg/s512/2021-03-12.png",Canal i2
-https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
-#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/800px-Claro_TV_wordmark.svg.png",Claro Sports 1 HD
-http://138.59.177.34:8000/play/a01i/index.m3u8
-#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/800px-Claro_TV_wordmark.svg.png",Claro Sports 2 HD
-http://138.59.177.34:8000/play/a01j/index.m3u8
-#EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png",ESPN
 http://138.59.177.34:8000/play/a058/index.m3u8
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png",ESPN 1
@@ -98,59 +81,75 @@ http://138.59.177.34:8000/play/a059/index.m3u8
 http://138.59.177.34:8000/play/a070/index.m3u8
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/800px-ESPN2_logo.svg.png",ESPN 22
 http://181.119.67.75:16123/play/ch17
-#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/800px-ESPN2_logo.svg.png",ESPN 22 HD
-http://138.59.177.34:8000/play/a072/index.m3u8
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
 http://138.59.177.34:8000/play/a046/index.m3u8
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 31
 http://181.119.67.75:16123/play/ch18
-#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 31 HD
-http://138.59.177.34:8000/play/a071/index.m3u8
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png",ESPN 4
 http://138.59.177.34:8000/play/a06j/index.m3u8
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png",ESPN 41
 http://181.119.67.75:16123/play/ch19
-#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png",ESPN 41 HD
-http://138.59.177.34:8000/play/a06v/index.m3u8
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/800px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
 http://138.59.177.34:8000/play/a047/index.m3u8
-#EXTINF:-3 group-title="Venezuela" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/EVTV-%E2%80%93-El-Venezonalo-TV-en-vivo-Online.png",EV TV
-https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/chunks.m3u8
-#EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/Yr4xUKW.png",Ecotel
-https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/800px-WinSportsM%C3%A1s2022.png",Win Sports
+http://181.119.67.75:16123/play/a041
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/800px-Claro_TV_wordmark.svg.png",Claro Sports 1 HD
+http://138.59.177.34:8000/play/a01i/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/800px-Claro_TV_wordmark.svg.png",Claro Sports 2 HD
+http://138.59.177.34:8000/play/a01j/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/800px-ESPN2_logo.svg.png",ESPN 22 HD
+http://138.59.177.34:8000/play/a072/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 31 HD
+http://138.59.177.34:8000/play/a071/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png",ESPN 41 HD
+http://138.59.177.34:8000/play/a06v/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png",El Canal de Fútbol
 http://200.24.204.242:6020/play/a0ea/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png",Fox Sports 3 HD
 http://138.59.177.34:8000/play/a073/index.m3u8
-#EXTINF:-3 group-title="Noticias" tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png",Galicia TV América
-http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Goltv.gif",Gol tv
 http://200.24.204.242:6020/play/a0eb/index.m3u8
-#EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/Tof18lJ.png",Hechos Ecuador
-https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
-#EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Promar_Television.png/800px-Promar_Television.png",Promar TV
-https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Noticias"tvg-logo="https://i.imgur.com/Fbli6Ml.png",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/5IPjtJk.png",SEO TV
-https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",TNT Sport
 http://200.24.204.242:6020/play/a0e8/index.m3u8
-#EXTINF:-3 group-title="Noticias" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png",TVN 24 Horas
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TVO-2015.png",TVO
-https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
-#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo HD2
-http://138.59.177.34:8000/play/a034/index.m3u8
-#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png",Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/800px-Tigo_Sports_logo.svg.png",Tigo Sports HD
 http://138.59.177.34:8000/play/a05i/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/6/62/20140217015157%21TyCSpHD.png",TyC Sport
 http://200.24.204.242:6020/play/a0e9/index.m3u8
+#EXTINF:-3 group-title="México" tvg-logo="https://lh3.googleusercontent.com/-qjB3qbIAv50/XzgmYBza-8I/AAAAAAAA4Zs/HJvLB653vUsZhdzVWpX1ClIAVV7P9KexQCK8BGAsYHg/s0/2020-08-15.png",15 TV Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="México" tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/Yr4xUKW.png",Ecotel
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png",Galicia TV América
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/Tof18lJ.png",Hechos Ecuador
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
+#EXTINF:-3 group-title="Noticias"tvg-logo="https://i.imgur.com/Fbli6Ml.png",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/5IPjtJk.png",SEO TV
+https://live.seo.tv.bo/live/1SEO.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png",TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo HD2
+http://138.59.177.34:8000/play/a034/index.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png",Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Perú" tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png",Autentica TV
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-EZAjwsDGsfM/YEth5st_ZaI/AAAAAAABAkk/SmN2QnV5cpsk_CQ8FC9zPRTPBqsZqEj2gCK8BGAsYHg/s512/2021-03-12.png",Canal i2
+https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/EVTV-%E2%80%93-El-Venezonalo-TV-en-vivo-Online.png",EV TV
+https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/chunks.m3u8
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Promar_Television.png/800px-Promar_Television.png",Promar TV
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TVO-2015.png",TVO
+https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/800px-Ve_Plus_Logo_2019.png",Ve PLUS
 http://181.119.67.75:16123/play/ch36
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logotipo_de_Venevisi%C3%B3n_%281966-1970%29.png",Venevisión
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/4470400.m3u8
-#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/800px-WinSportsM%C3%A1s2022.png",Win Sports
-http://181.119.67.75:16123/play/a041
