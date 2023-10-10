@@ -87,6 +87,8 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 http://200.24.204.242:6020/play/a0ea/index.m3u8
 #EXTINF:-3 group-title="Argentina" tvg-logo="https://i.paste.pics/1b5c2445187d85bcc724d7da7f6e1e1c.png",El Histonauta TV
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/800px-Fox_Sports_2_Argentina_2023.svg.png",Fox Sports 2
+http://181.119.67.75:16123/play/ch20
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/800px-Fox_Sports_3_Argentina_2023.svg.png",Fox Sports 3 HD
 http://138.59.177.34:8000/play/a073/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png",Galicia TV América
