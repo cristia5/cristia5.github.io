@@ -1,0 +1,12 @@
+#EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/800px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png",Caracol
+http://181.119.67.75:16123/play/ch58
+#EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/800px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png",Caracol 1
+http://160.20.165.245:8000/play/a00x/index.m3u8
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png",El Canal de Fútbol
+http://200.24.204.242:6020/play/a0ea/index.m3u8
+#EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logotipo_de_RCN_Televisi%C3%B3n_%281998-2013%29.svg/800px-Logotipo_de_RCN_Televisi%C3%B3n_%281998-2013%29.svg.png",Rcn
+http://181.119.67.75:16123/play/ch59a
+#EXTINF:-3 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png",TV Publica
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/6/62/20140217015157%21TyCSpHD.png",TyC Sport
+http://200.24.204.242:6020/play/a0e9/index.m3u8
