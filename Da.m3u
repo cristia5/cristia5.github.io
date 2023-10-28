@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",¿Qué es BI y Data Warehousing?
+https://mdstrm.com/video/643495e0b0500242ea6e7ba5.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Niveles de analítica y jerarquía del conocimiento
+https://mdstrm.com/video/642ac62f66ded53ff9a96eac.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Conceptos de BI: Data Warehouse, Data Mart, Dimensiones y Hechos
+https://mdstrm.com/video/642ac62b2c26094377e9f44e.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Base de datos OLTP vs. OLAP
+https://mdstrm.com/video/642ac64825ccdd1e1bfac94b.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Metodologías de Data Warehouse
+https://mdstrm.com/video/642ac63585d32c52cfbfef92.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Data Warehouse, Data Lake y Data Lakehouse: ¿Cuál utilizar?
+https://mdstrm.com/video/642ac63826c8444212c85c5f.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Tipos de esquemas dimensionales
+https://mdstrm.com/video/642ac9c364cc700896b880e6.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Dimensiones lentamente cambiantes
+https://mdstrm.com/video/642ac9c58b374007a479f7bd.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Dimensión tipo 1
+https://mdstrm.com/video/642ac9afd27c983e81bd390d.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Dimensión tipo 2
+https://mdstrm.com/video/642ac9ac11d94806ae7c5372.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Dimensión tipo 3
+https://mdstrm.com/video/642ac9a711d94806ae7c535a.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Tabla de hechos (fact)
+https://mdstrm.com/video/642ac9b184751440e0a787bb.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Modelado dimensional: identificación de dimensiones y métricas
+https://mdstrm.com/video/642acd3f11d94806ae7c53db.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Modelado dimensional: diseño de modelo
+https://mdstrm.com/video/642acd3911d94806ae7c53c3.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Documento de mapeo
+https://mdstrm.com/video/642acd4ed27c983e81bd394b.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Creación del modelo físico
+https://mdstrm.com/video/643495bf9dd1280888aa8bfc.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Extracción: querys en SQL
+https://mdstrm.com/video/643495d2e6b8fc089a93657e.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Extracción en Pentaho
+https://mdstrm.com/video/643495ba7a521a06f46f924a.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Transformación: dimensión de cliente
+https://mdstrm.com/video/642ad0c625ccdd1e1bfacb36.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Carga: dimensión de cliente
+https://mdstrm.com/video/643495d0b70665069f33d014.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Soluciones ETL de las tablas de dimensiones y hechos
+https://mdstrm.com/video/6434966b8acb9d614abc6b2d.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Parámetros en ETL
+https://mdstrm.com/video/642ad0ca84751440e0a78832.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Orquestar ETL en Pentaho: job
+https://mdstrm.com/video/64349768b0500242ea6e7c39.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Revisión de todo el ETL
+https://mdstrm.com/video/64349724429d280864bcecf1.m3u8
+#EXTINF:-3 group-title="Curso de Data Warehousing y Modelado OLAP",Reflexiones y cierre
+https://mdstrm.com/video/642ad59868a50e086a87e980.m3u8
