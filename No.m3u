@@ -140,7 +140,7 @@ Evolución de Tesla: ¿por qué domina el mercado de autos?
 Caso de estudio: Tesla vs. la industria automotriz
 Caso de estudio: Accenture vs. Hertz equipos de desarrollo internos vs. externo
 El ciclo de vida de la tecnología en las empresas
-oles en proyectos de tecnología: diseño data science devops backend front-end y mobile devs
+Roles en proyectos de tecnología: diseño data science devops backend front-end y mobile devs
 Líderes técnicos: stakeholders product owners product managers
 Metodologías de cumplimiento de fechas de entrega
 Líderes vs. equipos
@@ -171,3 +171,30 @@ Calculadora de salarios
 Cómo motivar ingenieros y estructuras de compensación
 Organigrama de equipos de ingeniería
 ¿Cómo crear una empresa disruptiva?
+
+"Curso de Data Warehousing y Modelado OLAP"
+¿Qué es BI y Data Warehousing?
+Niveles de analítica y jerarquía del conocimiento
+Conceptos de BI: Data Warehouse, Data Mart, Dimensiones y Hechos
+Base de datos OLTP vs. OLAP
+Metodologías de Data Warehouse
+Data Warehouse, Data Lake y Data Lakehouse: ¿Cuál utilizar?
+Tipos de esquemas dimensionales
+Dimensiones lentamente cambiantes
+Dimensión tipo 1
+Dimensión tipo 2
+Dimensión tipo 3
+Tabla de hechos (fact)
+Modelado dimensional: identificación de dimensiones y métricas
+Modelado dimensional: diseño de modelo
+Documento de mapeo
+Creación del modelo físico
+Extracción: querys en SQL
+Extracción en Pentaho
+Transformación: dimensión de cliente
+Carga: dimensión de cliente
+Soluciones ETL de las tablas de dimensiones y hechos
+Parámetros en ETL
+Orquestar ETL en Pentaho: job
+Revisión de todo el ETL
+Reflexiones y cierre
