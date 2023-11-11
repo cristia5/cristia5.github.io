@@ -185,5 +185,7 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/44704
 http://138.59.177.34:8000/play/a04h/index.m3u8
 #EXTINF:-3 group-title="Argentina" tvg-logo="https://i.paste.pics/29e2330846b4b598f64d7035e4817cf4.png",Ver TV
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://1.bp.blogspot.com/-2fY6d_jX2Pk/YA4YYLMmA3I/AAAAAAAADG8/qmeW7AYO4j4Hq_ImObjiqesrCJTApwJnwCLcBGAsYHQ/s580/vpitv-venezuela.png",Vpi
+https://streannlivevpi.cachefly.net/Protected/sp=1;dirmatch=true;ip=181.199.63.34/22268c3063610708f5c08d876df10189dccd151c3cdc9dedcf69ffd6f433630c/vpi1/vpi1/playlist.m3u8
 #EXTINF:-3 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/800px-WinSportsM%C3%A1s2022.png",Win Sports
 http://181.119.67.75:16123/play/a041
