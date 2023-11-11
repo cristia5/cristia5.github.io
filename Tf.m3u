@@ -159,6 +159,8 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Univision_Chicago_%25_282019%25_29.png",Univisión
 http://138.59.177.34:8000/play/a07a/index.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://1.bp.blogspot.com/-2fY6d_jX2Pk/YA4YYLMmA3I/AAAAAAAADG8/qmeW7AYO4j4Hq_ImObjiqesrCJTApwJnwCLcBGAsYHQ/s580/vpitv-venezuela.png",Vpi
+https://streannlivevpi.cachefly.net/Protected/sp=1;dirmatch=true;ip=181.199.63.34/22268c3063610708f5c08d876df10189dccd151c3cdc9dedcf69ffd6f433630c/vpi1/vpi1/playlist.m3u8
 #EXTINF:-3 group-title="Perú" tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png",Autentica TV
 https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-EZAjwsDGsfM/YEth5st_ZaI/AAAAAAABAkk/SmN2QnV5cpsk_CQ8FC9zPRTPBqsZqEj2gCK8BGAsYHg/s512/2021-03-12.png",Canal i2
