@@ -39,6 +39,8 @@ https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3
 http://200.24.204.242:6020/play/a0c1/index.m3u8
 #EXTINF:-3 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Caracol_HD_Internacional.png",Caracol Internacional
 http://160.20.165.245:8000/play/a00h/index.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://allvectorlogo.com/img/2016/07/tv-chile-logo.png",Chile
+http://138.59.177.34:8000/play/a00t/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png",Chilevisión
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?dpssid=e36159d37f3afae7ee8f695b1eb5c3c3&sid=ba5t1l1xb31738658232654eefb210289&ndvc=0
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/800px-Claro_TV_wordmark.svg.png",Claro Sports 1 HD
