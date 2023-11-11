@@ -56,7 +56,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logotipo_como_GamaTV_2008.png/120px-Logotipo_como_GamaTV_2008.png",GamaTV
 http://160.20.165.245:8000/play/a00r/index.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/800px-Oromar_logo.png",Oromar Tv
-http://160.20.165.245:8000/play/a00t/index.m3u8
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Playboy_Logo_%28cropped%29.jpg",Playboy
 http://138.59.177.34:8000/play/a01r/index.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/800px-Rts_logo.png",RTS
