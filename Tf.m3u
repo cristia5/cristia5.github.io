@@ -133,6 +133,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3
 http://138.59.177.34:8000/play/a02n/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Canal-capital-logo-administracion-actual.png",Capital
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png",Chilevisión
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?dpssid=e36159d37f3afae7ee8f695b1eb5c3c3&sid=ba5t1l1xb31738658232654eefb210289&ndvc=0
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Español
