@@ -167,6 +167,8 @@ https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8?PlaylistM3UC
 http://138.59.177.34:8000/play/a034/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Televisa_Guadalajara_logo.png/800px-Televisa_Guadalajara_logo.png",Televisa
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/800px-Tigo_Sports_logo.svg.png",Tigo Sports HD
 http://138.59.177.34:8000/play/a05i/index.m3u8
 #EXTINF:-3 group-title="Fútbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/6/62/20140217015157%21TyCSpHD.png",TyC Sport
