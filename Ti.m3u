@@ -121,6 +121,8 @@ http://181.119.67.75:16123/play/ch30
 http://138.59.177.34:8000/play/a03s/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i2.paste.pics/711d250f609782c10c5afef0d9628632.png",Noticiero 90 Minutos
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png",Ntn 24
+http://200.24.204.242:6020/play/a0d6/index.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/800px-Oromar_logo.png",Oromar Tv
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #EXTINF:-3 group-title="Educación" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184",Platzi
