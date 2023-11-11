@@ -137,6 +137,8 @@ http://138.59.177.34:8000/play/a02n/index.m3u8
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Canal-capital-logo-administracion-actual.png",Capital
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://allvectorlogo.com/img/2016/07/tv-chile-logo.png",Chile
+http://138.59.177.34:8000/play/a00t/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png",Chilevisión
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?dpssid=e36159d37f3afae7ee8f695b1eb5c3c3&sid=ba5t1l1xb31738658232654eefb210289&ndvc=0
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Español
@@ -147,22 +149,32 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/Tof18lJ.png",Hechos Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://i.pinimg.com/736x/6f/1d/b1/6f1db15a3b99de3b70c1a8a3fec46f59.jpg",Nextv
+http://138.59.177.34:8000/play/a03s/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i2.paste.pics/711d250f609782c10c5afef0d9628632.png",Noticiero 90 Minutos
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://th.bing.com/th/id/R.18cea951b34f862e09f519d45f5368d7?rik=ZU%2fB8D8Y64mm%2fg&riu=http%3a%2f%2ffishlove.co.uk%2fwp-content%2fuploads%2f2018%2f08%2fpura-noticia-9ccfa5cf5f8ffacc8d99c22ba8b8d531e066d59c82d1d69ff55cbde7ebfd6845.png&ehk=A7XeyYK%2fxp1bkOOTU6dMah8CXC6GeMKtQh%2fTIuKBYKc%3d&risl=&pid=ImgRaw&r=0",Puranoticias
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Noticias"tvg-logo="https://i.imgur.com/Fbli6Ml.png",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://lh3.googleusercontent.com/k0F3o-qlEhyPFSXhwcPlPCJ-nOZ6zN8mBVBJnqY5fmZDZCr5Gck_FxGGxg6cSc9li9Bj=s180",Rtve 24
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/5IPjtJk.png",SEO TV
 https://live.seo.tv.bo/live/1SEO.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://th.bing.com/th/id/R.2f1b270c998464f89097fbd898340972?rik=GfPoi7k12fk1Ow&pid=ImgRaw&r=0",Sertv
+http://138.59.177.34:8000/play/a03d/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png",TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://th.bing.com/th/id/R.053de24c1a8f0434b22e87144301ee48?rik=glpPsfK2A0alAg&riu=http%3a%2f%2f4.bp.blogspot.com%2f-ge5-7_8ioNI%2fUT9HH5xkE0I%2fAAAAAAAABkA%2f08ZdVlIBp-g%2fs280%2ftelemetro.png&ehk=yI17XlUQLixFgxU6%2fiNFmMJrSNRgkUq644oR3ho9lNc%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",Telemetro
+http://138.59.177.34:8000/play/a020/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo HD2
 http://138.59.177.34:8000/play/a034/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Televisa_Guadalajara_logo.png/800px-Televisa_Guadalajara_logo.png",Televisa
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/9/93/TVN-2_logo_2017.png/revision/latest?cb=20170124014935",Tvn
+http://138.59.177.34:8000/play/a021/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Univision_Chicago_%25_282019%25_29.png",Univisión
 http://138.59.177.34:8000/play/a07a/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://1.bp.blogspot.com/-2fY6d_jX2Pk/YA4YYLMmA3I/AAAAAAAADG8/qmeW7AYO4j4Hq_ImObjiqesrCJTApwJnwCLcBGAsYHQ/s580/vpitv-venezuela.png",Vpi
