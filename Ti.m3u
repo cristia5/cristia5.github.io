@@ -131,6 +131,8 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 http://138.59.177.34:8000/play/a01r/index.m3u8
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Promar_Television.png/800px-Promar_Television.png",Promar TV
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://th.bing.com/th/id/R.18cea951b34f862e09f519d45f5368d7?rik=ZU%2fB8D8Y64mm%2fg&riu=http%3a%2f%2ffishlove.co.uk%2fwp-content%2fuploads%2f2018%2f08%2fpura-noticia-9ccfa5cf5f8ffacc8d99c22ba8b8d531e066d59c82d1d69ff55cbde7ebfd6845.png&ehk=A7XeyYK%2fxp1bkOOTU6dMah8CXC6GeMKtQh%2fTIuKBYKc%3d&risl=&pid=ImgRaw&r=0",Puranoticias
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Noticias"tvg-logo="https://i.imgur.com/Fbli6Ml.png",RT en Españo2
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-3 group-title="Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/800px-Rts_logo.png",RTS
