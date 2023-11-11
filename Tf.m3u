@@ -147,6 +147,8 @@ https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://i.imgur.com/5IPjtJk.png",SEO TV
 https://live.seo.tv.bo/live/1SEO.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Televisa_Guadalajara_logo.png/800px-Televisa_Guadalajara_logo.png",Televisa
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png",TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo HD2
