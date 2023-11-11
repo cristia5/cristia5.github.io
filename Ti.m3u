@@ -175,6 +175,8 @@ http://160.20.165.245:8000/play/a00p/index.m3u8
 https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo HD2
 http://138.59.177.34:8000/play/a034/index.m3u8
+#EXTINF:-3 group-title="Noticias" tvg-logo="https://th.bing.com/th/id/R.053de24c1a8f0434b22e87144301ee48?rik=glpPsfK2A0alAg&riu=http%3a%2f%2f4.bp.blogspot.com%2f-ge5-7_8ioNI%2fUT9HH5xkE0I%2fAAAAAAAABkA%2f08ZdVlIBp-g%2fs280%2ftelemetro.png&ehk=yI17XlUQLixFgxU6%2fiNFmMJrSNRgkUq644oR3ho9lNc%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",Telemetro
+http://138.59.177.34:8000/play/a020/index.m3u8
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Televisa_Guadalajara_logo.png/800px-Televisa_Guadalajara_logo.png",Televisa
