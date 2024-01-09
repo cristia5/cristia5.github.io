@@ -649,7 +649,7 @@ Buscar objetivo
 Administrador de escenarios
 Resumen y conclusión
 
-"Guía para Empezar una Carrera en Data Science e Inteligencia Artificial"
+"Guía para Empezar una Carrera en Data Science e Inteligencia Artificial" Gu
 Oportunidades laborales en Data Science e inteligencia artificial
 ¿Qué es Data Science?
 Diferencia entre inteligencia artificial y Data Science
@@ -665,3 +665,32 @@ Herramientas y tecnologías para Data Engineers
 La experiencia de un Data Engineer: entrevista a Alexis Araujo
 Soft skills para Data Science
 ¡En sus marcas, listos, fuera!
+
+"Curso de Hacking Ético" He
+Lo que aprenderás sobre el hacking ético
+Conceptos básicos sobre hacking ético
+Vulnerabilidades
+Instalación del entorno de pruebas Kali Linux
+Instalación del entorno de pruebas Mutillidae
+Práctica: Cross-Site-Scripting, command injection y directorio transversal
+Tipos de hacking
+Práctica: Obteniendo información de fuentes abiertas con OSINT Framework y Google hacking
+Práctica: Analizar un sitio web con Nikto y Spiderfoot
+¿Es necesario un hacking ético? Hacking ético como profesión
+Conceptos. ¿Qué es y qué no es una pentesting?
+Tipos de pentesting. Fase Pre-ataque
+Práctica: Buscando secretos en repositorios GIT
+Práctica: Escaneo de redes con Nmap
+Fase de Ataque. Testing de aplicaciones web con Burp suite
+Práctica: Explotando vulnerabilidades en metasploitable
+PCI DSS. HIPAA. DMCA.ISO/IEC 27001
+Convenio de Budapest. ¿Cómo vamos en América latina? Salvaguarda de evidencias digitales
+Malware y Análisis estático de malware
+Malware y Análisis dinámico de malware
+Sniffing y Cómo realizar un ataque Man in the middle manual
+Denegación de servicio. Ataque DOS con LOIC y HOIC
+Ingeniería social
+Políticas de seguridad. Seguridad física y Controles de acceso
+Práctica: Bypass autenticación QR (Reto 6 SANS Holiday hack)
+Práctica: instalación del IDS snort
+Gestión de riesgos y modelado de amenazas
