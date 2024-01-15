@@ -1,0 +1,132 @@
+"Fundamentos de Ingeniería de Software" Fu
+¿Qué es un byte? ¿Qué es un bit?
+Cómo funcionan los correos electrónicos
+Cómo funcionan los circuitos electrónicos
+Procesadores y arquitecturas de CPU
+¿Qué es un system on a chip
+Diferencia entre memoria RAM y disco duro
+GPUs, tarjetas de video y sonido
+Periféricos y sistemas de entrada de información
+La evolución de la arquitectura de la computación
+Introducción a las redes y protocolos de Internet
+Puertos y protocolos de red
+Qué es una dirección IP y el protocolo de Internet
+Cables submarinos, antenas y satélites en Internet
+Qué es un dominio, DNS o Domain Name System
+Cómo los ISP hacen Quality of Service o QoS
+Cómo funciona la velocidad en internet
+Qué es el Modelo Cliente/Servidor
+Cómo funciona un sitio web
+Internet es más grande de lo que crees
+Diferencias entre Windows, Linux, Mac, iOS y Android
+Permisos, niveles de procesos y privilegios de ejecución
+Fundamentos de sistemas operativos móviles
+Sistemas operativos embebidos e Internet of Things
+Metadatos, cabeceras y extensiones de archivos
+Cómo funciona el formato JPG
+Videos, contenedores, codecs y protocolos
+Cómo funciona .zip: Árboles binarios
+Qué es una red neuronal
+¿Qué es SQL y NoSQL?
+Qué es un algoritmo
+El poder de un Raspberry Pi
+
+"Curso de Tecnología para Gerentes y Directores" Pe
+El mapa de un gerente en tecnología
+La tecnología es software en su mínima expresión
+Nuestra civilización funciona con software
+Cómo contratar perfiles técnicos y evitar estafas
+Un ADN de software en el corazón de tu empresa
+Comprar tecnología o crear tecnología
+El ciclo real del desarrollo de software
+Evolución de Tesla: ¿por qué domina el mercado de autos?
+Caso de estudio: Tesla vs. la industria automotriz
+Caso de estudio: Accenture vs. Hertz equipos de desarrollo internos vs. externo
+El ciclo de vida de la tecnología en las empresas
+Roles en proyectos de tecnología: diseño data science devops backend front-end y mobile devs
+Líderes técnicos: stakeholders product owners product managers
+Metodologías de cumplimiento de fechas de entrega
+Líderes vs. equipos
+Cuánto pagar por un proyecto de tecnología
+Conclusiones de Accenture vs. Hertz
+Caso de estudio: filtración de datos de Uber y Marriot
+Seguridad informática para roles no técnicos
+Manejo de datos sensibles y encriptación
+Los NO rotundos de seguridad informática corporativa
+Niveles de permisos y manejos de información
+Conclusiones del Pentesting a Uber y Marriot
+Arquitectura del Software
+Arquitectura de Bases de Datos
+Cómo se construye el backend
+Cómo se construye la interface de tus usuarios
+Qué es y cómo pagar la deuda técnica de una empresa
+Infraestructura de servidores
+Servidores básicos o locales
+Servidores en DataCenters
+Servidores en la nube
+¿Cuándo elegir la nube vs. tener tu propio DataCenter?
+Qué es la Inteligencia Artificial?
+¿Cuándo utilizar Inteligencia Artificial en tu negocio?
+Salarios de la industria del software en Latinoamérica y España
+Crecimiento salarial en LATAM y España
+Demografía de desarrolladores por región
+Calculadora de salarios
+Cómo motivar ingenieros y estructuras de compensación
+Organigrama de equipos de ingeniería
+¿Cómo crear una empresa disruptiva?
+
+"Curso Definitivo de HTML y CSS" Dh
+Qué aprenderás sobre HTML y CSS
+¿Qué es el Frontend?
+¿Qué es Backend?
+¿Qué es Full Stack?
+Páginas Estáticas vs. Dinámicas
+HTML: anatomía de una página web
+Index y su estructura básica: head
+Index y su estructura básica: body
+Reto: crea tu lista de compras del supermercado
+Anatomía de una etiqueta de HTML
+Tipos de imágenes
+Optimización de imágenes
+Etiqueta img
+Etiqueta figure
+Etiqueta video
+Etiqueta form e input
+Calendar
+Autocomplete y require
+Select
+Input type submit vs. Button tag
+¿Qué es CSS?
+¿Cómo utilizamos CSS?: por etiqueta, selector, class y por ID
+Pseudo clases y pseudo elementos
+Anatomía de una regla de CSS
+Modelo de caja
+Herencia
+Especificidad en selectores
+Demo de especificidad y orden en selectores
+Más sobre selectores
+Combinadores: Adjacent Siblings (combinators)
+Combinadores: General Sibling
+Combinadores: Hijo y Descendiente
+Medidas
+Medidas EM
+Medidas REM
+Max/Min width
+Position
+Display
+Desafío: Layout 1
+Display Flex
+Flexbox layouts
+Variables
+Web fonts
+Responsive design: media queries
+Estrategias de responsive: mostly fluid
+Implementando mostly fluid
+Layout shifter CSS
+Column drop
+Buenas prácticas y ejemplos de responsive
+Imágenes responsive
+Semántica
+Textos
+Labels, alt y title
+Próximos pasos como Web Developer
