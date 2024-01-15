@@ -1,4 +1,3 @@
-
 "Estadística y Probabilidad" Ep
 Estadística, ¿qué es y por qué aprenderla?
 Conceptos clave de estadística
@@ -49,3 +48,21 @@ Matriz de covarianza
 PCA: análisis de componentes principales
 Reducción de dimensionalidad con PCA
 Conclusiones
+
+"Curso de Matemáticas para Data Science Probabilidad" Po
+¿Qué es la probabilidad?
+Probabilidad en machine learning
+Tipos de probabilidad
+Ejemplos de cálculo de probabilidad
+Ejemplos avanzados con probabilidad
+¿Qué es una distribución?
+Distribuciones discretas
+Usando la distribución binomial
+Distribuciones continuas
+¿Cómo estimar una distribución?
+¿Qué es MLE?
+MLE en machine learning
+Regresión logística
+Aplicación de regresión logística
+Teorema de Bayes
+Bayes en machine learning
