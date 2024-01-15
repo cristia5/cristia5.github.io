@@ -1,0 +1,51 @@
+
+"Estadística y Probabilidad" Ep
+Estadística, ¿qué es y por qué aprenderla?
+Conceptos clave de estadística
+Software estadístico
+Tablas unidimensionales y bidimensionales
+¿Qué es la frecuencia estadística y con qué se come?
+¿Cuál es la mejor visualización para mis datos?
+Distribuciones conjuntas
+Medidas de tendencia central: media, mediana y moda
+Cálculo de media, mediana y moda en hojas de cálculo
+Medidas de dispersión: rango e IQR
+Desplazamiento y escala de valores
+Box plots y el resumen de 5 números
+Media, varianza y desviación estándar
+Histogramas, polígonos de frecuencia y curvas de densidad
+Distribuciones simétricas y asimétricas
+Métodos de recopilación de datos
+Muestreo y sesgo
+¿Qué es la probabilidad y cómo se relaciona con la estadística?
+Regla de la suma, unión e intersección
+Probabilidad condicional y eventos dependientes e independientes
+Teorema de Bayes
+Combinaciones y permutaciones
+¿Correlación o causalidad?
+Gráficos de dispersión e introducción a la regresión
+¿Qué aprender con tus nuevos poderes?
+
+"Matemáticas para Data Science: Estadística Descriptiva" Es
+Estadística descriptiva vs. inferencial
+Flujo de trabajo en data science
+Plan del curso
+Tipos de datos
+Medidas de tendencia central
+Metáfora de Bill Gates en un bar
+Medidas de tendencia central en Python
+Medidas de dispersión
+Desviación estándar
+Medidas de dispersión en Python
+Exploración visual de los datos
+Diagramas de dispersión en el análisis de datos
+Pipelines de procesamiento para variables numéricas
+Transformación no lineal
+Procesamiento de datos numéricos en Python
+Pipelines de procesamiento para variables categóricas
+Procesamiento para variables categóricas con Python
+Correlaciones
+Matriz de covarianza
+PCA: análisis de componentes principales
+Reducción de dimensionalidad con PCA
+Conclusiones
