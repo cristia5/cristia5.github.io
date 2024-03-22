@@ -185,7 +185,7 @@ https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
 https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/chunks.m3u8
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Promar_Television.png/800px-Promar_Television.png",Promar TV
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3 group-title="Venezuela" tvg-logo="https://commons.m.wikimedia.org/w/index.php?search=Televen&title=Special:MediaSearch&type=image",televen
+#EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG",televen
 https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
 #EXTINF:-3 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TVO-2015.png",TVO
 https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
