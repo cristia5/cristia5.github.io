@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-3,Teln mex
 https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
-'EXTINF:-3,Teln mex1
+#EXTINF:-3,Teln mex1
 https://linear-342.frequency.stream/mt/studio/342/hls/master/playlist.m3u8
