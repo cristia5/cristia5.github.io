@@ -33,7 +33,16 @@ http://138.59.177.34:8000/play/a07s/index.m3u8
 http://138.59.177.34:8000/play/a02h/index.m3u8
 #EXTINF:-3,Espn 6 Hd
 http://138.59.177.34:8000/play/a073/index.m3u8
+#EXTINF:-3,
+#EXTINF:-3,
+#EXTINF:-3,
+#EXTINF:-3,
+#EXTINF:-3,
 #EXTINF:-3,Tund
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
+#EXTINF:-3,
+#EXTINF:-3,
+#EXTINF:-3,
+#EXTINF:-3,
 #EXTINF:-3,Tund Extra Hd
 https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
