@@ -1,76 +1,151 @@
 #EXTM3U
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
+#EXTINF:-3,Canal Abc
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3
+#EXTINF:-3,Canal Antigua
+http://138.59.177.34:8000/play/a04j/index.m3u8
+#EXTINF:-3,Canal Azteca gua
+http://138.59.177.34:8000/play/a04y/index.m3u8
+#EXTINF:-3,Canal 4 N+ Guadalajara
+https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
+#EXTINF:-3,Canal 4 N+ Guadalajara 1
+https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
+#EXTINF:-3,Canal 4 Guanajuato
+https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+#EXTINF:-3,Canal 4 Guanajuato 1
+https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8
+#EXTINF:-3,Canal 4 Guanajuato 2
+https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
+#EXTINF:-3,Canal 4 Te Queremos
+https://video0.rogohosting.com:19360/4982/4982.m3u8
+#EXTINF:-3,Canal 6 Bajio
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8?uid=PB1RXczwelEQ9UOTy78iDOeZLj9MeVNt&sid=YgTy4ewib7ElVYYQ3EiONiBw15c2JNlk&pid=aSSvMzcVFMZIj5kTeXHuaZPAx4aMaCke&an=screen&at=web-app&av=v5.2.425&ref=https%3A%2F%2Fwww.multimediostv.com%2F&res=300x300&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-3,Canal 6 Cdmx
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?uid=7j6ZViIt4YOrZzKzloQnLLzTa7zmPrJx&sid=VH6FhMHclODJlvXITvpqMXxSN8SNGJiG&pid=MDFYTTJPMNlkgJAZVmZGNdDzi4wi7xlr&an=screen&at=web-app&av=v5.2.425&ref=https%3A%2F%2Fwww.multimediostv.com%2F&res=379x300&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=12f8bde3-420a-46e4-8a09-cf5aa12dfba6
+#EXTINF:-3,Canal 6 Ciudad Juarez
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8?uid=GvNfTiLTBGLsYnTAI8F36UVFC9Tbj6a9&sid=Xviu7KphJptScUCXHWZuqwMRDDzcVOdp&pid=xFJSxw9vygAAXYN9EjT9ghYjJRXlLndy&an=screen&at=web-app&av=v5.2.425&ref=https%3A%2F%2Fwww.multimediostv.com%2F&res=340x300&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-3,Canal 6 Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?uid=B7C8XCXD19z3YBM4FveTaKiMB9bGaF3a&sid=puA6j1hrRwZ0Y2ncvgdQp0VVHWmaYjag&pid=m9AFeWZPJuv5XVkEQroxTvdBLfCsUJyx&an=screen&at=web-app&av=v5.2.425&ref=https%3A%2F%2Fwww.multimediostv.com%2F&res=300x300&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-3,Canal 6 Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?uid=r8Wuoa1IyKM2n2ds74uR34ptLB8OGwvi&sid=HmbOizymHMNs7la1Vilo6aIJkg4nIl6c&pid=oMT7IJbu8jaosCjp9S3Kah4q2X1PHsFq&an=screen&at=web-app&av=v5.2.425&ref=https%3A%2F%2Fwww.multimediostv.com%2F&res=300x300&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-3,Canal 6 Puebla
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8?uid=EA7rFgkbuXeSaAfRPBsGJcxWRviQ9wY7&sid=UEBo2nvvKY2BpJbTJjRJCb0hTASI8uwY&pid=H5I3kwQhK7L5CEol2AqDzqkWIJY0qXXo&an=screen&at=web-app&av=v5.2.425&ref=https%3A%2F%2Fwww.multimediostv.com%2F&res=1007x570&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-3,Canal 6 Santillo
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8?uid=MvUdZWHWhWqe7yz0PyXzGpvcIsCntqW6&sid=63HdETRq557rxWSiArx67YhGQwNyFbat&pid=O6RgyQyuE4RLmK6a1N78WAcNQmjn8CfU&an=screen&at=web-app&av=v5.2.425&ref=https%3A%2F%2Fwww.multimediostv.com%2F&res=300x300&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-3,Canal 7 Sip
+https://mvtvstream.com:444/live/6456eb2e56ab7/index.m3u8
+#EXTINF:-3,Canal 8 Costa Rica
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=unRLBaGDCPyWknoPWkXP87rkgTwnAOAm&sid=ysRRxUDheUD3Wm9xnTc8TGqFLoR40ih7&pid=petf5FyO9TVUT0DK6ENkDC5ZufiqVi30&an=screen&at=web-app&av=v5.2.425&ref=https%3A%2F%2Fwww.multimediostv.com%2F&res=337x300&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-3,Canal 10 Cancún
+https://canal10.mediaflix.istream.mx/wza_live/live/tvlive1/playlist.m3u8
+#EXTINF:-3,Canal 10 Durango
+https://5ca9af4645e15.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+#EXTINF:-3,Canal 14
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+#EXTINF:-3,Canal 24 Zacatecas
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-3,Canal 28 Nuevo León
+https://s5.mexside.net:1936/canal28/canal28/chunklist_w154900134.m3u8
+#EXTINF:-3,Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Canal I
+https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-3,Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Canal Mexiquense
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w753899143.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDc6NDA6MjcgUE0maGFzaF92YWx1ZT01MmJGNFRISWNDKzQ0WlJ1MllXSktRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+#EXTINF:-3,Canal Capital
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
+#EXTINF:-3,Canal Rcg
+https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w2013940355.m3u8
+#EXTINF:-3,Canal Yucatán
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjQgODo1ODowMSBQTSZoYXNoX3ZhbHVlPUxjY1RWMndIVnVEeGJSSDRyL2lFdVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
+#EXTINF:-3,Caracol
+http://160.20.165.245:8000/play/a00x/index.m3u8
+#EXTINF:-3,Chile
+http://138.59.177.34:8000/play/a00t/index.m3u8
+#EXTINF:-3,Chilevisión
+https://redirector.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?did=46c1d2c5aec4eb3a8dd327c10c094f67
+#EXTINF:-3,Cnne
+http://138.59.177.34:8000/play/a02n/index.m3u8
+#EXTINF:-3,Cnne 1
+https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
+#EXTINF:-3,Dw Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-3,Ecuavisa
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?did=b13419
+#EXTINF:-3,Evtv
+https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/chunks.m3u8
+#EXTINF:-3,Foro
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_5.m3u8
+#EXTINF:-3,Hecho En Ecuador
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
+#EXTINF:-3,Jalisco Tv
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-3,N+ Monterrey
+https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
+#EXTINF:-3,N+ Monterrey 1
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_5.m3u8
+#EXTINF:-3,Next
+http://138.59.177.34:8000/play/a03s/index.m3u8
+#EXTINF:-3,Noticias De EEUU
+https://linear-431.frequency.stream/mt/studio/431/hls/master/playlist.m3u8
+#EXTINF:-3,Noticias 90 Minutos
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Nrt
+https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w191657840.m3u8
+#EXTINF:-3,Promar
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-3,Pura Noticias
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+#EXTINF:-3,Rt Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-3,Rtq
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:-3,Rtve 24
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-3,Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Sertv
+http://138.59.177.34:8000/play/a03d/index.m3u8
+#EXTINF:-3,Sipse Tv Cancún
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8#amp=1
+#EXTINF:-3,Sm Sistema
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-3,Telemetro
+http://138.59.177.34:8000/play/a020/index.m3u8
+#EXTINF:-3,Telemundo
+http://138.59.177.34:8000/play/a02a/index.m3u8
+#EXTINF:-3,Telemundo Hd
+http://138.59.177.34:8000/play/a034/index.m3u8
+#EXTINF:-3,Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Televisa
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
+#EXTINF:-3,Teleuniverso rd
+http://138.59.177.34:8000/play/a03n/index.m3u8
+#EXTINF:-3,Tlaxcala
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+#EXTINF:-3,Tv Hch hon
+http://138.59.177.34:8000/play/a022/index.m3u8
+#EXTINF:-3,Tve
+http://138.59.177.34:8000/play/a06t/index.m3u8
+#EXTINF:-3,Tv Más Veracruz
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w745673491.m3u8
+#EXTINF:-3,Tvp culiacán
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-3,Tvp Mazatlán
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-3,Tvp Mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-3,Tvp Obregón
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
+#EXTINF:-3,Tv Pública
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-3,Tv Nicaragua
+http://138.59.177.34:8000/play/a027/index.m3u8
+#EXTINF:-3,Tvn
+http://138.59.177.34:8000/play/a021/index.m3u8
+#EXTINF:-3,Tv  Tabasco
+https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
+#EXTINF:-3,Um Tv
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
