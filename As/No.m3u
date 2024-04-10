@@ -1,17 +1,27 @@
 #EXTM3U
-#EXTINF:-3,Teln mex
+#EXTINF:-3,Corazón
+http://138.59.177.34:8000/play/a02b/index.m3u8
+#EXTINF:-3,Teln mex1
 https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
-#EXTINF:-3,Teln mex1
+#EXTINF:-3,Teln mex2
 https://linear-342.frequency.stream/mt/studio/342/hls/master/playlist.m3u8
-#EXTINF:-3,Teln mex1
-#EXTINF:-3,Teln mex1
-#EXTINF:-3,Teln mex1
-#EXTINF:-3,Teln mex1
-#EXTINF:-3,Teln mex1
-#EXTINF:-3,Teln mex1
-#EXTINF:-3,Teln mex1
-#EXTINF:-3,Teln mex1
-#EXTINF:-3,Teln mex1
-#EXTINF:-3,Teln mex1
-#EXTINF:-3,Teln mex1
-#EXTINF:-3,Teln mex1
+#EXTINF:-3,Teln mex3
+https://linear-339.frequency.stream/mt/studio/339/hls/master/playlist.m3u8
+#EXTINF:-3,Teln mex4
+https://linear-338.frequency.stream/mt/studio/338/hls/master/playlist.m3u8
+#EXTINF:-3,Teln mex5
+https://linear-337.frequency.stream/mt/studio/337/hls/master/playlist.m3u8
+#EXTINF:-3,Teln mex6
+https://linear-328.frequency.stream/mt/studio/328/hls/master/playlist.m3u8
+#EXTINF:-3,Teln mex7
+https://linear-325.frequency.stream/mt/studio/325/hls/master/playlist.m3u8
+#EXTINF:-3,Teln mex8
+https://linear-323.frequency.stream/mt/studio/323/hls/master/playlist.m3u8
+#EXTINF:-3,Teln mex9
+https://linear-429.frequency.stream/mt/studio/429/hls/master/playlist.m3u8
+#EXTINF:-3,Teln Juvenil
+https://linear-321.frequency.stream/mt/studio/321/hls/master/playlist.m3u8
+#EXTINF:-3,Tln
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+#EXTINF:-3,Rbd
+https://linear-335.frequency.stream/mt/studio/335/hls/master/playlist.m3u8
