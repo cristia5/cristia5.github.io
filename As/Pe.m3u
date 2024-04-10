@@ -1,53 +1,107 @@
 #EXTM3U
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
+#EXTINF:-3,A&e
+http://138.59.177.34:8000/play/a052/index.m3u8
+#EXTINF:-3,A&e Hd
+http://138.59.177.34:8000/play/a032/index.m3u8
+#EXTINF:-3,Amc
+http://138.59.177.34:8000/play/a02m/index.m3u8
+#EXTINF:-3,Amc Hd
+http://138.59.177.34:8000/play/a033/index.m3u8
+#EXTINF:-3,Axn
+http://138.59.177.34:8000/play/a02k/index.m3u8
+#EXTINF:-3,Canal Claro
+http://138.59.177.34:8000/play/a01t/index.m3u8
+#EXTINF:-3,Cinecanal
+http://138.59.177.34:8000/play/a05f/index.m3u8
+#EXTINF:-3,Cinecanal 2
+http://138.59.177.34:8000/play/a06s/index.m3u8
+#EXTINF:-3,Cine Latino
+http://138.59.177.34:8000/play/a06p/index.m3u8
+#EXTINF:-3,Dhe Hd
+http://138.59.177.34:8000/play/a038/index.m3u8
+#EXTINF:-3,Euro Channel
+http://138.59.177.34:8000/play/a041/index.m3u8
+#EXTINF:-3,Film&arts
+http://138.59.177.34:8000/play/a031/index.m3u8
+#EXTINF:-3,Fx
+http://138.59.177.34:8000/play/a03z/index.m3u8
+#EXTINF:-3,Fx Hd
+http://138.59.177.34:8000/play/a035/index.m3u8
+#EXTINF:-3,Golden
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-3,Golden 1
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+#EXTINF:-3,Golden 2
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-3,Golden Edge
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-3,Golden Plus
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+#EXTINF:-3,Golden Premier
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+#EXTINF:-3,Golden Premier 1
+http://138.59.177.34:8000/play/a018/index.m3u8
+#EXTINF:-3,Golden Premier 2
+http://138.59.177.34:8000/play/a019/index.m3u8
+#EXTINF:-3,Hbo
+http://138.59.177.34:8000/play/a01m/index.m3u8
+#EXTINF:-3,Hbo 2
+http://138.59.177.34:8000/play/a01n/index.m3u8
+#EXTINF:-3,Hbo +
+http://138.59.177.34:8000/play/a01o/index.m3u8
+#EXTINF:-3,Hbo xtreme
+http://138.59.177.34:8000/play/a01q/index.m3u8
+#EXTINF:-3,Hbo Familiar
+http://138.59.177.34:8000/play/a01p/index.m3u8
+#EXTINF:-3,Lifetime
+http://138.59.177.34:8000/play/a02g/index.m3u8
+#EXTINF:-3,Mc
+http://138.59.177.34:8000/play/a04f/index.m3u8
+#EXTINF:-3,Paramout Hd
+http://138.59.177.34:8000/play/a075/index.m3u8
+#EXTINF:-3,Multipremier
+http://138.59.177.34:8000/play/a06o/index.m3u8
+#EXTINF:-3,Películas
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-3,Películas 1
+https://linear-559.frequency.stream/mt/studio/559/hls/master/playlist.m3u8
+#EXTINF:-3,Películas 2
+https://linear-563.frequency.stream/mt/studio/563/hls/master/playlist.m3u8
+#EXTINF:-3,Space
+http://138.59.177.34:8000/play/a02c/index.m3u8
+#EXTINF:-3,Space Hd
+http://138.59.177.34:8000/play/a06x/index.m3u8
+#EXTINF:-3,Sonny Movie
+http://138.59.177.34:8000/play/a037/index.m3u8
+#EXTINF:-3,Start Channel
+http://138.59.177.34:8000/play/a05c/index.m3u8
+#EXTINF:-3,Start Channel 1
+http://138.59.177.34:8000/play/a06d/index.m3u8
+#EXTINF:-3,Studio Universal
+http://138.59.177.34:8000/play/a02y/index.m3u8
+#EXTINF:-3,Studio Universal 1
+http://138.59.177.34:8000/play/a06r/index.m3u8
+#EXTINF:-3,Theater
+http://138.59.177.34:8000/play/a05m/index.m3u8
+#EXTINF:-3,Tnt
+http://138.59.177.34:8000/play/a02l/index.m3u8
+#EXTINF:-3,Tnt Series
+http://138.59.177.34:8000/play/a02d/index.m3u8
+#EXTINF:-3,Tnt Serries 1
+http://138.59.177.34:8000/play/a02e/index.m3u8
+#EXTINF:-3,Tnt Series Hd
+http://138.59.177.34:8000/play/a076/index.m3u8
+#EXTINF:-3,Universal Channel
+http://138.59.177.34:8000/play/a07c/index.m3u8
+#EXTINF:-3,Universal Channel 1
+http://138.59.177.34:8000/play/a06m/index.m3u8
+#EXTINF:-3,Universal Crimen
+http://138.59.177.34:8000/play/a05v/index.m3u8
+#EXTINF:-3,Universal Premier
+http://138.59.177.34:8000/play/a05s/index.m3u8
+#EXTINF:-3,Universal Premier 1
+http://138.59.177.34:8000/play/a05t/index.m3u8
+#EXTINF:-3,Universal Reality
+http://138.59.177.34:8000/play/a05u/index.m3u8
+#EXTINF:-3,Usa
+http://138.59.177.34:8000/play/a053/index.m3u8
