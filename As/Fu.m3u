@@ -53,6 +53,8 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/348237
 http://odenfull.co:2086/Nelson2023/Nelson1234/341226
 #EXTINF:-3,El canal del fútbol 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/295666
+#EXTINF:-3,El canal del fútbol 11
+http://odenfull.co:2086/Nelson2023/Nelson1234/295667
 #EXTINF:-3,Espn
 http://138.59.177.34:8000/play/a058/index.m3u8
 #EXTINF:-3,Espn 1
@@ -87,10 +89,20 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/348228
 http://odenfull.co:2086/Nelson2023/Nelson1234/348229
 #EXTINF:-3,Espn Premium
 http://odenfull.co:2086/Nelson2023/Nelson1234/348230
-#EXTINF:-3,Lared tv
-http://138.59.177.34:8000/play/a062/index.m3u8
 #EXTINF:-3,Futv
 https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
+#EXTINF:-3,Gol tv Ec
+http://odenfull.co:2086/Nelson2023/Nelson1234/285435
+#EXTINF:-3,Gol tv Ec 1
+http://odenfull.co:2086/Nelson2023/Nelson1234/341221
+#EXTINF:-3,Gol tv Internacional
+http://odenfull.co:2086/Nelson2023/Nelson1234/292326
+#EXTINF:-3,Gol tv Hd
+http://odenfull.co:2086/Nelson2023/Nelson1234/297297
+#EXTINF:-3,Gol tv Pe
+http://odenfull.co:2086/Nelson2023/Nelson1234/294625
+#EXTINF:-3,Lared tv
+http://138.59.177.34:8000/play/a062/index.m3u8
 #EXTINF:-3,Real Madrid
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-3,Td+
