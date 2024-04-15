@@ -49,20 +49,38 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/297167
 http://odenfull.co:2086/Nelson2023/Nelson1234/297168
 #EXTINF:-3,Espn
 http://138.59.177.34:8000/play/a058/index.m3u8
+#EXTINF:-3,Espn 1
+http://odenfull.co:2086/Nelson2023/Nelson1234/348222
 #EXTINF:-3,Espn 2
 http://138.59.177.34:8000/play/a059/index.m3u8
 #EXTINF:-3,Espn 21
 http://138.59.177.34:8000/play/a07t/index.m3u8
+#EXTINF:-3,Espn 23
+http://odenfull.co:2086/Nelson2023/Nelson1234/348223
 #EXTINF:-3,Espn 3
 http://138.59.177.34:8000/play/a046/index.m3u8
 #EXTINF:-3,Espn 31
 http://138.59.177.34:8000/play/a070/index.m3u8
 #EXTINF:-3,Espn 32
 http://138.59.177.34:8000/play/a07s/index.m3u8
+#EXTINF:-3,Espn 33
+http://odenfull.co:2086/Nelson2023/Nelson1234/348224
+#EXTINF:-3,Espn 4
+http://odenfull.co:2086/Nelson2023/Nelson1234/348225
+#EXTINF:-3,Espn 5
+http://odenfull.co:2086/Nelson2023/Nelson1234/348226
 #EXTINF:-3,Espn 6
+http://odenfull.co:2086/Nelson2023/Nelson1234/348227
+#EXTINF:-3,Espn 61
 http://138.59.177.34:8000/play/a02h/index.m3u8
 #EXTINF:-3,Espn 6 Hd
 http://138.59.177.34:8000/play/a073/index.m3u8
+#EXTINF:-3,Espn 7
+http://odenfull.co:2086/Nelson2023/Nelson1234/348228
+#EXTINF:-3,Espn Deportes
+http://odenfull.co:2086/Nelson2023/Nelson1234/348229
+#EXTINF:-3,Espn Premium
+http://odenfull.co:2086/Nelson2023/Nelson1234/348230
 #EXTINF:-3,Lared tv
 http://138.59.177.34:8000/play/a062/index.m3u8
 #EXTINF:-3,Futv
