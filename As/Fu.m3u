@@ -22,31 +22,31 @@ http://138.59.177.34:8000/play/a03m/index.m3u8
 #EXTINF:-3,Directv Sports
 http://odenfull.co:2086/Nelson2023/Nelson1234/283574
 #EXTINF:-3,Directv Sports 1
-http://odenfull.co:2086/Nelson2023/Nelson1234/297155
-#EXTINF:-3,Directv Sports 2
 http://odenfull.co:2086/Nelson2023/Nelson1234/297157
-#EXTINF:-3,Directv Sports 3
-http://odenfull.co:2086/Nelson2023/Nelson1234/297158
-#EXTINF:-3,Directv Sports 4
-http://odenfull.co:2086/Nelson2023/Nelson1234/297159
-#EXTINF:-3,Directv Sports 5
-http://odenfull.co:2086/Nelson2023/Nelson1234/297160
-#EXTINF:-3,Directv Sports 6
-http://odenfull.co:2086/Nelson2023/Nelson1234/297161
-#EXTINF:-3,Directv Sports 7
-http://odenfull.co:2086/Nelson2023/Nelson1234/297162
-#EXTINF:-3,Directv Sports 8
+#EXTINF:-3,Directv Sports 21
+http://odenfull.co:2086/Nelson2023/Nelson1234/297155
+#EXTINF:-3,Directv Sports 22
 http://odenfull.co:2086/Nelson2023/Nelson1234/297163
-#EXTINF:-3,Directv Sports 9
+#EXTINF:-3,Directv Sports 3
+http://odenfull.co:2086/Nelson2023/Nelson1234/297159
+#EXTINF:-3,Directv Sports 4
+http://odenfull.co:2086/Nelson2023/Nelson1234/297160
+#EXTINF:-3,Directv Sports 5
+http://odenfull.co:2086/Nelson2023/Nelson1234/297161
+#EXTINF:-3,Directv Sports 6
+http://odenfull.co:2086/Nelson2023/Nelson1234/297162
+#EXTINF:-3,Directv Sports 7
 http://odenfull.co:2086/Nelson2023/Nelson1234/297164
-#EXTINF:-3,Directv Sports 10
+#EXTINF:-3,Directv Sports 8
 http://odenfull.co:2086/Nelson2023/Nelson1234/297165
-#EXTINF:-3,Directv Sports 11
+#EXTINF:-3,Directv Sports 9
 http://odenfull.co:2086/Nelson2023/Nelson1234/297166
-#EXTINF:-3,Directv Sports 12
+#EXTINF:-3,Directv Sports 10
 http://odenfull.co:2086/Nelson2023/Nelson1234/297167
-#EXTINF:-3,Directv Sports 13
+#EXTINF:-3,Directv Sports 11
 http://odenfull.co:2086/Nelson2023/Nelson1234/297168
+#EXTINF:-3,Directv Sports +
+http://odenfull.co:2086/Nelson2023/Nelson1234/297158
 #EXTINF:-3,Espn
 http://138.59.177.34:8000/play/a058/index.m3u8
 #EXTINF:-3,Espn 2
