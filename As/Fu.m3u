@@ -19,10 +19,10 @@ http://138.59.177.34:8000/play/a045/index.m3u8
 http://138.59.177.34:8000/play/a01j/index.m3u8
 #EXTINF:-3,Cnd deporte
 http://138.59.177.34:8000/play/a03m/index.m3u8
-#EXTINF:-3,Directv Sports +
-http://odenfull.co:2086/Nelson2023/Nelson1234/297158
 #EXTINF:-3,Directv Sports
 http://odenfull.co:2086/Nelson2023/Nelson1234/283574
+#EXTINF:-3,Directv Sports +
+http://odenfull.co:2086/Nelson2023/Nelson1234/297158
 #EXTINF:-3,Directv Sports 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/297157
 #EXTINF:-3,Directv Sports 21
