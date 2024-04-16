@@ -87,6 +87,12 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/297269
 http://odenfull.co:2086/Nelson2023/Nelson1234/47273
 #EXTINF:-3,Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_5.m3u8
+#EXTINF:-3,France24
+http://odenfull.co:2086/Nelson2023/Nelson1234/5970
+#EXTINF:-3,France24 1
+http://odenfull.co:2086/Nelson2023/Nelson1234/321978
+#EXTINF:-3,France24 2
+http://odenfull.co:2086/Nelson2023/Nelson1234/337955
 #EXTINF:-3,Hecho En Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-3,Jalisco Tv
