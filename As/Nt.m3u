@@ -107,9 +107,9 @@ http://138.59.177.34:8000/play/a03s/index.m3u8
 https://linear-431.frequency.stream/mt/studio/431/hls/master/playlist.m3u8
 #EXTINF:-3,Noticias 90 Minutos
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-3,ntn24
+#EXTINF:-3,Ntn24
 http://odenfull.co:2086/Nelson2023/Nelson1234/294696
-#EXTINF:-3,Nttn24 1
+#EXTINF:-3,Ntn24 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/1411
 #EXTINF:-3,Nrt
 https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w191657840.m3u8
