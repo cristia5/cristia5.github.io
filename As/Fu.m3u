@@ -107,6 +107,8 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/348225
 http://odenfull.co:2086/Nelson2023/Nelson1234/291754
 #EXTINF:-3,Espn 5
 http://odenfull.co:2086/Nelson2023/Nelson1234/348226
+#EXTINF:-3,Espn 6 Hd
+http://138.59.177.34:8000/play/a073/index.m3u8
 #EXTINF:-3,Espn 6
 http://odenfull.co:2086/Nelson2023/Nelson1234/348227
 #EXTINF:-3,Espn 61
@@ -117,8 +119,8 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/291751
 http://odenfull.co:2086/Nelson2023/Nelson1234/292201
 #EXTINF:-3,Espn 64
 http://odenfull.co:2086/Nelson2023/Nelson1234/292206
-#EXTINF:-3,Espn 6 Hd
-http://138.59.177.34:8000/play/a073/index.m3u8
+#EXTINF:-3,Espn 65
+http://odenfull.co:2086/Nelson2023/Nelson1234/292207
 #EXTINF:-3,Espn 7
 http://odenfull.co:2086/Nelson2023/Nelson1234/348228
 #EXTINF:-3,Espn 71
@@ -145,34 +147,32 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/289713
 http://odenfull.co:2086/Nelson2023/Nelson1234/289715
 #EXTINF:-3,Fox Sports
 http://odenfull.co:2086/Nelson2023/Nelson1234/337954
-#EXTINF:-3,Fox Sports 1 ar
+#EXTINF:-3,Fox Sports ar
 http://odenfull.co:2086/Nelson2023/Nelson1234/292192
-#EXTINF:-3,Fox Sports 1 mx
+#EXTINF:-3,Fox Sports mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/292197
-#EXTINF:-3,Fox Sports 11 mx
+#EXTINF:-3,Fox Sports 1 mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/292198
 #EXTINF:-3,Fox Sports 2 ar
 http://odenfull.co:2086/Nelson2023/Nelson1234/292193
-#EXTINF:-3,Fox Sports 21 ar
-http://odenfull.co:2086/Nelson2023/Nelson1234/292194
 #EXTINF:-3,Fox Sports 2 mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/292205
+#EXTINF:-3,Fox Sports 21 ar
+http://odenfull.co:2086/Nelson2023/Nelson1234/292194
 #EXTINF:-3,Fox Sports 21 mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/348239
 #EXTINF:-3,Fox Sports 3 ar
 http://odenfull.co:2086/Nelson2023/Nelson1234/292195
-#EXTINF:-3,Fox Sports 31 ar
-http://odenfull.co:2086/Nelson2023/Nelson1234/292191
-#EXTINF:-3,Fox Sports 32 ar
-http://odenfull.co:2086/Nelson2023/Nelson1234/292199
 #EXTINF:-3,Fox Sports 3 la
 http://odenfull.co:2086/Nelson2023/Nelson1234/292204
-#EXTINF:-3,Fox Sports 31 la
-http://odenfull.co:2086/Nelson2023/Nelson1234/292207
 #EXTINF:-3,Fox Sports 3 mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/292202
+#EXTINF:-3,Fox Sports 31 ar
+http://odenfull.co:2086/Nelson2023/Nelson1234/292191
 #EXTINF:-3,Fox Sports 31 mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/292196
+#EXTINF:-3,Fox Sports 32 ar
+http://odenfull.co:2086/Nelson2023/Nelson1234/292199
 #EXTINF:-3,Fox Sports Deportes
 http://odenfull.co:2086/Nelson2023/Nelson1234/292203
 #EXTINF:-3,Fox Sports Premium
