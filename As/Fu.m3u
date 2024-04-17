@@ -71,7 +71,6 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/289702
 http://odenfull.co:2086/Nelson2023/Nelson1234/289714
 #EXTINF:-3,Espn 14 ar
 http://odenfull.co:2086/Nelson2023/Nelson1234/289706
-
 #EXTINF:-3,Espn 2
 http://odenfull.co:2086/Nelson2023/Nelson1234/291756
 #EXTINF:-3,Espn 2 co
@@ -104,6 +103,8 @@ http://138.59.177.34:8000/play/a07s/index.m3u8
 http://odenfull.co:2086/Nelson2023/Nelson1234/289715
 #EXTINF:-3,Espn 41
 http://odenfull.co:2086/Nelson2023/Nelson1234/289709
+#EXTINF:-3,Espn 42
+http://odenfull.co:2086/Nelson2023/Nelson1234/348238
 #EXTINF:-3,Espn 5
 http://odenfull.co:2086/Nelson2023/Nelson1234/348226
 #EXTINF:-3,Espn 51
@@ -178,8 +179,6 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292203
 http://odenfull.co:2086/Nelson2023/Nelson1234/292208
 #EXTINF:-3,Fox Sports Premium 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/292209
-#EXTINF:-3,Fox Sports Premium 2
-http://odenfull.co:2086/Nelson2023/Nelson1234/348238
 #EXTINF:-3,Futv
 https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 #EXTINF:-3,Gol tv Ec
