@@ -199,17 +199,17 @@ https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 http://138.59.177.34:8000/play/a013/index.m3u8
 #EXTINF:-3,Tigo Sports Hd
 http://138.59.177.34:8000/play/a05i/index.m3u8
-#EXTINF:-3,Tnt Sports
+#EXTINF:-3,Tnt Sports Premium
 http://odenfull.co:2086/Nelson2023/Nelson1234/292332
-#EXTINF:-3,Tnt Sports 1 
+#EXTINF:-3,Tnt Sports Premium 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/292333
-#EXTINF:-3,Tnt Sports ar
+#EXTINF:-3,Tnt Sports Premium 2
 http://odenfull.co:2086/Nelson2023/Nelson1234/292336
 #EXTINF:-3,Tnt Sports ch
 http://odenfull.co:2086/Nelson2023/Nelson1234/292661
-#EXTINF:-3,Tnt Sports 1 ch
+#EXTINF:-3,Tnt Sports Premium 3
 http://odenfull.co:2086/Nelson2023/Nelson1234/292663
-#EXTINF:-3,Tnt Sports 2 ch
+#EXTINF:-3,Tnt Sports 1 ch
 http://odenfull.co:2086/Nelson2023/Nelson1234/292664
 #EXTINF:-3,Tudn
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
@@ -245,7 +245,7 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292317
 http://odenfull.co:2086/Nelson2023/Nelson1234/299329
 #EXTINF:-3,Tyc Sports inter
 http://odenfull.co:2086/Nelson2023/Nelson1234/292316
-#EXTINF:-3,Sky Sports
+#EXTINF:-3,Espn 21
 http://odenfull.co:2086/Nelson2023/Nelson1234/348223
 #EXTINF:-3,Win Sports +
 http://odenfull.co:2086/Nelson2023/Nelson1234/134171
