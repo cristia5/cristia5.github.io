@@ -1,10 +1,22 @@
 #EXTM3U
-#EXTINF:-3,Bein Sports
+#EXTINF:-3,Bein Sports ñ
 http://odenfull.co:2086/Nelson2023/Nelson1234/289718
-#EXTINF:-3,Bein Sports 1
+#EXTINF:-3,Bein Sports ñ 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/295664
-#EXTINF:-3,Bein Sports 2
+#EXTINF:-3,Bein Sports ñ 2
 http://odenfull.co:2086/Nelson2023/Nelson1234/292228
+#EXTINF:-3,Bein Sports ñ 3
+http://odenfull.co:2086/Nelson2023/Nelson1234/283601
+#EXTINF:-3,Bein Sports ñ 4
+http://odenfull.co:2086/Nelson2023/Nelson1234/292221
+#EXTINF:-3,Bein Sports ñ 5
+http://odenfull.co:2086/Nelson2023/Nelson1234/292224
+#EXTINF:-3,Bein Sports ñ 6
+http://odenfull.co:2086/Nelson2023/Nelson1234/292228
+#EXTINF:-3,Bein Sports ñ 7
+http://odenfull.co:2086/Nelson2023/Nelson1234/339356
+#EXTINF:-3,Bein Sports ñ Extra
+http://odenfull.co:2086/Nelson2023/Nelson1234/337334
 #EXTINF:-3,Canal 4
 http://138.59.177.34:8000/play/a012/index.m3u8
 #EXTINF:-3,Canal 4
@@ -25,9 +37,9 @@ http://138.59.177.34:8000/play/a045/index.m3u8
 http://138.59.177.34:8000/play/a01j/index.m3u8
 #EXTINF:-3,Cnd deporte
 http://138.59.177.34:8000/play/a03m/index.m3u8
-#EXTINF:-3,Danz
+#EXTINF:-3,Dazn
 http://odenfull.co:2086/Nelson2023/Nelson1234/292289
-#EXTINF:-3,Danz 2
+#EXTINF:-3,Dazn 2
 http://odenfull.co:2086/Nelson2023/Nelson1234/292290
 #EXTINF:-3,Directv Sports
 http://odenfull.co:2086/Nelson2023/Nelson1234/283574
@@ -155,6 +167,10 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/348225
 http://odenfull.co:2086/Nelson2023/Nelson1234/289705
 #EXTINF:-3,Espn mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/289710
+#EXTINF:-3,Euro Sports 2
+http://odenfull.co:2086/Nelson2023/Nelson1234/292216
+#EXTINF:-3,Euro Sports 21
+http://odenfull.co:2086/Nelson2023/Nelson1234/292219
 #EXTINF:-3,Fox Sports
 http://odenfull.co:2086/Nelson2023/Nelson1234/337954
 #EXTINF:-3,Fox Sports 1 mx
@@ -209,6 +225,8 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/294621
 http://odenfull.co:2086/Nelson2023/Nelson1234/348231
 #EXTINF:-3,Movistar 4
 http://odenfull.co:2086/Nelson2023/Nelson1234/348235
+#EXTINF:-3,Movistar 41
+http://odenfull.co:2086/Nelson2023/Nelson1234/292223
 #EXTINF:-3,Movistar liga
 http://odenfull.co:2086/Nelson2023/Nelson1234/292269
 #EXTINF:-3,Movistar liga 1
