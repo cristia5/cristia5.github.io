@@ -3,6 +3,8 @@
 http://odenfull.co:2086/Nelson2023/Nelson1234/289718
 #EXTINF:-3,Bein Sports 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/295664
+#EXTINF:-3,Bein Sports 2
+http://odenfull.co:2086/Nelson2023/Nelson1234/292228
 #EXTINF:-3,Canal 4
 http://138.59.177.34:8000/play/a012/index.m3u8
 #EXTINF:-3,Canal 4
@@ -23,6 +25,10 @@ http://138.59.177.34:8000/play/a045/index.m3u8
 http://138.59.177.34:8000/play/a01j/index.m3u8
 #EXTINF:-3,Cnd deporte
 http://138.59.177.34:8000/play/a03m/index.m3u8
+#EXTINF:-3,Danz
+http://odenfull.co:2086/Nelson2023/Nelson1234/292289
+#EXTINF:-3,Danz 2
+http://odenfull.co:2086/Nelson2023/Nelson1234/292290
 #EXTINF:-3,Directv Sports
 http://odenfull.co:2086/Nelson2023/Nelson1234/283574
 #EXTINF:-3,Directv Sports +
@@ -197,8 +203,24 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/297297
 http://odenfull.co:2086/Nelson2023/Nelson1234/294625
 #EXTINF:-3,Lared tv
 http://138.59.177.34:8000/play/a062/index.m3u8
+#EXTINF:-3,Movistar
+http://odenfull.co:2086/Nelson2023/Nelson1234/294621
+#EXTINF:-3,Movistar 1
+http://odenfull.co:2086/Nelson2023/Nelson1234/348231
+#EXTINF:-3,Movistar 4
+http://odenfull.co:2086/Nelson2023/Nelson1234/348235
+#EXTINF:-3,Movistar liga
+http://odenfull.co:2086/Nelson2023/Nelson1234/292269
+#EXTINF:-3,Movistar liga 1
+http://odenfull.co:2086/Nelson2023/Nelson1234/292270
+#EXTINF:-3,Movistar liga 2
+http://odenfull.co:2086/Nelson2023/Nelson1234/292279
 #EXTINF:-3,Real Madrid
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+#EXTINF:-3,Sky Sports
+http://odenfull.co:2086/Nelson2023/Nelson1234/348232
+#EXTINF:-3,Sky Sports Premier
+http://odenfull.co:2086/Nelson2023/Nelson1234/292282
 #EXTINF:-3,Td+
 http://138.59.177.34:8000/play/a013/index.m3u8
 #EXTINF:-3,Tigo Sports Hd
