@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-3,Bein Sport
+#EXTINF:-3,Bein Sports
 http://odenfull.co:2086/Nelson2023/Nelson1234/289718
+#EXTINF:-3,Bein Sports 1
+http://odenfull.co:2086/Nelson2023/Nelson1234/295664
 #EXTINF:-3,Canal 4
 http://138.59.177.34:8000/play/a012/index.m3u8
 #EXTINF:-3,Canal 4
@@ -85,6 +87,8 @@ http://138.59.177.34:8000/play/a059/index.m3u8
 http://138.59.177.34:8000/play/a07t/index.m3u8
 #EXTINF:-3,Espn 23 mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/291752
+#EXTINF:-3,Espn 21
+http://odenfull.co:2086/Nelson2023/Nelson1234/348223
 #EXTINF:-3,Espn 3
 http://138.59.177.34:8000/play/a070/index.m3u8
 #EXTINF:-3,Espn 3 ar
@@ -245,8 +249,10 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292317
 http://odenfull.co:2086/Nelson2023/Nelson1234/299329
 #EXTINF:-3,Tyc Sports inter
 http://odenfull.co:2086/Nelson2023/Nelson1234/292316
-#EXTINF:-3,Espn 21
-http://odenfull.co:2086/Nelson2023/Nelson1234/348223
+#EXTINF:-3,Vix
+http://odenfull.co:2086/Nelson2023/Nelson1234/295663
+#EXTINF:-3,Vix 1
+http://odenfull.co:2086/Nelson2023/Nelson1234/295690
 #EXTINF:-3,Win Sports +
 http://odenfull.co:2086/Nelson2023/Nelson1234/134171
 #EXTINF:-3,Win Sports + 1
