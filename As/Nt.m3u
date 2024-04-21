@@ -93,10 +93,18 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/5970
 http://odenfull.co:2086/Nelson2023/Nelson1234/321978
 #EXTINF:-3,France24 2
 http://odenfull.co:2086/Nelson2023/Nelson1234/337955
+#EXTINF:-3,Globovision
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+#EXTINF:-3,Guaro
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+#EXTINF:-3,Guaro 1
+http://odenfull.co:2086/Nelson2023/Nelson1234/297270
 #EXTINF:-3,Hecho En Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-3,Jalisco Tv
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-3,Latina
+http://odenfull.co:2086/Nelson2023/Nelson1234/297272
 #EXTINF:-3,N+ Monterrey
 https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
 #EXTINF:-3,N+ Monterrey 1
@@ -177,3 +185,5 @@ https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
 #EXTINF:-3,Venevisión
 http://odenfull.co:2086/Nelson2023/Nelson1234/33123
+#EXTINF:-3,V8vo pplay
+https://linear-260.frequency.stream/mt/studio/260/hls/master/playlist.m3u8
