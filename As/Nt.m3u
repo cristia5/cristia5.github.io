@@ -51,6 +51,8 @@ https://s5.mexside.net:1936/canal28/canal28/chunklist_w154900134.m3u8
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Canal I
 https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-3:,Canal I 1
+http://odenfull.co:2086/Nelson2023/Nelson1234/295992
 #EXTINF:-3,Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Canal Mexiquense
