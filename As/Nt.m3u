@@ -149,6 +149,8 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8#amp=1
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-3,Tc televisión
 http://odenfull.co:2086/Nelson2023/Nelson1234/297314
+#EXTINF:-3,Telecinco
+http://odenfull.co:2086/Nelson2023/Nelson1234/290653
 #EXTINF:-3,Teleamazonas
 http://odenfull.co:2086/Nelson2023/Nelson1234/297316
 #EXTINF:-3,Telemetro
