@@ -81,12 +81,8 @@ http://138.59.177.34:8000/play/a058/index.m3u8
 http://odenfull.co:2086/Nelson2023/Nelson1234/340940
 #EXTINF:-3,Espn 1 mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/289701
-#EXTINF:-3,Espn la
-http://odenfull.co:2086/Nelson2023/Nelson1234/289702
 #EXTINF:-3,Espn ar 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/289706
-#EXTINF:-3,Espn la 1
-http://odenfull.co:2086/Nelson2023/Nelson1234/289714
 #EXTINF:-3,Espn ar 2
 http://odenfull.co:2086/Nelson2023/Nelson1234/348222
 #EXTINF:-3,Espn 2
@@ -121,9 +117,7 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/348224
 http://138.59.177.34:8000/play/a07s/index.m3u8
 #EXTINF:-3,Espn 4
 http://odenfull.co:2086/Nelson2023/Nelson1234/289709
-#EXTINF:-3,Espn Premium 4
-http://odenfull.co:2086/Nelson2023/Nelson1234/289715
-#EXTINF:-3,Espn 42
+#EXTINF:-3,Espn 41
 http://odenfull.co:2086/Nelson2023/Nelson1234/348238
 #EXTINF:-3,Espn 5
 http://odenfull.co:2086/Nelson2023/Nelson1234/291754
@@ -153,16 +147,22 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/348228
 http://odenfull.co:2086/Nelson2023/Nelson1234/289700
 #EXTINF:-3,Espn Deportes 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/348229
+#EXTINF:-3,Espn la
+http://odenfull.co:2086/Nelson2023/Nelson1234/289714
+#EXTINF:-3,Espn la 1
+http://odenfull.co:2086/Nelson2023/Nelson1234/289702
+#EXTINF:-3,Espn la 2
+http://odenfull.co:2086/Nelson2023/Nelson1234/289705
 #EXTINF:-3,Espn Premium
 http://odenfull.co:2086/Nelson2023/Nelson1234/289704
 #EXTINF:-3,Espn Premium 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/289713
 #EXTINF:-3,Espn Premium 2
-http://odenfull.co:2086/Nelson2023/Nelson1234/348225
+http://odenfull.co:2086/Nelson2023/Nelson1234/289715
 #EXTINF:-3,Espn Premium 3
+http://odenfull.co:2086/Nelson2023/Nelson1234/348225
+#EXTINF:-3,Espn Premium 4
 http://odenfull.co:2086/Nelson2023/Nelson1234/348230
-#EXTINF:-3,Espn la 2
-http://odenfull.co:2086/Nelson2023/Nelson1234/289705
 #EXTINF:-3,Espn mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/289710
 #EXTINF:-3,Euro Sports 2
@@ -215,16 +215,16 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292326
 http://odenfull.co:2086/Nelson2023/Nelson1234/297297
 #EXTINF:-3,Gol tv Pe
 http://odenfull.co:2086/Nelson2023/Nelson1234/294625
+#EXTINF:-3,L1 max
+http://odenfull.co:2086/Nelson2023/Nelson1234/348235
+#EXTINF:-3,La liga
+http://odenfull.co:2086/Nelson2023/Nelson1234/292270
 #EXTINF:-3,Lared tv
 http://138.59.177.34:8000/play/a062/index.m3u8
 #EXTINF:-3,Movistar 4 es
 http://odenfull.co:2086/Nelson2023/Nelson1234/292223
 #EXTINF:-3,Movistar 41 es
 http://odenfull.co:2086/Nelson2023/Nelson1234/292269
-#EXTINF:-3,L1 max
-http://odenfull.co:2086/Nelson2023/Nelson1234/348235
-#EXTINF:-3,La liga
-http://odenfull.co:2086/Nelson2023/Nelson1234/292270
 #EXTINF:-3,Movistar Deportes
 http://odenfull.co:2086/Nelson2023/Nelson1234/294621
 #EXTINF:-3,Movistar Deportes 1
@@ -241,6 +241,10 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292282
 http://138.59.177.34:8000/play/a013/index.m3u8
 #EXTINF:-3,Tigo Sports Hd
 http://138.59.177.34:8000/play/a05i/index.m3u8
+#EXTINF:-3,Tnt Sports ar
+http://odenfull.co:2086/Nelson2023/Nelson1234/292661
+#EXTINF:-3,Tnt Sports ch
+http://odenfull.co:2086/Nelson2023/Nelson1234/292664
 #EXTINF:-3,Tnt Sports Premium
 http://odenfull.co:2086/Nelson2023/Nelson1234/292332
 #EXTINF:-3,Tnt Sports Premium 1
@@ -249,10 +253,6 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292333
 http://odenfull.co:2086/Nelson2023/Nelson1234/292336
 #EXTINF:-3,Tnt Sports Premium 3
 http://odenfull.co:2086/Nelson2023/Nelson1234/292663
-#EXTINF:-3,Tnt Sports ar
-http://odenfull.co:2086/Nelson2023/Nelson1234/292661
-#EXTINF:-3,Tnt Sports ch
-http://odenfull.co:2086/Nelson2023/Nelson1234/292664
 #EXTINF:-3,Tudn
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 #EXTINF:-3,Tudn 1
