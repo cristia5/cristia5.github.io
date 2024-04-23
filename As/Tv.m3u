@@ -39,8 +39,6 @@ https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
 http://138.59.177.34:8000/play/a03x/index.m3u8
 #EXTINF:-3,Canal Adn 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
-#EXTINF:-3,Caracol Internacional
-http://160.20.165.245:8000/play/a00h/index.m3u8
 #EXTINF:-3,Cdn
 http://138.59.177.34:8000/play/a04v/index.m3u8
 #EXTINF:-3,Clid
