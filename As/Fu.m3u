@@ -187,12 +187,18 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292206
 http://odenfull.co:2086/Nelson2023/Nelson1234/292207
 #EXTINF:-3,Espn 65
 http://odenfull.co:2086/Nelson2023/Nelson1234/348227
+#EXTINF:-3,Espn 66
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/6691
 #EXTINF:-3,Espn 7
 http://odenfull.co:2086/Nelson2023/Nelson1234/291750
 #EXTINF:-3,Espn 71
 http://odenfull.co:2086/Nelson2023/Nelson1234/292200
 #EXTINF:-3,Espn 72
 http://odenfull.co:2086/Nelson2023/Nelson1234/348228
+#EXTINF:-3,Espn 73
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/61621
+#EXTINF:-3,Espn 74
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/92724
 #EXTINF:-3,Espn Deportes
 http://odenfull.co:2086/Nelson2023/Nelson1234/289700
 #EXTINF:-3,Espn Deportes 1
@@ -222,8 +228,10 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/348225
 #EXTINF:-3,Espn Premium 4
 http://odenfull.co:2086/Nelson2023/Nelson1234/348230
 #EXTINF:-3,Espn Premium 5
-http://tv.soccerplus.link:8000/GEN902/KCU17062021/23324
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/6760
 #EXTINF:-3,Espn Premium 6
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/23324
+#EXTINF:-3,Espn Premium 7
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/34960
 #EXTINF:-3,Espn mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/289710
@@ -235,12 +243,22 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292219
 http://odenfull.co:2086/Nelson2023/Nelson1234/337954
 #EXTINF:-3,Fox Sports 1 mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/292198
+#EXTINF:-3,Fox Sports 11 mx
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/22120
+#EXTINF:-3,Fox Sports 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/90177
+#EXTINF:-3,Fox Sports 2
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/22122
 #EXTINF:-3,Fox Sports 2 ar
 http://odenfull.co:2086/Nelson2023/Nelson1234/292193
 #EXTINF:-3,Fox Sports 2 mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/292205
 #EXTINF:-3,Fox Sports 21 ar
 http://odenfull.co:2086/Nelson2023/Nelson1234/292194
+#EXTINF:-3,Fox Sports 22 ar
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/556
+#EXTINF:-3,Fox Sports 23 ar
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/34588
 #EXTINF:-3,Fox Sports 21 mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/348239
 #EXTINF:-3,Fox Sports 3 ar
@@ -251,10 +269,14 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292204
 http://odenfull.co:2086/Nelson2023/Nelson1234/292202
 #EXTINF:-3,Fox Sports 31 ar
 http://odenfull.co:2086/Nelson2023/Nelson1234/292191
+#EXTINF:-3,Fox Sports 32 ar
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/92723
+#EXTINF:-3,Fox Sports 33 ar
+http://odenfull.co:2086/Nelson2023/Nelson1234/292199
+#EXTINF:-3,Fox Sports 34 ar
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/34589
 #EXTINF:-3,Fox Sports 31 mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/292196
-#EXTINF:-3,Fox Sports 32 ar
-http://odenfull.co:2086/Nelson2023/Nelson1234/292199
 #EXTINF:-3,Fox Sports ar
 http://odenfull.co:2086/Nelson2023/Nelson1234/292192
 #EXTINF:-3,Fox Sports mx
@@ -267,6 +289,8 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292208
 http://odenfull.co:2086/Nelson2023/Nelson1234/292209
 #EXTINF:-3,Fox Sports Premium 2
 http://odenfull.co:2086/Nelson2023/Nelson1234/348238
+#EXTINF:-3,Fox Sports Premium 3
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/92515
 #EXTINF:-3,Futv
 https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 #EXTINF:-3,Gol tv Ec
