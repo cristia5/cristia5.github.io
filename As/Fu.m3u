@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-3,A
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/22689
 #EXTINF:-3,Bein Sports ñ
 http://odenfull.co:2086/Nelson2023/Nelson1234/283601
 #EXTINF:-3,Bein Sports ñ 1
@@ -158,25 +160,19 @@ http://138.59.177.34:8000/play/a07s/index.m3u8
 #EXTINF:-3,Espn 31
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/22109
 #EXTINF:-3,Espn 4
-http://odenfull.co:2086/Nelson2023/Nelson1234/289709
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/22115
 #EXTINF:-3,Espn 4 mx
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/34587
-#EXTINF:-3,Espn 41
-http://odenfull.co:2086/Nelson2023/Nelson1234/348238
-#EXTINF:-3,Espn 42
+#EXTINF:-3,Espn 41 mx
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/92825
-#EXTINF:-3,Espn 43
-http://tv.soccerplus.link:8000/GEN902/KCU17062021/22115
-#EXTINF:-3,Espn 44
+#EXTINF:-3,Espn 42 mx
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/22116
-#EXTINF:-3,Espn 45
+#EXTINF:-3,Espn 43 mx
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/92489
 #EXTINF:-3,Espn 5
 http://odenfull.co:2086/Nelson2023/Nelson1234/291754
 #EXTINF:-3,Espn 51
 http://odenfull.co:2086/Nelson2023/Nelson1234/348226
-#EXTINF:-3,Espn 52
-http://tv.soccerplus.link:8000/GEN902/KCU17062021/22689
 #EXTINF:-3,Espn 6
 http://138.59.177.34:8000/play/a02h/index.m3u8
 #EXTINF:-3,Espn 6 Hd
@@ -269,6 +265,8 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292203
 http://odenfull.co:2086/Nelson2023/Nelson1234/292208
 #EXTINF:-3,Fox Sports Premium 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/292209
+#EXTINF:-3,Fox Sports Premium 2
+http://odenfull.co:2086/Nelson2023/Nelson1234/348238
 #EXTINF:-3,Futv
 https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 #EXTINF:-3,Gol tv Ec
@@ -297,6 +295,8 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/294621
 http://odenfull.co:2086/Nelson2023/Nelson1234/348231
 #EXTINF:-3,Movistar Vamos
 http://odenfull.co:2086/Nelson2023/Nelson1234/292279
+#EXTINF:-3,Outside
+http://odenfull.co:2086/Nelson2023/Nelson1234/289709
 #EXTINF:-3,Real Madrid
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-3,Sky Sports
