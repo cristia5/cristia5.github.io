@@ -109,31 +109,29 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/289701
 http://odenfull.co:2086/Nelson2023/Nelson1234/289706
 #EXTINF:-3,Espn ar 2
 http://odenfull.co:2086/Nelson2023/Nelson1234/348222
-#EXTINF:-3,Espn ar 3
-http://tv.soccerplus.link:8000/GEN902/KCU17062021/32875
-#EXTINF:-3,Espn ar 4
-http://tv.soccerplus.link:8000/GEN902/KCU17062021/1107
-#EXTINF:-3,Espn ar 5
-http://tv.soccerplus.link:8000/GEN902/KCU17062021/34585
 #EXTINF:-3,Espn ch
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/22108
 #EXTINF:-3,Espn 1
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/22105
-#EXTINF:-3,Espn 2
-http://odenfull.co:2086/Nelson2023/Nelson1234/291756
 #EXTINF:-3,Espn 2 co
 http://odenfull.co:2086/Nelson2023/Nelson1234/289711
 #EXTINF:-3,Espn 2 mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/289707
 #EXTINF:-3,Espn 21 co
 http://odenfull.co:2086/Nelson2023/Nelson1234/289712
+#EXTINF:-3,Espn 22 co
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/32875
+#EXTINF:-3,Espn 23 co
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/34585
 #EXTINF:-3,Espn 21 mx
 http://138.59.177.34:8000/play/a059/index.m3u8
 #EXTINF:-3,Espn 22 mx
 http://138.59.177.34:8000/play/a07t/index.m3u8
 #EXTINF:-3,Espn 23 mx
 http://odenfull.co:2086/Nelson2023/Nelson1234/291752
-#EXTINF:-3,Espn 21
+#EXTINF:-3,Espn 24 mx
+http://odenfull.co:2086/Nelson2023/Nelson1234/291756
+#EXTINF:-3,Espn 2
 http://odenfull.co:2086/Nelson2023/Nelson1234/348223
 #EXTINF:-3,Espn 22
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/22107
@@ -205,7 +203,7 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/289700
 http://odenfull.co:2086/Nelson2023/Nelson1234/348229
 #EXTINF:-3,Espn Deportes 2
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/22591
-#EXTINF:-3,Espn Deportes eu
+#EXTINF:-3,Espn eu
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/23159
 #EXTINF:-3,Espn la
 http://odenfull.co:2086/Nelson2023/Nelson1234/289714
@@ -214,6 +212,8 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/289702
 #EXTINF:-3,Espn la 2
 http://odenfull.co:2086/Nelson2023/Nelson1234/289705
 #EXTINF:-3,Espn la 3
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/1107
+#EXTINF:-3,Espn la 4
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/6701
 #EXTINF:-3,Espn Premium
 http://odenfull.co:2086/Nelson2023/Nelson1234/289704
