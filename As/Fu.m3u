@@ -361,6 +361,10 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/321891
 http://odenfull.co:2086/Nelson2023/Nelson1234/328862
 #EXTINF:-3,Tudn 7
 http://odenfull.co:2086/Nelson2023/Nelson1234/348236
+#EXTINF:-3,Tudn 8
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/37168
+#EXTINF:-3,Tudn 9
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/67460
 #EXTINF:-3,Tudn archivo
 https://linear-452.frequency.stream/mt/studio/452/hls/master/playlist.m3u8
 #EXTINF:-3,Tudn archivo 1
@@ -371,6 +375,8 @@ https://linear-581.frequency.stream/mt/studio/581/hls/master/playlist.m3u8
 https://dc0yy1cy2mqs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cmi4c1ko7cgug/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-3,Tudn Extra 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/321892
+#EXTINF:-3,Tudn Dxtra 2
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/23113
 #EXTINF:-3,Tudn Extra Hd
 https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
 #EXTINF:-3,Tyc Sports
@@ -385,8 +391,10 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/295663
 http://odenfull.co:2086/Nelson2023/Nelson1234/295690
 #EXTINF:-3,Win Sports
 http://odenfull.co:2086/Nelson2023/Nelson1234/294680
-#EXTINF:-3,Win Sports 2
+#EXTINF:-3,Win Sports 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/330653
+#EXTINF:-3,Win Sports 2
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/34697
 #EXTINF:-3,Win Sports +
 http://odenfull.co:2086/Nelson2023/Nelson1234/134171
 #EXTINF:-3,Win Sports + 1
@@ -395,3 +403,7 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/208580
 http://odenfull.co:2086/Nelson2023/Nelson1234/294676
 #EXTINF:-3,Win Sports + 3
 http://odenfull.co:2086/Nelson2023/Nelson1234/300130
+#EXTINF:-3,Win Sports + 4
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/492
+#EXTINF:-3,Win Sports + 5
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/70672
