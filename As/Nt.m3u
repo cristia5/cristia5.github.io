@@ -41,6 +41,10 @@ https://canal10.mediaflix.istream.mx/wza_live/live/tvlive1/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 #EXTINF:-3,Canal 13
 http://odenfull.co:2086/Nelson2023/Nelson1234/289664
+#EXTINF:-3,Canal 13 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/34612
+#EXTINF:-3,Canal 13 2
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/92567
 #EXTINF:-3,Canal 14
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 #EXTINF:-3,Canal 24 Zacatecas
@@ -69,12 +73,18 @@ https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?
 http://160.20.165.245:8000/play/a00x/index.m3u8
 #EXTINF:-3,Caracol 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/294686
+#EXTINF:-3,Caracol 2
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/22428
+#EXTINF:-3,Caracol 3
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/22429
 #EXTINF:-3,Caracol Internacional
 http://160.20.165.245:8000/play/a00h/index.m3u8
 #EXTINF:-3,Caracol Internacional 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/294687
 #EXTINF:-3,Caracol Internacional 2
 http://odenfull.co:2086/Nelson2023/Nelson1234/322412
+#EXTINF:-3,Caracol Internacional 3
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/92847
 #EXTINF:-3,Chile
 http://138.59.177.34:8000/play/a00t/index.m3u8
 #EXTINF:-3,Chilevisión
@@ -89,6 +99,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?did=b13419
 #EXTINF:-3,Ecuavisa 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/297324
+#EXTINF:-3,Ecuavisa 2
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/30946
 #EXTINF:-3,Evtv
 https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/chunks.m3u8
 #EXTINF:-3,Evtv 1
@@ -105,8 +117,14 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/5970
 http://odenfull.co:2086/Nelson2023/Nelson1234/321978
 #EXTINF:-3,France24 2
 http://odenfull.co:2086/Nelson2023/Nelson1234/337955
+#EXTINF:-3,Gamavisión
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/7750
+#EXTINF:-3,Gamavisión 2
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/30949
 #EXTINF:-3,Globovision
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+#EXTINF:-3,Globovision 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/17266
 #EXTINF:-3,Guaro
 https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
 #EXTINF:-3,Guaro 1
@@ -143,6 +161,8 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/294690
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-3,Rtq
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:-3,Rts
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/93343
 #EXTINF:-3,Rtve 24
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-3,Rtve 24 1
@@ -157,10 +177,18 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8#amp=1
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-3,Tc televisión
 http://odenfull.co:2086/Nelson2023/Nelson1234/297314
+#EXTINF:-3,Tc televisión 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/34986
 #EXTINF:-3,Telecinco
 http://odenfull.co:2086/Nelson2023/Nelson1234/290653
+#EXTINF:-3,Telecinco 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/224
 #EXTINF:-3,Teleamazonas
 http://odenfull.co:2086/Nelson2023/Nelson1234/297316
+#EXTINF:-3,Teleamazonas 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/34986
+#EXTINF:-3,Teleamazonas 2
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/61586
 #EXTINF:-3,Telemetro
 http://138.59.177.34:8000/play/a020/index.m3u8
 #EXTINF:-3,Telemundo
@@ -177,6 +205,8 @@ http://138.59.177.34:8000/play/a03n/index.m3u8
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 #EXTINF:-3,Tv Hch hon
 http://138.59.177.34:8000/play/a022/index.m3u8
+#EXTINF:-3,Tvc
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/31319
 #EXTINF:-3,Tve
 http://138.59.177.34:8000/play/a06t/index.m3u8
 #EXTINF:-3,Tv Más Veracruz
