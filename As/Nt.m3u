@@ -45,6 +45,8 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/289664
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/34612
 #EXTINF:-3,Canal 13 2
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/92567
+#EXTINF:-3,Canal 13 3
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/35212
 #EXTINF:-3,Canal 14
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 #EXTINF:-3,Canal 24 Zacatecas
@@ -109,6 +111,8 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/297269
 http://odenfull.co:2086/Nelson2023/Nelson1234/47273
 #EXTINF:-3,Euronews Español 1
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-3,Exc
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/34870
 #EXTINF:-3,Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_5.m3u8
 #EXTINF:-3,France24
@@ -153,10 +157,16 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/1411
 https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w191657840.m3u8
 #EXTINF:-3,Promar
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-3,Promar 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/67514
 #EXTINF:-3,Pura Noticias
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 #EXTINF:-3,Rcn
 http://odenfull.co:2086/Nelson2023/Nelson1234/294690
+#EXTINF:-3,Rcn 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/22433
+#EXTINF:-3,Rcn
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/22434
 #EXTINF:-3,Rt Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-3,Rtq
@@ -175,6 +185,8 @@ http://138.59.177.34:8000/play/a03d/index.m3u8
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8#amp=1
 #EXTINF:-3,Sm Sistema
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-3,Televen
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/92698
 #EXTINF:-3,Tc televisión
 http://odenfull.co:2086/Nelson2023/Nelson1234/297314
 #EXTINF:-3,Tc televisión 1
@@ -233,3 +245,5 @@ https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u
 http://odenfull.co:2086/Nelson2023/Nelson1234/33123
 #EXTINF:-3,Vivo play
 https://linear-260.frequency.stream/mt/studio/260/hls/master/playlist.m3u8
+#EXTINF:-3,Vivo play
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/92462
