@@ -15,8 +15,14 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292228
 http://odenfull.co:2086/Nelson2023/Nelson1234/295664
 #EXTINF:-3,Bein Sports ñ 6
 http://odenfull.co:2086/Nelson2023/Nelson1234/339356
+#EXTINF:-3,Bein Sports ñ 7
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/23541
+#EXTINF:-3,Bein Sports ñ 8
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/23542
 #EXTINF:-3,Bein Sports ñ Extra
 http://odenfull.co:2086/Nelson2023/Nelson1234/337334
+#EXTINF:-3,Bein Sports ñ Extra 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/90048
 #EXTINF:-3,Canal 4
 http://138.59.177.34:8000/play/a012/index.m3u8
 #EXTINF:-3,Canal 4
@@ -307,8 +313,10 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/297297
 http://odenfull.co:2086/Nelson2023/Nelson1234/294625
 #EXTINF:-3,L1 max
 http://odenfull.co:2086/Nelson2023/Nelson1234/348235
-#EXTINF:-3,La liga
+#EXTINF:-3,La liga max
 http://odenfull.co:2086/Nelson2023/Nelson1234/292270
+#EXTINF:-3,La liga max 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/93329
 #EXTINF:-3,Lared tv
 http://138.59.177.34:8000/play/a062/index.m3u8
 #EXTINF:-3,Movistar 4 es
@@ -319,6 +327,12 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292269
 http://odenfull.co:2086/Nelson2023/Nelson1234/294621
 #EXTINF:-3,Movistar Deportes 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/348231
+#EXTINF:-3,Movistar Deportes pe
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/22517
+#EXTINF:-3,Movistar Deportes pe 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/92556
+#EXTINF:-3,Movistar liga de campeones
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/23169
 #EXTINF:-3,Movistar Vamos
 http://odenfull.co:2086/Nelson2023/Nelson1234/292279
 #EXTINF:-3,Outside
@@ -327,8 +341,16 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/289709
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-3,Sky Sports
 http://odenfull.co:2086/Nelson2023/Nelson1234/348232
+#EXTINF:-3,Sky Sports 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/92896
+#EXTINF:-3,Sky Sports main event
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/90182
 #EXTINF:-3,Sky Sports Premier
 http://odenfull.co:2086/Nelson2023/Nelson1234/292282
+#EXTINF:-3,Sky Sports Premier 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/90181
+#EXTINF:-3,Sky Sports Premier 2
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/95128
 #EXTINF:-3,Td+
 http://138.59.177.34:8000/play/a013/index.m3u8
 #EXTINF:-3,Tigo Sports Hd
@@ -345,22 +367,18 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292333
 http://odenfull.co:2086/Nelson2023/Nelson1234/292336
 #EXTINF:-3,Tnt Sports Premium 3
 http://odenfull.co:2086/Nelson2023/Nelson1234/292663
+#EXTINF:-3,Tnt Sports Premium 4
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/22145
+#EXTINF:-3,Tnt Sports Premium 5
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/22405
+#EXTINF:-3,Tnt Sports Premium 6
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/28994
+#EXTINF:-3,Tnt Sports Premium 7
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/37170
+#EXTINF:-3,Tnt Sports Premium 8
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/37174
 #EXTINF:-3,Tudn
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
-#EXTINF:-3,Tudn 1
-http://odenfull.co:2086/Nelson2023/Nelson1234/210627
-#EXTINF:-3,Tudn eu
-http://odenfull.co:2086/Nelson2023/Nelson1234/210629
-#EXTINF:-3,Tudn eu 1
-http://odenfull.co:2086/Nelson2023/Nelson1234/288923
-#EXTINF:-3,Tudn 4
-http://odenfull.co:2086/Nelson2023/Nelson1234/288924
-#EXTINF:-3,Tudn eu 2
-http://odenfull.co:2086/Nelson2023/Nelson1234/321891
-#EXTINF:-3,Tudn eu 3
-http://odenfull.co:2086/Nelson2023/Nelson1234/328862
-#EXTINF:-3,Tudn eu 4
-http://odenfull.co:2086/Nelson2023/Nelson1234/348236
 #EXTINF:-3,Tudn 1
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/37168
 #EXTINF:-3,Tudn 2
@@ -375,16 +393,32 @@ https://linear-581.frequency.stream/mt/studio/581/hls/master/playlist.m3u8
 https://dc0yy1cy2mqs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cmi4c1ko7cgug/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-3,Tudn Extra 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/321892
-#EXTINF:-3,Tudn eu 5
-http://tv.soccerplus.link:8000/GEN902/KCU17062021/23113
 #EXTINF:-3,Tudn Extra 2
 https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
+#EXTINF:-3,Tudn eu
+http://odenfull.co:2086/Nelson2023/Nelson1234/210629
+#EXTINF:-3,Tudn eu 1
+http://odenfull.co:2086/Nelson2023/Nelson1234/288923
+#EXTINF:-3,Tudn eu 2
+http://odenfull.co:2086/Nelson2023/Nelson1234/321891
+#EXTINF:-3,Tudn eu 3
+http://odenfull.co:2086/Nelson2023/Nelson1234/328862
+#EXTINF:-3,Tudn eu 4
+http://odenfull.co:2086/Nelson2023/Nelson1234/348236
+#EXTINF:-3,Tudn eu 5
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/23113
 #EXTINF:-3,Tyc Sports
 http://odenfull.co:2086/Nelson2023/Nelson1234/292317
 #EXTINF:-3,Tyc Sports 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/299329
+#EXTINF:-3,Tyc Sports 2
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/61605
+#EXTINF:-3,Tyc Sports 3
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/93077
 #EXTINF:-3,Tyc Sports inter
 http://odenfull.co:2086/Nelson2023/Nelson1234/292316
+#EXTINF:-3,Tyc Sports inter 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/31315
 #EXTINF:-3,Vix
 http://odenfull.co:2086/Nelson2023/Nelson1234/295663
 #EXTINF:-3,Vix 1
