@@ -205,7 +205,41 @@ http://tv.soccerplus.link:8000/GEN902/KCU17062021/35240
 http://138.59.177.34:8000/play/a020/index.m3u8
 #EXTINF:-3,Telemundo
 http://138.59.177.34:8000/play/a02a/index.m3u8
-#EXTINF:-3,Telemundo Hd
+#EXTINF:-3,Telemundo ang
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/807
+#EXTINF:-3,Telemundo bos
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/95127
+#EXTINF:-3,Telemundo cal
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/67499
+#EXTINF:-3,Telemundo dall
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/8649
+#EXTINF:-3,Telemundo fre
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/805
+#EXTINF:-3,Telemundo hou
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/8646
+#EXTINF:-3,Telemundo int
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/61598
+#EXTINF:-3,Telemundo mia
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/23086
+#EXTINF:-3,Telemundo new
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/23087
+#EXTINF:-3,Telemundo orl
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/22961
+#EXTINF:-3,Telemundo orl 1
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/92416
+#EXTINF:-3,Telemundo phi
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/810
+#EXTINF:-3,Telemundo puer
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/17459
+#EXTINF:-3,Telemundo san ant
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/813
+#EXTINF:-3,Telemundo san fra
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/814
+#EXTINF:-3,Telemundo tam
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/38822
+#EXTINF:-3,Telemundo veg
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/806
+#EXTINF:-3,Telemundo 1
 http://138.59.177.34:8000/play/a034/index.m3u8
 #EXTINF:-3,Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
