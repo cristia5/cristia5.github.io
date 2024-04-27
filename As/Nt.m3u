@@ -45,8 +45,6 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/289664
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/34612
 #EXTINF:-3,Canal 13 2
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/92567
-#EXTINF:-3,Canal 13 3
-http://tv.soccerplus.link:8000/GEN902/KCU17062021/35212
 #EXTINF:-3,Canal 14
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 #EXTINF:-3,Canal 24 Zacatecas
@@ -61,6 +59,8 @@ https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
 http://odenfull.co:2086/Nelson2023/Nelson1234/295992
 #EXTINF:-3,Canal I 2
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-3,Canal I 3
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/35212
 #EXTINF:-3,Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Canal Mexiquense
@@ -165,7 +165,7 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 http://odenfull.co:2086/Nelson2023/Nelson1234/294690
 #EXTINF:-3,Rcn 1
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/22433
-#EXTINF:-3,Rcn
+#EXTINF:-3,Rcn 2
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/22434
 #EXTINF:-3,Rt Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
