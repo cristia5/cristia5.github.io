@@ -91,10 +91,14 @@ http://tv.soccerplus.link:8000/GEN902/KCU17062021/92847
 http://138.59.177.34:8000/play/a00t/index.m3u8
 #EXTINF:-3,Chilevisión
 https://redirector.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?did=46c1d2c5aec4eb3a8dd327c10c094f67
-#EXTINF:-3,Cnne
+#EXTINF:-3,Cnn
 http://138.59.177.34:8000/play/a02n/index.m3u8
-#EXTINF:-3,Cnne 1
+#EXTINF:-3,Cnn 1
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
+#EXTINF:-3,Cnn 2
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/92845
+#EXTINF:-3,Cnn Internacinal
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/22253
 #EXTINF:-3,Dw Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-3,Ecuavisa
