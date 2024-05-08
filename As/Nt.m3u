@@ -159,6 +159,8 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/294696
 http://odenfull.co:2086/Nelson2023/Nelson1234/1411
 #EXTINF:-3,Nrt
 https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w191657840.m3u8
+#EXTINF:-3,Oromar
+https://streaming.oromartv.com/hls/oromartv_hi/index.m3u8
 #EXTINF:-3,Promar
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-3,Promar 1
