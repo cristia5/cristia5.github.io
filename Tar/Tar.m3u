@@ -549,6 +549,8 @@ http://tv.soccerplus.link:8000/GEN902/KCU17062021/30946
 https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/chunks.m3u8
 #EXTINF:-3,Evtv 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/297269
+#EXTINF:-3,Evtv 2
+https://edge.streann.com/evtv1/evtv1/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3MTU0NjI4ODMsInJpZCI6IjU5NWZiNGExOTczODA1MDExN2FhNDQyNyIsImtleSI6ImtleTEiLCJjaWQiOiI1YTU2M2JkZjJjZGMzMmQxNzRmOGU5OTUifQ.CjrdcdWa_74b9xx5OfLK9lzVgi8S4ZYPF7Fi0SmuO5A
 #EXTINF:-3,Euronews Español
 http://odenfull.co:2086/Nelson2023/Nelson1234/47273
 #EXTINF:-3,Euronews Español 1
