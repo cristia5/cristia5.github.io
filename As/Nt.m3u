@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-3,Platzi
+https://mediastream-live.platzi.com/live-stream/59b1a3ce03d8da6f20460a0b/publish/media_1800.m3u8?aid=512e13acaca1ebcd2f000279&uid=uBXjZwjf78DcuXujDkn9iqmaMb9MHcr5&sid=Dx2OHzppOe0mWmjQGT2PEnF4aBBhX2YC&pid=rLyQwm4zs4vlmxUy3WU005ouS3a8GHAr&ref=https%3A%2F%2Fplatzi.com%2Flive%2Fconf&without_cookies=false&listenerid=&dnt=true&es=mediastream-live.platzi.com&proto=https&pz=us
 #EXTINF:-3,Canal Abc
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3
 #EXTINF:-3,Canal Antigua
