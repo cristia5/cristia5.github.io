@@ -3658,8 +3658,6 @@ https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 https://vcp2.myplaytv.com/valetv/valetv/master.m3u8
 #EXTINF:-3 tvg-id="VePlus.ve" tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="VENEZUELA",Ve Plus
 http://190.122.96.187:8888/http/006
-
-
 #EXTINF:-3 tvg-id="AlcarriaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" group-title="Mexico",Alcarria TV (576p)
 http://tvpremiumhd.club/lista-gratuita/213023/on/live.php?id=217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-3 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Mexico",AMX Noticias (720p)
