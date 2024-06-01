@@ -117,8 +117,6 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/289701
 http://odenfull.co:2086/Nelson2023/Nelson1234/289706
 #EXTINF:-3,Espn ar 2
 http://odenfull.co:2086/Nelson2023/Nelson1234/348222
-#EXTINF:-3,Espn ch
-http://tv.soccerplus.link:8000/GEN902/KCU17062021/22108
 #EXTINF:-3,Espn 1
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/22105
 #EXTINF:-3,Espn 2 co
@@ -339,6 +337,8 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/292279
 http://odenfull.co:2086/Nelson2023/Nelson1234/289709
 #EXTINF:-3,Real Madrid
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+#EXTINF:-3,Real Madrid 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-3,Sky Sports
 http://odenfull.co:2086/Nelson2023/Nelson1234/348232
 #EXTINF:-3,Sky Sports 1
@@ -544,6 +544,8 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-3,Ecuavisa 1
 http://odenfull.co:2086/Nelson2023/Nelson1234/297324
 #EXTINF:-3,Ecuavisa 2
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/22108
+#EXTINF:-3,Ecuavisa 3
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/30946
 #EXTINF:-3,Evtv
 https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/chunks.m3u8
@@ -606,6 +608,8 @@ https://streaming.oromartv.com/hls/oromartv_hi/index.m3u8
 #EXTINF:-3,Promar
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-3,Promar 1
+http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-3,Promar 2
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/67514
 #EXTINF:-3,Pura Noticias
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
@@ -695,6 +699,8 @@ http://tv.soccerplus.link:8000/GEN902/KCU17062021/806
 http://138.59.177.34:8000/play/a034/index.m3u8
 #EXTINF:-3,Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Teletuya
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
 #EXTINF:-3,Televisa
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-3,Teleuniverso rd
@@ -707,6 +713,8 @@ http://138.59.177.34:8000/play/a022/index.m3u8
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/31319
 #EXTINF:-3,Tve
 http://138.59.177.34:8000/play/a06t/index.m3u8
+#EXTINF:-3,Tves
+https://ls.tves.gob.ve/hls/tves.m3u8
 #EXTINF:-3,Tv Más Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w745673491.m3u8
 #EXTINF:-3,Tvp culiacán
@@ -723,10 +731,14 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 http://138.59.177.34:8000/play/a027/index.m3u8
 #EXTINF:-3,Tvn
 http://138.59.177.34:8000/play/a021/index.m3u8
-#EXTINF:-3,Tv  Tabasco
+#EXTINF:-3,Tv Tabasco
 https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
+#EXTINF:-3,Tvs
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-3,Um Tv
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-3,Vale
+https://vcp2.myplaytv.com/valetv/valetv/master.m3u8
 #EXTINF:-3,Venevisión
 http://odenfull.co:2086/Nelson2023/Nelson1234/33123
 #EXTINF:-3,Vivo play
