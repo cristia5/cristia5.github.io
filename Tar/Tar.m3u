@@ -751,6 +751,8 @@ https://linear-450.frequency.stream/mt/studio/450/hls/master/playlist.m3u8
 https://linear-340.frequency.stream/mt/studio/340/hls/master/playlist.m3u8
 #EXTINF:-3,Comedia 2
 https://linear-560.frequency.stream/mt/studio/560/hls/master/playlist.m3u8
+#EXTINF:-3,Comedia 2
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 #EXTINF:-3,Comedy central
 http://138.59.177.34:8000/play/a05p/index.m3u8
 #EXTINF:-3,Distrito comedia
