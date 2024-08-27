@@ -687,6 +687,8 @@ http://tv.soccerplus.link:8000/GEN902/KCU17062021/92416
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/810
 #EXTINF:-3,Telemundo puer
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/17459
+#EXTINF:-3,Telemundo puer 1
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-3,Telemundo san ant
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/813
 #EXTINF:-3,Telemundo san fra
