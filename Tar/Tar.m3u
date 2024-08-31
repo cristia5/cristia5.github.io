@@ -646,10 +646,12 @@ http://odenfull.co:2086/Nelson2023/Nelson1234/297314
 #EXTINF:-3,Tc televisión 1
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/34986
 #EXTINF:-3,Teleamazonas
-http://odenfull.co:2086/Nelson2023/Nelson1234/297316
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-3,Teleamazonas 1
-http://tv.soccerplus.link:8000/GEN902/KCU17062021/600
+http://odenfull.co:2086/Nelson2023/Nelson1234/297316
 #EXTINF:-3,Teleamazonas 2
+http://tv.soccerplus.link:8000/GEN902/KCU17062021/600
+#EXTINF:-3,Teleamazonas 3
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/35240
 #EXTINF:-3,Telecinco
 http://odenfull.co:2086/Nelson2023/Nelson1234/290653
@@ -669,8 +671,6 @@ http://tv.soccerplus.link:8000/GEN902/KCU17062021/95127
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/67499
 #EXTINF:-3,Telemundo dall
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/8649
-#EXTINF:-3,Telemundo fre
-http://tv.soccerplus.link:8000/GEN902/KCU17062021/805
 #EXTINF:-3,Telemundo hou
 http://tv.soccerplus.link:8000/GEN902/KCU17062021/8646
 #EXTINF:-3,Telemundo int
