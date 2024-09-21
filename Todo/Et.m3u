@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-3,Tw latina
-https://jireh-2-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b268533120166bff2bbc6337&sid=ba5t1l1xb253809167266bff2bd9949e&ndvc=0
-#EXTINF:-3,Tcsports
-https://server4.betzta.com/tycsport/index.m3u8?token=ec25774baa84fc359ed14da7e2cdde199dc2750a-8ad49a9b5a357f97486289c44785e49b-1725668800-1725658000&remote=157.100.113.185
+#EXTINF:-3,Espn https://ym9yzq.la10tv.com/espnmx/index.m3u8?token=1662fc45f0f10473cf9addfa5658cf0a313785d8-e8cf6b9fa4950bfd779bc0024ff980df-1726970137-1726934137&remote=181.199.62.220
+#EXTINF:-3,Espn mx
+https://ym9yzq.la10tv.com/espnmx/index.m3u8?token=1662fc45f0f10473cf9addfa5658cf0a313785d8-e8cf6b9fa4950bfd779bc0024ff980df-1726970137-1726934137&remote=181.199.62.220
 #EXTINF:-3,Dsports
-https://server2.betzta.com/ds/index.m3u8?token=35f3b5c7c5b0e6872369d33b4a98fb0954f85628-3af2a04bf9ffcada7dea165b67362a06-1725668961-1725658161&remote=157.100.113.185
