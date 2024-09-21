@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-3,Espn
 https://y2fzdgxl.la10tv.com/espn/index.m3u8?token=aee3f24937e4aacf0ec46e4ac11d0a7263d96540-ca1b8afb2b8e04f9cb08297fccb8385e-1726970174-1726934174&remote=181.199.62.220
-#EXTINF:-3,Espn mx
-https://ym9yzq.la10tv.com/espnmx/index.m3u8?token=1662fc45f0f10473cf9addfa5658cf0a313785d8-e8cf6b9fa4950bfd779bc0024ff980df-1726970137-1726934137&remote=181.199.62.220
-#EXTINF:-3,Dsports
+#EXTINF:-3,Espn 2
+https://c2f2zq.la10tv.com/espn2/index.m3u8?token=020096dc303d6d46d65daf6366c7c3a29738fba1-d9a3ec471eaea44ac1000fd46a9ccecd-1726978030-1726942030&remote=181.199.62.220
+#EXTINF:-3,Espn deporte
+https://b2zmawnpyww.la10tv.com/espndeportes/index.m3u8?token=d45a20b8fa6f742ac48723acad4dc5d3ec64cda6-d1a76e69adc9ae455ebdf9ad45d9a101-1726977723-1726941723&remote=181.199.62.220
+#EXTINF:-3,Espnn premiun
+https://bwfrzq.la10tv.com/espnpremium/index.m3u8?token=92ce84869742b6e2fb38ed3716f8491d8656204c-19677591cbfb86db8c85d0a5b052f522-1726977601-1726941601&remote=181.199.62.220
