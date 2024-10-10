@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-3,Espn
 https://14c5.pricesaskeloadsc.com/espn1/index.m3u8?token=1f40cd499a057db2f00c392f74dfb10f3431fe35-81-1728618958-1728582958
+#EXTINF:-3,Espn 1
+https://cdn192.juniorhtv.com/hls/0/stream.m3u8
 #EXTINF:-3,Tudn
 https://anvtcax.la10tv.com/tudn/index.m3u8?token=639cf89318515087da4f570012e8712f8cd0c516-98-1728619539-1728583539&remote=157.100.110.231
 #EXTINF:-3,Tycsprts
