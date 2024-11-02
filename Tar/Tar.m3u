@@ -37,5 +37,5 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Tv azteca
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINC:-3,Win sports +
+#EXTINF:-3,Win sports +
 https://server.lal0hd.com/Winplus/index.m3u8?token=f6e2d7a89441f90721df39ec95b9df8eaf12f9df-84-1730110194-1730074194&remote=157.100.110.229
