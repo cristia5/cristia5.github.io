@@ -13,8 +13,8 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-3,Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?did=b13419
-#EXTINF:-3,Espn
-https://server.lal0hd.com/ESPN/index.m3u8?token=31713dfe4e25a53313f621c20e8c12e6ac6b9070-23-1730283691-1730247691&remote=181.199.41.220
+#EXTINF:-3,Ecuador
+https://bgvnzw5k.la10tv.com/sporttv1/index.m3u8?token=9106dc69181fbde6376f1e0e4a068f1fc90bce35-69-1731657539-1731621539
 #EXTINF:-3,Euronews Español
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-3,Oromar
@@ -37,5 +37,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Tv azteca
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-3,Win sports +
-https://server.lal0hd.com/Winplus/index.m3u8?token=f6e2d7a89441f90721df39ec95b9df8eaf12f9df-84-1730110194-1730074194&remote=157.100.110.229
+#EXTINF:-3,Peru
+https://am91cm5leq.la10tv.com/movistar_eventos/index.m3u8?token=4814a739fbeee58dbce180ea9a7df273b6b94074-8b-1731656867-1731620867
+#EXTINF:-3,Caracol
+https://y2fzdgxl.la10tv.com/caracol/index.m3u8?token=714223088249d548935b82f0881b5a3de6b0239b-37-1731654119-1731618119
