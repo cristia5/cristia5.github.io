@@ -9,6 +9,8 @@ https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-3,Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-3,Caracol 1
+https://aw1wcm92zq.la10tv.com/caracol/index.m3u8?token=377dca176df5c6efb72172099fb138068fc04eba-05-1732079429-1732043429
 #EXTINF:-3,Dw Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-3,Ecuavisa
@@ -35,9 +37,9 @@ https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc1
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-3,Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Tycsports
+https://server.lal0hd.com/tycArg/index.m3u8?token=92e92c7ec95686390347bd58d09d9d72a2f3a412-35-1732080369-1732044369&remote=157.100.110.227
+#EXTINF:-3,Tv latina
+https://server.lal0hd.com/LATINATV/index.m3u8?token=9e1d63aee5de97d969e995d08ad7cb4c86419cc0-ec-1732080556-1732044556&remote=157.100.110.227
 #EXTINF:-3,Tv azteca
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-3,Peru
-https://am91cm5leq.la10tv.com/movistar_eventos/index.m3u8?token=4814a739fbeee58dbce180ea9a7df273b6b94074-8b-1731656867-1731620867
-#EXTINF:-3,Uruguay
-https://dglvz29s.la10tv.com/caracol/index.m3u8?token=95d78233d05b675e6155f39102f87c164dad7241-10-1731748827-1731712827
