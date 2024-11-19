@@ -1,29 +1,29 @@
 #EXTM3U
+#EXTINF:-3,Alfa
+https://alba-ec-alfa-alfa.stream.mediatiquestream.com/chunks.m3u8
+#EXTINF:-3,Alfa 1
+https://d3h4krpr5elubf.cloudfront.net/alfa.m3u8
+#EXTINF:-3,Cristal
+https://streaming.ecuastreaming.com/9958/stream
+#EXTINF:-3,Diblu
+https://streamingecuador.net:9002/stream
+#EXTINF:-3,Disney
+https://27403.live.streamtheworld.com/DISNEY_ECU_GY_SC
+#EXTINF:-3,Disney 1
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ECU_GY_ADP.m3u8?dist=web-radiodisney
+#EXTINF:-3,Fabu
+https://alba-ec-fabu-fabuguayaquil.stream.mediatiquestream.com/chunks.m3u8
+#EXTINF:-3,Fabu 1
+https://d24f4m5860jcuo.cloudfront.net/fabugy.m3u8
+#EXTINF:-3,Fuego
+https://streamingecuador.net:8005/radiofuego
 #EXTINF:-3,Joya
 https://alba-ec-joya-joya.stream.mediatiquestream.com/chunks.m3u8
 #EXTINF:-3,Joya 1
 https://d1b9up0629ehjs.cloudfront.net/index.m3u8
 #EXTINF:-3,Joya 2
 https://d189ti2o3c9n0l.cloudfront.net/joya.m3u8
-#EXTINF:-3,Disney
-https://27403.live.streamtheworld.com/DISNEY_ECU_GY_SC
-#EXTINF:-3,Disney 1
-https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ECU_GY_ADP.m3u8?dist=web-radiodisney
-#EXTINF:-3,Alfa
-https://alba-ec-alfa-alfa.stream.mediatiquestream.com/chunks.m3u8
-#EXTINF:-3,Alfa 1
-https://d3h4krpr5elubf.cloudfront.net/alfa.m3u8
-#EXTINF:-3,Fuego
-https://streamingecuador.net:8005/radiofuego
 #EXTINF:-3,Redonda
 https://laredondafm.makrodigital.com:9550/stream
-#EXTINF:-3,Fabu
-https://alba-ec-fabu-fabuguayaquil.stream.mediatiquestream.com/chunks.m3u8
-#EXTINF:-3,Fabu 1
-https://d24f4m5860jcuo.cloudfront.net/fabugy.m3u8
 #EXTINF:-3,Romance
 https://streamingecuador.com:9010/stream
-#EXTINF:-3,Diblu
-https://streamingecuador.net:9002/stream
-#EXTINF:-3,Cristal
-https://streaming.ecuastreaming.com/9958/stream
