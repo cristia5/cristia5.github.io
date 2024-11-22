@@ -33,8 +33,6 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-3,Tc Televisión
 https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=QJBu4xEy9RBluGjcDLJGVsNGUpy_ZK7C1yGj72QjTNyB0RcGDmBIODdyvu78A8pI2Qwof3VxDbjLrQJsYInRhg&dmTs=563224&dmV1st=1b22ee37-a8b2-571b-c42d-591607151065
-#EXTINF:-3,Teleamazonas
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-3,Telemundo puer
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-3,Telesur
