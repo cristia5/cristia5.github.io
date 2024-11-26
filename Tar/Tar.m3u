@@ -39,3 +39,13 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Tv azteca
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-3,la liga2 psg
+https://lae.pricesaskeloadsc.com/movistarligadecampeones2/index.m3u8?token=4edaf26829e6ec29eec73215d0355c89802df75a-03-1732684720-1732648720
+#EXTINF:-3,la liga barc
+https://server.lal0hd.com/MovistarLiga/index.m3u8?token=30a6699f0f95fbb3c218d9cbb9ec7406b98b40b4-56-1732685652-1732649652&remote=157.100.113.185
+#EXTINF:-3,Espn 3 arsenal
+https://server.lal0hd.com/ESPN3/index.m3u8?token=f887c264228d9662abd9b865ef0e4d546af998fd-85-1732685858-1732649858&remote=157.100.113.185
+#EXTINF:-3,Espn 5 inter
+https://server.lal0hd.com/ESPN5/index.m3u8?token=c1b1487a4ec37e5d84477e0705a3e4b2e4777d8d-55-1732685825-1732649825&remote=157.100.113.185
+#EXTINF:-3,Tudn city
+https://server.lal0hd.com/TUDNUSA/index.m3u8?token=23ee68aa42c8ecea11ec42f5a17f72485b4f45d6-cf-1732685225-1732649225&remote=157.100.113.185
