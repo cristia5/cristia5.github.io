@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-3,Canal 26
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732317861/ei/Rb5AZ-DHD8KmzN0P67bimAg/ip/2800%3Abf0%3A826d%3A1343%3A457e%3A9566%3A335d%3Ab668/id/9fkB8aDdSik.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAYvhZ05O4vz46ZmV8ROwaWcaNIdAxQX6xJ5035zs-Qq1BKXQvlZHSXAoedA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347746/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOtuTWe3BydmIG68NcjV7YgZOe-9_WqBghY8woRG56H9AiAY_g7ZYX9W4fIEPZLgC-CWzrL8qdCg23dhUzrS9S4__A%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733275517/ei/HVtPZ9DXCrHJqvAP7f2X2Ao/ip/2800%3Abf0%3A826d%3A1343%3A894a%3A542f%3A1489%3A7e52/id/9fkB8aDdSik.1~45429690/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51340226/txs/51340226%2C51340227%2C51340228%2C51340229%2C51340653%2C51340654%2C51340655%2C51340656/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAShw-9HF0NOMIfds_m-VGvLwzlYkbvi5ZrAbv6_Lr_TVHzSlGqkoQiizFLU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355913/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJdWNDT9UslaQMpu8CDrKpA66RqXKOOujM37w2Lv7Ff4CIQC1s1Z4XrMJ8jFn3XL1Jfvbht4d4UI8WeNdKwlMgIYu1Q%3D%3D/file/index.m3u8
 #EXTINF:-3,Canal Abc
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-3,Canal E
@@ -18,7 +18,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-3,Euronews Español
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-3,Ntn 24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732317921/ei/gb5AZ-6lFP7lzN0Py8jyiQg/ip/2800%3Abf0%3A826d%3A1343%3A457e%3A9566%3A335d%3Ab668/id/R7P3BUzco3s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ec/spc/qtApAQR-UFLXsjqmF3QGUEgbZcvtt4W8fgQWmCfiKe1wYAF3TvFKdb9Jtlz7tOc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbzIMMenCfAgvpdTFW_VkLldxWhHVqv5orkiCa4hQkr8CIQDZFyBWDMtLtnRTZxtBIwwPZyjC9XkkQvedZPB288BTjA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733275609/ei/eVtPZ-zRIuHJqvAPw56PkAk/ip/2800%3Abf0%3A826d%3A1343%3A894a%3A542f%3A1489%3A7e52/id/R7P3BUzco3s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ec/spc/qtApAZSPWjV83E-miDs1_zKwQG_batBX_uEremsjud2UkB58KuzVCohSROtUaFY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355913/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALzezpj_17eBsU8gKN2joeI49dQc9r6hDBlYWbuKr2FXAiATzwk3l0RGOmVSgvyR8Tfv3l7Y93uAwNBse3_hJ_W_5Q%3D%3D/file/index.m3u8
 #EXTINF:-3,Oromar
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-3,Promar
@@ -39,11 +39,5 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Tv azteca
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-3,Na
-https://ag9wzq.la10tv.com/fanatiz7/index.m3u8?token=0567ea93e1b473ff3d1f0af549ebdc0e4484fe60-25-1733120702-1733084702
-#EXTINF:-3,Mu
-https://anvtcax.la10tv.com/fanatiz8/index.m3u8?token=fd84ddd3310a72556d05f50d9a395c501cbd06be-6c-1733120680-1733084680
-#EXTINF:-3,Li
-https://zw5k.la10tv.com/fanatiz9/index.m3u8?token=0fd6fb982ce387600ffa9cba9614d1778ae02cd9-96-1733120653-1733084653
-#EXTINF:-3,Ind
-https://bgvnzw5k.la10tv.com/fanatiz6/index.m3u8?token=ac40ac6825f732106575a49b26cef74c0e6cc5cf-bc-1733120620-1733084620
+#EXTINF:-3,Rts
+https://d27a7brtx3v90o.cloudfront.net/index.m3u8
