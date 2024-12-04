@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-3,Canal 26
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733275517/ei/HVtPZ9DXCrHJqvAP7f2X2Ao/ip/2800%3Abf0%3A826d%3A1343%3A894a%3A542f%3A1489%3A7e52/id/9fkB8aDdSik.1~45429690/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51340226/txs/51340226%2C51340227%2C51340228%2C51340229%2C51340653%2C51340654%2C51340655%2C51340656/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAShw-9HF0NOMIfds_m-VGvLwzlYkbvi5ZrAbv6_Lr_TVHzSlGqkoQiizFLU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355913/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJdWNDT9UslaQMpu8CDrKpA66RqXKOOujM37w2Lv7Ff4CIQC1s1Z4XrMJ8jFn3XL1Jfvbht4d4UI8WeNdKwlMgIYu1Q%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733351484/ei/3INQZ_CeEbeozN0PvfrriA4/ip/2800%3Abf0%3A826d%3A1343%3A9979%3Aab6a%3A1a69%3A9d18/id/9fkB8aDdSik.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAVjOghWzEo9pgZpqCdv0tskg9dm2xoVA2W74ygR6oB7Ame3ezqOV2NPymyw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347746%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANuPoXV8TCPdcsn5CyhqZWVRcQiUop7OTf30_PaUPaGoAiAc5gjIbcIWVyIRiaMo6BjGRZGr76XY9n_jpkCqySizQg%3D%3D/file/index.m3u8
 #EXTINF:-3,Canal Abc
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-3,Canal E
@@ -18,7 +18,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-3,Euronews Español
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-3,Ntn 24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733275609/ei/eVtPZ-zRIuHJqvAPw56PkAk/ip/2800%3Abf0%3A826d%3A1343%3A894a%3A542f%3A1489%3A7e52/id/R7P3BUzco3s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ec/spc/qtApAZSPWjV83E-miDs1_zKwQG_batBX_uEremsjud2UkB58KuzVCohSROtUaFY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355913/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALzezpj_17eBsU8gKN2joeI49dQc9r6hDBlYWbuKr2FXAiATzwk3l0RGOmVSgvyR8Tfv3l7Y93uAwNBse3_hJ_W_5Q%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733351547/ei/G4RQZ_7jOJDXzN0Pq8atmQE/ip/2800%3Abf0%3A826d%3A1343%3A9979%3Aab6a%3A1a69%3A9d18/id/R7P3BUzco3s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ec/spc/qtApATEcTrfCU1xUWjXM7rXYzXb84WytqtZgSZSYyiocl7RMICjpZJ2JkkhkfHE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355913/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOHvYuPUe-jWjl92fGaAzH3-5ei6X4ouMSorCEBLNrQSAiBd26-FQddQcJAS87Vokm8rbyyHXHDh3rbV9oOk9tT-7A%3D%3D/file/index.m3u8
 #EXTINF:-3,Oromar
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-3,Promar
@@ -32,7 +32,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-3,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-3,Tc Televisión
-https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=QJBu4xEy9RBluGjcDLJGVsNGUpy_ZK7C1yGj72QjTNyB0RcGDmBIODdyvu78A8pI2Qwof3VxDbjLrQJsYInRhg&dmTs=563224&dmV1st=1b22ee37-a8b2-571b-c42d-591607151065
+https://live-b.cf.dmcdn.net/sec2(rV7OqB5RrZfyLrDWj4051B4rHYvqN96IxR3s1E2yZJacCS8OHms07_mNG7mxNlma7t343la5Abl2ogfYS6nDeNnT78a5RNQy4zcZOiAK9JgLlw6nL9ZkbH9TCXJaQZ-v)/dm/3/x7wijay/d/live-240.m3u8#cell=lcfb
 #EXTINF:-3,Telemundo puer
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-3,Telesur
