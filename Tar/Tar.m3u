@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-3,Canal 26
-
 #EXTINF:-3,Canal Abc
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-3,Canal E
@@ -17,8 +15,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?did=b13419
 #EXTINF:-3,Euronews Español
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-3,Ntn 24
-
 #EXTINF:-3,Oromar
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-3,Promar
@@ -31,8 +27,6 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-3,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-3,Tc Televisión
-
 #EXTINF:-3,Telemundo puer
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-3,Telesur
@@ -41,6 +35,12 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UC
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-3,Rts
 https://d27a7brtx3v90o.cloudfront.net/index.m3u8
+#EXTINF:-3,Canal 26
+
+#EXTINF:-3,Ntn 24
+
+#EXTINF:-3,Tc Televisión
+
 #EXTINF:-3,Azteca7
 https://ag9wzq.la10tv.com/azteca7/index.m3u8?token=90100ba37cc1079d17ebaae8a922ee99e1a0dde8-e4-1733397488-1733361488
 #EXTINF:-3,Win +
