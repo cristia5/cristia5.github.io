@@ -38,6 +38,10 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-3,Canal 26
 
 #EXTINF:-3,Ntn 24
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734071706/ei/OoFbZ6vVKLmDy_sPq4uJ8QU/ip/2800%3Abf0%3A826d%3A1343%3A7001%3A8385%3Ac1c1%3A6326/id/R7P3BUzco3s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ec/spc/x-caUFqY01dH6Z4gMIS-1C8zpENtsV_1BmaWx7WwXGsX-Tju6whTJFML6aFsl7c/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347747%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOah7sB29DvXiNgsNsGJCWtbxSzlWC2jowmSUc9TErR4CIQDCE93-CPRyyZK2TaVUXNVbxuVk8OerJwqbItUbkyYFmg%3D%3D/file/index.m3u8
 #EXTINF:-3,Tc Televisión
 https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=0bEh_4q9sqBcRHjvIyhOKVX-3auaNAgbhohzFANwSi7Zc5qdl0PvDhbUo5mjIkSENvyl2wVT-rMT3McAwb7eIg&dmTs=996314&dmV1st=e01d2819-e74d-7aa6-c07e-e0947f6bd474
+#EXTINF:-3,Tudn
+https://y2fzdgxl.la10tv.com/tudn/index.m3u8?token=cb45954710dc1174f76a10c1f14b30a62eea12f2-d7-1734063410-1734027410
+#EXTINF:-3,Win+
+https://ym9yzq.la10tv.com/winsports2/index.m3u8?token=0d9239e63a49aa577b23cb3908076e6b48493d90-93-1734070140-1734034140
