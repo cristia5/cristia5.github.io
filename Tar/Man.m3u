@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-3,Canal Abc
+https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-3,Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Canal I
+https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-3,Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-3,Caracol
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-3,Dw Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-3,Ecuavisa
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?did=b13419
+#EXTINF:-3,Euronews Español
+https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-3,Oromar
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-3,Promar
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-3,Pura Noticias
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+#EXTINF:-3,Rt Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-3,Rts
+https://d27a7brtx3v90o.cloudfront.net/index.m3u8
+#EXTINF:-3,Rtve 24
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-3,Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-3,Telemundo puer
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-3,Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Tv azteca
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-3,Canal 26
+
+#EXTINF:-3,Ntn 24
+
+#EXTINF:-3,Tc Televisión
+
+#EXTINF:-3,Caracol 1
+https://8c5.pricesaskeloadsc.com/caracoltv/index.m3u8?token=06365c178a0820c7aaf17e3010b0409868b3a43a-d4-1736052534-1736016534
+#EXTINF:-3,Directv
+https://z29vzc.fubohd.com/dsports/index.m3u8?token=39b46e3500215c2c586c75b752c538a69edb6cc2-32-1736051440-1736015440
+#EXTINF:-3,Espn
+https://agvyby.fubohd.com/espn/index.m3u8?token=cf23ce49cfd7f1abcdf9c3dce417ed67a97b12c7-51-1736051489-1736015489
+#EXTINF:-3,Espn 2
+https://cxvpy2s.fubohd.com/espn2/index.m3u8?token=18a8af3fb386d0e5744d972e707c88631c13ab65-50-1736051313-1736015313
+#EXTINF:-3,
+#EXTINF:-3,
+#EXTINF:-3,
+#EXTINF:-3,
+#EXTINF:-3,Rcn
+https://lae.pricesaskeloadsc.com/rcnco/index.m3u8?token=4643f9600b11b74f1689f1bf91b5c9d9e3feabab-41-1736052422-1736016422
+#EXTINF:-3,
+#EXTINF:-3,Win +
