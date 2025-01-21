@@ -42,18 +42,20 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-3,Tc Televisión
 
 #EXTINF:-3,Caracol 1
-#EXTINF:-3,Directv
-https://bmv3.fubohd.com/dsports/index.m3u8?token=60eccda7cc628a2203d7460ed7f5ef975806f05e-91-1737248409-1737212409
 #EXTINF:-3,Espn
-https://agl2zq.fubohd.com/espn/index.m3u8?token=0772432dab9917c45493fa97fb9003a37043b27e-a4-1737248584-1737212584
+https://am91cm5leq.fubohd.com/espn/index.m3u8?token=e04fce1e6ca72c307436c405c9aecf17db6dc41d-11-1737515275-1737479275
 #EXTINF:-3,Espn 2
-https://c2nvdxq.fubohd.com/espn2/index.m3u8?token=dc2883e69992d474322960f0087df6e77da961cb-63-1737248513-1737212513
+https://d2hpc3rszq.fubohd.com/espn2/index.m3u8?token=5a080a14e2968da79c5422682a72fcbae1cb97c3-67-1737515324-1737479324
+#EXTINF:-3,Espn 3
+https://bgfuzq.fubohd.com/espn3/index.m3u8?token=3488b0f93bb60241d4559b5caf7f7b3b2e8569f8-48-1737515725-1737479725
 #EXTINF:-3,Espn 4
-https://florcd.pricesaskeloadsc.com/espn4/index.m3u8?token=2aced6b87316cabecb34253fc859d9bff92a28aa-cd-1737248552-1737212552
+https://ym9yzq.fubohd.com/espn4/index.m3u8?token=78cfc5f9f2d60bfd5190c9b9527719b1cf01486c-af-1737515497-1737479497
 #EXTINF:-3,Espn 5
-https://14c5.pricesaskeloadsc.com/espn5/index.m3u8?token=c36425073e24465c9a24c6473f3e9bd51a1db5e4-4b-1737248643-1737212643
+https://anvtcax.fubohd.com/espn5/index.m3u8?token=d7efc01b69f23aa03c11d57f4a51603c661c4b50-7e-1737515637-1737479637
+#EXTINF:-3,Espn 6
+https://b2zmawnpyww.fubohd.com/espn6/index.m3u8?token=7b4c516008e7b56ad0bc2f6dced16399eb826580-ff-1737515533-1737479533
+#EXTINF:-3,Espn 7
+https://ag9wzq.fubohd.com/espn7/index.m3u8?token=545acbe632449dc3fb306c79aa3cb791848e1ab3-cb-1737515755-1737479755
 #EXTINF:-3,Rcn
-https://24a.pricesaskeloadsc.com/rcnco/index.m3u8?token=c1b8be2c68e372998c79d9fa0cde04d204ef28bf-5c-1737249574-1737213574
 #EXTINF:-3,
 #EXTINF:-3,
-#EXTINF:-3,Win +
