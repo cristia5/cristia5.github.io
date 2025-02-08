@@ -42,7 +42,10 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-3,Tc Televisión
 
 #EXTINF:-3,Caracol 1
+#EXTINF:-3,Directv
+https://24a.pricesaskeloadsc.com/dsports/index.m3u8?token=b7dc105af38b19a0940275bdb0519cf7433e42bb-f0-1739066088-1739033688
 #EXTINF:-3,Espn
+https://ag9wzq.fubohd.com/espnpremium/mono.m3u8?token=421e66d034e6d05185701a67ba098cc93e38c33a-b4-1739077970-1739041970
 #EXTINF:-3,Espn 2
 #EXTINF:-3,Espn 3
 #EXTINF:-3,Espn 4
@@ -50,5 +53,6 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-3,Espn 6
 #EXTINF:-3,Espn 7
 #EXTINF:-3,Rcn
-#EXTINF:-3,
+#EXTINF:-3,Sports
+https://ja.periquitopan.store/premiere2/tracks-v1a1/mono.m3u8?md5=DhyR2E2_JPZft1Fe1RfXSw&expires=1739053606
 #EXTINF:-3,
