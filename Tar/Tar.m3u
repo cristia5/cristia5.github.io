@@ -29,6 +29,8 @@ https://d27a7brtx3v90o.cloudfront.net/index.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-3,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-3,T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did=b298147788467be06b29c917
 #EXTINF:-3,Telemundo puer
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-3,Telesur
@@ -44,19 +46,18 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-3,Caracol 1
 #EXTINF:-3,Directv
 #EXTINF:-3,Espn
-https://24a.pricesaskeloadsc.com/espn/index.m3u8?token=61500f2a4548ec880657f61bd4fff1fdc9386d8c-20-1741127144-1741094744
+https://doc.pricesaskeloadsc.com/espn/index.m3u8?token=8eb4c80822eb937e74a343accdac44d7263317c3-11-1741740691-1741708291
 #EXTINF:-3,Espn 2
-https://u4c5a.pricesaskeloadsc.com/espn2/index.m3u8?token=67d9e35b1cf3edcc855d9be72adaa0f9180fe1c3-68-1741141547-1741109147
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZWU4ZGQ3YWYyNThjLWY2ODgtZTE1NC0zYjJlLWJhZTA4ODI2/master.m3u8?md5=sWzt4o4gd_pqpOZO-7-EOg&expires=1741728135
 #EXTINF:-3,Espn 3
 #EXTINF:-3,Espn 4
 #EXTINF:-3,Espn 5
-https://florcd.pricesaskeloadsc.com/espn5/index.m3u8?token=8e9aa296315011fe3707651acb6e6ced1fd85609-e8-1741141575-1741109175
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTNiNzMzY2ViZDgxLWFmMWEtMGE2NC02ZjcyLWI1ZjM0NjIw/master.m3u8?md5=agvUxkPlF2fhPTsNFfIy6Q&expires=1741728166
 #EXTINF:-3,Espn 6
 #EXTINF:-3,Espn 7
 #EXTINF:-3,Espn 
 #EXTINF:-3,Mega
-#EXTINF:-3,T13
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did=b298147788467be06b29c917
+#EXTINF:-3,
 #EXTINF:-3,Rcn
 #EXTINF:-3,
 #EXTINF:-3,
