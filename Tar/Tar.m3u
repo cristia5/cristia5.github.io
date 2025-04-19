@@ -48,30 +48,23 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-3,América
 https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_360p/chunks.m3u8
 #EXTINF:-3,Caracol gol
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YWI4ZTdmMTBjMWQ4LWQ5NjktYTllNC03ZGYwLWIwZTljY2Vm/master.m3u8?md5=Xub3sd4R8qBiQL9nXMfBnQ&expires=1742529143
-#EXTINF:-3,Caracol gol1
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YWI4ZTdmMTBjMWQ4LWQ5NjktYTllNC03ZGYwLWIwZTljY2Vm/master.m3u8?md5=x0wJMydzLpiJuI4cg5rujA&expires=1742596001
-#EXTINF:-3,
+#EXTINF:-3,El canal
+https://tyg2mnl9.fubohd.com/ecdf_ligapro/mono.m3u8?token=5d506880798e39cc89671339051974e2597b8670-8f-1745040828-1745022828
 #EXTINF:-3,Directv
 #EXTINF:-3,Espn
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YTIxZWZmZDY0YjQ2LTYzMDktZWEwNC03ZmQzLWE2NmNmNDIy/master.m3u8?md5=ohhbo1kBrRAbOorcWwV-fQ&expires=1741728760
-#EXTINF:-3,Espn 11
-https://bgvnzw5k.fubohd.com/espn/mono.m3u8?token=5e3501df28d68ce795a6bcc5a850cb7c7b6f5071-fe-1744258123-1744222123
 #EXTINF:-3,Espn 2
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZWU4ZGQ3YWYyNThjLWY2ODgtZTE1NC0zYjJlLWJhZTA4ODI2/master.m3u8?md5=sWzt4o4gd_pqpOZO-7-EOg&expires=1741728135
-#EXTINF:-3,Espn 21
-https://agvyby.fubohd.com/espn2/mono.m3u8?token=e99fbf7407cc5ffa6a21daa28cf9d4ae619ac3fa-88-1744258165-1744222165
 #EXTINF:-3,Espn 3
 #EXTINF:-3,Espn 4
 #EXTINF:-3,Espn 5
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTNiNzMzY2ViZDgxLWFmMWEtMGE2NC02ZjcyLWI1ZjM0NjIw/master.m3u8?md5=agvUxkPlF2fhPTsNFfIy6Q&expires=1741728166
-#EXTINF:-3,Espn 51
 #EXTINF:-3,Espn 6
 #EXTINF:-3,Espn 7
-#EXTINF:-3,Gen
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YWU2ZWNjNzViMTBhLTAxYzgtZDkxNC05YjM0LTM0ZTFkNDIz/master.m3u8?md5=XUEduhH4iPaQOk1Ett1u-A&expires=1742596693
-#EXTINF:-3,
-#EXTINF:-3,
-#EXTINF:-3,
+#EXTINF:-3,Espn premium
+https://am91cm5leq.fubohd.com/espnpremium/mono.m3u8?token=cd476c6b22ce75e6eb825fd6daf30a84fc778757-4e-1745040905-1745022905
+#EXTINF:-3,Tycsports
+https://c2f2zq.fubohd.com/tycinternacional/mono.m3u8?token=08bb8dabc4ecd11e4b0ba95cd626536814fcdba4-77-1745040980-1745022980
+#EXTINF:-3,Tudn
+https://bgfuzq.fubohd.com/tudn/mono.m3u8?token=f71e94fa099e628b52b61b4a06e0ebb0b912a3eb-66-1745040875-1745022875
+#EXTINF:-3,Usa
+https://bgfuzq.fubohd.com/usanetwork/mono.m3u8?token=a1feb7f78cd406849c568595d71d37b4bd92584b-c2-1745040785-1745022785
 #EXTINF:-3,
 #EXTINF:-3,
