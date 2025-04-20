@@ -49,9 +49,11 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_360p/chunks.m3u8
 #EXTINF:-3,Caracol gol
 #EXTINF:-3,
-#EXTINF:-3,Directv 
+#EXTINF:-3,Directv
+https://tyg2mnl9.fubohd.com/dsports/mono.m3u8?token=67658de8f1fabed3ffb4427569d72534c4d9ba6e-1-1745191466-1745173466
 #EXTINF:-3,El canal
-https://daba1.dbcast.live/uTDGZSv6-Uqe_nKpaspyIQ/1745054188/323830303a6266303a383236643a313439613a336362613a636635343a323466333a63313166/ff456/playlist.m3u8?b=1
+#EXTINF:-3,Fox deportes
+https://qzv4jmsc.fubohd.com/foxdeportes/mono.m3u8?token=639d71633606848bfd699a357d5acc6c8253c8d9-cf-1745191395-1745173395
 #EXTINF:-3,Espn 
 #EXTINF:-3,Espn 2
 #EXTINF:-3,Espn 3
@@ -59,13 +61,12 @@ https://daba1.dbcast.live/uTDGZSv6-Uqe_nKpaspyIQ/1745054188/323830303a6266303a38
 #EXTINF:-3,Espn 5
 #EXTINF:-3,Espn 6
 #EXTINF:-3,Espn 7
-#EXTINF:-3,Espn premium
-https://am91cm5leq.fubohd.com/espnpremium/mono.m3u8?token=cd476c6b22ce75e6eb825fd6daf30a84fc778757-4e-1745040905-1745022905
-#EXTINF:-3,Tycsports
-https://c2f2zq.fubohd.com/tycinternacional/mono.m3u8?token=08bb8dabc4ecd11e4b0ba95cd626536814fcdba4-77-1745040980-1745022980
-#EXTINF:-3,Tudn
-https://bgfuzq.fubohd.com/tudn/mono.m3u8?token=f71e94fa099e628b52b61b4a06e0ebb0b912a3eb-66-1745040875-1745022875
-#EXTINF:-3,Usa
-https://bgfuzq.fubohd.com/usanetwork/mono.m3u8?token=a1feb7f78cd406849c568595d71d37b4bd92584b-c2-1745040785-1745022785
+#EXTINF:-3,Premiere
+https://ym9yzq.fubohd.com/premiere1/mono.m3u8?token=293b052981d207f2382416ee1c29d78137cc0ec8-69-1745191493-1745173493
+#EXTINF:-3,Premiere 2
+https://bmf0aw9u.fubohd.com/premiere2/mono.m3u8?token=ade8660e3c6bb9a3a6d2e4a37ae18238643e2632-2-1745191521-1745173521
+#EXTINF:-3,Win Sports +
+https://dglvz29s.fubohd.com/winsports2/mono.m3u8?token=ffd84ed716b4a68cfb4801b60ef8a321f1d4709f-4b-1745191658-1745173658
+#EXTINF:-3,
 #EXTINF:-3,
 #EXTINF:-3,
