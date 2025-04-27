@@ -29,10 +29,6 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://d27a7brtx3v90o.cloudfront.net/index.m3u8
 #EXTINF:-3,Rtu
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
-#EXTINF:-3,Rtve 24
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-3,Señal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-3,T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did=b298147788467be06b29c917
 #EXTINF:-3,Telemundo puer
