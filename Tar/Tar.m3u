@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-3,América
+https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_360p/chunks.m3u8
 #EXTINF:-3,Canal Abc
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-3,Canal E
@@ -15,6 +17,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?did=b13419
 #EXTINF:-3,Euronews Español
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-3,Latina
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b22068928289680d5e0adb0bb
 #EXTINF:-3,Oromar
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-3,Promar
@@ -39,35 +43,27 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Tv azteca
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-3,Tv perú
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-3,Canal 26
 
 #EXTINF:-3,Ntn 24
 
 #EXTINF:-3,Tc Televisión
 
-#EXTINF:-3,América
-https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_360p/chunks.m3u8
 #EXTINF:-3,Caracol gol
 #EXTINF:-3,
 #EXTINF:-3,Directv
-https://socia.crackstreamslivehd.com/dsports/index.m3u8?token=effefb52bf714a0ac7fee67b23c4ebfcbdff2808-22-1745381950-1745349550&ip=157.100.199.112
 #EXTINF:-3,Directv +
-https://98ca2.crackstreamslivehd.com/dsportsplus/index.m3u8?token=96dc8215367532f2f03c73c1ef917b9141a62f6f-e5-1745382392-1745349992&ip=157.100.199.112
 #EXTINF:-3,El canal
 #EXTINF:-3,Fox deportes
 #EXTINF:-3,Espn 
-https://bmv3.fubohd.com/espn/mono.m3u8?token=e234ddbeea78ffec70bf6eab22a3bfeae735bbaa-91-1745374205-1745356205
 #EXTINF:-3,Espn 2
-https://am91cm5leq.fubohd.com/espn2/mono.m3u8?token=6e6d27ad1bb4163bf901807e033461bc1d6d285f-eb-1745374231-1745356231
 #EXTINF:-3,Espn 3
 #EXTINF:-3,Espn 4
 #EXTINF:-3,Espn 5
-https://yxdlc29tzq.fubohd.com/espn5/mono.m3u8?token=397c0657ad8c9bb8b8f9f6d81f15b46c27967760-e8-1745374278-1745356278
 #EXTINF:-3,Espn 6
-https://ag9wzq.fubohd.com/espn6/mono.m3u8?token=a5a514cfe2c73da5edfbabff9842eff6c13913f4-83-1745374641-1745356641
 #EXTINF:-3,Espn 7
-https://ym9yzq.fubohd.com/espn7/mono.m3u8?token=c65a4458f904c89c4c69356438c86cea9fa67354-8f-1745374325-1745356325
-#EXTINF:-3,Premiere
 #EXTINF:-3,Premiere 2
 #EXTINF:-3,Win Sports +
 #EXTINF:-3,
