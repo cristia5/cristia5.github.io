@@ -32,6 +32,8 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-3,Telemundo puer
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-3,Telesur
+https://www.dailymotion.com/cdn/live/video/x82ug5r.m3u8?sec=2k_lBnEvY-N9yf4SBQDeOplZ31_-A3FbpS5R-KBIy77mXhdhXeQ8GXAugyNHiYo8F0NLPXBL-4L04z6qozTykA&dmTs=496414&dmV1st=7ad6bc85-a073-4032-8199-c7d555d1bd03
+#EXTINF:-3,
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Tv azteca
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
