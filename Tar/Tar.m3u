@@ -1,32 +1,76 @@
 #EXTM3U
+#EXTINF:-3,13 max
+https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+#EXTINF:-3,Antares
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-3,América
 https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_360p/chunks.m3u8
+#EXTINF:-3,Atv
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-3,Atv1
+https://d19e55ehz2il4i.cloudfront.net/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd19e55ehz2il4i.cloudfront.net%2Findex.m3u8%22%2Csid%3D%22a16c3414-7e0f-4ead-96c8-d2f0f7a4c3af%22
+#EXTINF:-3,Atv más
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
+#EXTINF:-3,Atv sur
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-3,Atv sur 1
+https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd3r5ioyjqcy69v.cloudfront.net%2Findex.m3u8%22%2Csid%3D%22705a4eba-1fe6-4673-8473-20cf9c1f24ee%22
+#EXTINF:-3,Cali
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
+#EXTINF:-3,Cali 1
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8?77.209.17.38&wowzatokenendtime=&wowzatokenhash=P1p4P_xzMiqdDE58RHIV9P58a4H2xjVJ5bKRzh41-ms=&wowzatokenstarttime=&
 #EXTINF:-3,Canal Abc
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-3,Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-3,Canal 7 jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-3,Canal I
 https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-3,Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-3,Caracol 1
+https://stream.gia.tv/giatv/giatv-c11604/c11604/chunks.m3u8
+#EXTINF:-3,Caracol sports
+https://stream.gia.tv/giatv/giatv-c21604/c21604/chunks.m3u8
+#EXTINF:-3,Ctv barranquilla
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 #EXTINF:-3,Dw Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-3,Ecotel
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-3,Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?did=b13419
+#EXTINF:-3,El trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+#EXTINF:-3,Ipe
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-3,Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b22068928289680d5e0adb0bb
+#EXTINF:-3,Latina 1
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-3,Mega tv arequipa
+https://mc.servidor.stream:19360/megatv/megatv.m3u8
 #EXTINF:-3,Oromar
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-3,Panamericana
+https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-3,Promar
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-3,Pura Noticias
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+#EXTINF:-3,Red noticias
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel%28REDMASHDWEB%29/master.m3u8
 #EXTINF:-3,Rt Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-3,Rts
 https://d27a7brtx3v90o.cloudfront.net/index.m3u8
 #EXTINF:-3,Rtu
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
+#EXTINF:-3,Señal Colombia
+https://stream.gia.tv/giatv/giatv-sc1604/sc1604/chunks.m3u8
+#EXTINF:-3,Sol
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-3,T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did=b298147788467be06b29c917
 #EXTINF:-3,Telemundo puer
@@ -37,8 +81,14 @@ https://www.dailymotion.com/cdn/live/video/x82ug5r.m3u8?sec=2k_lBnEvY-N9yf4SBQDe
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Tv azteca
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-3,Tv cosmo
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-3,Tv perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-3,Tv perú 1
+https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
+#EXTINF:-3,Tv perú hd
+https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?uid=3892672
 #EXTINF:-3,Canal 26
 
 #EXTINF:-3,Ntn 24
