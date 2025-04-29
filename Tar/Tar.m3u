@@ -87,7 +87,7 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-3,Tv perú 1
 https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
-#EXTINF:-3,Tv perú hd
+EXTINF:-3,Tv perú hd
 https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?uid=3892672
 #EXTINF:-3,Canal 26
 
