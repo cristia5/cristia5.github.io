@@ -37,8 +37,6 @@ https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?did=b13419
 #EXTINF:-3,El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTINF:-3,Ipe
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-3,Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b22068928289680d5e0adb0bb
 #EXTINF:-3,Latina 1
@@ -70,8 +68,8 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-3,Telemundo puer
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-3,Telesur
-https://www.dailymotion.com/cdn/live/video/x82ug5r.m3u8?sec=2k_lBnEvY-N9yf4SBQDeOplZ31_-A3FbpS5R-KBIy77mXhdhXeQ8GXAugyNHiYo8F0NLPXBL-4L04z6qozTykA&dmTs=496414&dmV1st=7ad6bc85-a073-4032-8199-c7d555d1bd03
-#EXTINF:-3,
+https://www.dailymotion.com/cdn/live/video/x82ug5r.m3u8?sec=F08F6W223agUii6_wgCT2DUa_6BIwQPez_Lt5vTVzarowTsPbHqwsH4fk8YJpwdP34GA__GnX1RD1PEPJDFeXg&dmTs=515912&dmV1st=9ba4bb53-a29e-4fb2-b20c-b082eab0e70c
+EXTINF:-3,
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Tv azteca
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
