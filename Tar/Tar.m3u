@@ -1,21 +1,23 @@
 #EXTM3U
-EXTINF:-3,Antares
+#EXTINF:-3,13 max
+https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+#EXTINF:-3,Antares
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-3,América
 https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_360p/chunks.m3u8
 #EXTINF:-3,Atv
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-EXTINF:-3,Atv1
+#EXTINF:-3,Atv1
 https://d19e55ehz2il4i.cloudfront.net/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd19e55ehz2il4i.cloudfront.net%2Findex.m3u8%22%2Csid%3D%22a16c3414-7e0f-4ead-96c8-d2f0f7a4c3af%22
-EXTINF:-3,Atv más
+#EXTINF:-3,Atv más
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-3,Atv sur
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
-EXTINF:-3,Atv sur 1
+#EXTINF:-3,Atv sur 1
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd3r5ioyjqcy69v.cloudfront.net%2Findex.m3u8%22%2Csid%3D%22705a4eba-1fe6-4673-8473-20cf9c1f24ee%22
 #EXTINF:-3,Cali
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
-EXTINF:-3,Cali 1
+#EXTINF:-3,Cali 1
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8?77.209.17.38&wowzatokenendtime=&wowzatokenhash=P1p4P_xzMiqdDE58RHIV9P58a4H2xjVJ5bKRzh41-ms=&wowzatokenstarttime=&
 #EXTINF:-3,Canal Abc
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
@@ -85,7 +87,7 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-3,Tv perú 1
 https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
-EXTINF:-3,Tv perú hd
+#EXTINF:-3,Tv perú hd
 https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?uid=3892672
 #EXTINF:-3,Canal 26
 
