@@ -24,9 +24,7 @@ https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-3,Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-3,Caracol 1
-https://stream.gia.tv/giatv/giatv-c11604/c11604/chunks.m3u8
-#EXTINF:-3,Caracol sports
-https://stream.gia.tv/giatv/giatv-c21604/c21604/chunks.m3u8
+https://stream.gia.tv/giatv/giatv-c1mayten/c1mayten/chunks.m3u8
 #EXTINF:-3,Ctv barranquilla
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 #EXTINF:-3,Dw Español
