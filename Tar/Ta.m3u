@@ -25,8 +25,6 @@ https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 #EXTINF:-3,Canal 1
 https://stream.gia.tv/giatv/giatv-uno1604/uno1604/chunks.m3u8
-#EXTINF:-3,Canal 6
-https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:-3,Canal 7
 https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-3,Canal 7 jujuy
@@ -37,8 +35,6 @@ https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 #EXTINF:-3,Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-3,Canal Abc 
-https://cdn.jwplayer.com/live/broadcast/N4AiIwBJ.m3u8https://cdn.jwplayer.com/live/broadcast/N4AiIwBJ.m3u8
 #EXTINF:-3,Canal capital
 https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
 #EXTINF:-3,Canal E
@@ -71,8 +67,6 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?dpssid=615721d186bd06358727eaf27e094a16&sid=ba5t1l1xb217573142126824f2096be73&ndvc=0
 #EXTINF:-3,El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTINF:-3,El trece pgy
-https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8?k=f03d04418feb650318357a39483e9d11e896e5d60226a5a92166a5c614645d59&exp=1747249407
 #EXTINF:-3,Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.dpname=distrotv&ads.rnd=f569&ads.env_i=9978806f-d0db-4258-8200-c98af58cb598&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1007&ads.height=567&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=157.100.199.113&ads.geo=EC&ads.lat=-2.19780&ads.long=-79.87640&ads.dma=&ads.geoType=2&ads.contentid=22886&ads.content_duration=18000&ads.episode_id=45144&ads.show_id=1245&ads.showCategories=IAB12&ads.episodeCategories=IAB12&ads.genre=News%2CGlobal%20News%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Euronews%20Espa%C3%B1ol&ads.episodetitle=Euronews%20Espa%C3%B1ol&ads.keywords=euronews%2Cspanish%2Cespa%C3%B1ol&ads.contenturl=https%3A%2F%2Fwww.bing.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20250506
 #EXTINF:-3,Latina
