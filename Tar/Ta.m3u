@@ -136,7 +136,7 @@ https://rdn.essastream.com:3230/live/telenovisa43live.m3u8
 #EXTINF:-3,Telerama
 https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-3,Telesur
-https://www.dailymotion.com/cdn/live/video/x82ug5r.m3u8?sec=F08F6W223agUii6_wgCT2DUa_6BIwQPez_Lt5vTVzarowTsPbHqwsH4fk8YJpwdP34GA__GnX1RD1PEPJDFeXg&dmTs=515912&dmV1st=9ba4bb53-a29e-4fb2-b20c-b082eab0e70c
+
 #EXTINF:-3,Teleunión
 https://66b3a8363297d.streamlock.net/teleunion/TU/playlist.m3u8
 #EXTINF:-3,Teleuniverso
@@ -161,8 +161,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunk
 https://live-utv.unah.edu.hn/web/salida.m3u8
 #EXTINF:-3,Vlnus
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=eeab7b8a64e58259688b1102d8d753b135ec7d257699277e9d3ff7c1cd658d3d&exp=1747249254
-#EXTINF:-3,wipr tv
-https://streamwipr.pr/hls/stream/index.m3u8
 #EXTINF:-3,Xtremo
 https://cdn.mycloudstream.io/hls/live/broadcast/opwwfnpv/index.m3u8?DVRhttps://cdn.mycloudstream.io/hls/live/broadcast/opwwfnpv/index.m3u8?DVR
 #EXTINF:-3,Canal 26
