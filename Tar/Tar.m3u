@@ -33,8 +33,6 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-3,Canal 11
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
-#EXTINF:-3,Canal 21
-https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-3,Canal capital
 https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
 #EXTINF:-3,Canal E
@@ -139,7 +137,9 @@ https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-3,Tv+
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8?dpssid=b21148711290680528d9c562b&sid=ba5t1l1xb2705191720680528f08c72b&ndvc=0
-#EXTINF:-3,Tv azteca
+#EXTINF:-3,Tv Azteca gla
+https://ch1-tva.duin.dev/hls/0/stream.m3u8
+#EXTINF:-3,Tv azteca internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-3,Tvc
 https://d2blnrh268ipk.cloudfront.net/index.m3u8
