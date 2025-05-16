@@ -149,6 +149,8 @@ https://envivo.telerama.ec/stream.m3u8
 https://66b3a8363297d.streamlock.net/teleunion/TU/playlist.m3u8
 #EXTINF:-3,Teleuniverso
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-3,Todo noticias
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/c7dd0e68-f39d-4183-8ade-623e585605fb:TUL/master.m3u8
 #EXTINF:-3,Tn8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-3,Tv+
@@ -167,6 +169,8 @@ https://hostingservicios.info/memfs/2b2e8b12-b741-4c00-9a34-f20dfbaf6462.m3u8
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-3,Tv perú 1
 https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
+#EXTINF:-3,Tv pública
+https://g4.proy-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-3,Tv uunah
 https://live-utv.unah.edu.hn/web/salida.m3u8
 #EXTINF:-3,Vale
