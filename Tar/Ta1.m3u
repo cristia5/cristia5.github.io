@@ -46,9 +46,8 @@ https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-3,Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-3,Caracol 1
-https://stream.gia.tv/giatv/giatv-c1mayten/c1mayten/chunks.m3u8
+https://live20.bozztv.com/giatv/giatv-c1tensixmay/c1tensixmay/chunks.m3u8
 #EXTINF:-3,Caracol sports
-https://stream.gia.tv/giatv/giatv-c2mayten/c2mayten/chunks.m3u8
 #EXTINF:-3,Caravisión
 https://cdn.mycloudstream.io/hls/live/broadcast/xljks6ec/index.m3u8
 #EXTINF:-3,Cdm tv
@@ -58,7 +57,6 @@ https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/
 #EXTINF:-3,Ctv barranquilla
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 #EXTINF:-3,Delta tv
-https://rdn.essastream.com:3949/live/deltatv50live.m3u8
 #EXTINF:-3,Dw Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-3,Ecotel
@@ -141,6 +139,8 @@ https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklis
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-3,Telenovisa
 https://rdn.essastream.com:3230/live/telenovisa43live.m3u8
+#EXTINF:-3,Teleragua
+http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-3,Telerama
 https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-3,Telesur
@@ -153,6 +153,8 @@ https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/4d6d851e-218c-4fb2-a666-5af3b3aa6464:MRN2/master.m3u8
 #EXTINF:-3,Tn8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
+#EXTINF:-3,Trt
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 #EXTINF:-3,Tv+
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8?dpssid=b21148711290680528d9c562b&sid=ba5t1l1xb2705191720680528f08c72b&ndvc=0
 #EXTINF:-3,Tv azteca gla
@@ -169,12 +171,18 @@ https://hostingservicios.info/memfs/2b2e8b12-b741-4c00-9a34-f20dfbaf6462.m3u8
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-3,Tv perú 1
 https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
+#EXTINF:-3,Tv perú internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-3,Tv perü noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-3,Tv pública
 https://g4.proy-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-3,Tv uunah
 https://live-utv.unah.edu.hn/web/salida.m3u8
 #EXTINF:-3,Vale
 https://vcp2.myplaytv.com/valetv/valetv/master.m3u8
+#EXTINF:-3,Vipaco
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-3,Vlnus
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=eeab7b8a64e58259688b1102d8d753b135ec7d257699277e9d3ff7c1cd658d3d&exp=1747249254
 #EXTINF:-3,Xtremo
@@ -200,8 +208,6 @@ https://cdn.mycloudstream.io/hls/live/broadcast/opwwfnpv/index.m3u8?DVR
 #EXTINF:-3,Espn 7
 #EXTINF:-3,Premiere Sports
 #EXTINF:-3,Win Sports +
-#EXTINF:-3,Platzi 1
-https://mdstrm.com/live-stream-playlist/64f8ac939eb2af70e11fc6b7.m3u8?uid=uJzQRQHuM1OUNuLRDWfJQGyGlVrXPcgL&sid=Mv8SKtkkvhELQUTsP55Dux3MJpEH5ICl&pid=GxDTc0M5vFxegEXzWYFJqfP3eErA0HVJ&an=screen&at=web-app&av=v6.0.162&ref=https%3A%2F%2Fplatzi.com%2Flive%2Ftekiti&res=975x548&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-3,Platzi 2
-https://mdstrm.com/live-stream-playlist/64f8af0bedbe00085a734f0a.m3u8?uid=Aq1QybS51m0hJJzAqQkK75qZALti8HOx&sid=bDc58skee82dWBauXxdMwnQkoj4UJKoe&pid=jQ1EPsES10JdXJIljj3V0Q140bq2g9y7&an=screen&at=web-app&av=v6.0.162&ref=https%3A%2F%2Fplatzi.com%2Flive%2Fexpert&res=975x548&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-3,
+#EXTINF:-3,
 #EXTINF:-3,
