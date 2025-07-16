@@ -176,8 +176,10 @@ https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=eeab7b
 #EXTINF:-3,Xtremo
 https://cdn.mycloudstream.io/hls/live/broadcast/opwwfnpv/index.m3u8?DVR
 #EXTINF:-3,Canal 26
-#EXTINF:-3,Chespirito 1
-https://jdou5wo6ffta.acek-cdn.com/hls2/01/05272/488lnikmyesv_n/master.m3u8?t=-KkSESjWYYbK7LOXPMv2BSI20NU52pdffOhpPbTbpEc&s=1752629842&e=129600&f=26366314&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=27947
+#EXTINF:-3,Chespirito 2
+https://1hyahuwewhyvwmq.acek-cdn.com/hls2/01/05316/vdeamz4mtd5q_h/master.m3u8?t=RvkjW1Hutp95Yn_Hx1qecuMfRwCrNvikgaxLaSJxFFE&s=1752692443&e=129600&f=26580236&srv=lrAomU956ig7J&i=0.4&sp=500&p1=lrAomU956ig7J&p2=lrAomU956ig7J&asn=27947
+#EXTINF:-3,Chespirito 3
+https://nvuvqg7vjicd.ovaltinecdn.com/hls2/01/05346/qj7y0q3eh9jk_h/master.m3u8?t=VAQscDYoFtwi4x8JqCo2Dn-jSWXoOuYsDqXwDrosHaw&s=1752692370&e=129600&f=26733386&srv=KCQ3ljW6vn0z&i=0.4&sp=500&p1=KCQ3ljW6vn0z&p2=KCQ3ljW6vn0z&asn=27947
 #EXTINF:-3,Ntn 24
 
 #EXTINF:-3,Tc Televisión
@@ -187,7 +189,6 @@ https://jdou5wo6ffta.acek-cdn.com/hls2/01/05272/488lnikmyesv_n/master.m3u8?t=-Kk
 #EXTINF:-3,Directv
 #EXTINF:-3,Directv 2
 #EXTINF:-3,Distrito comedia
-https://live2.saohgdasregions.fun:9091/47_/index.m3u8?token=90d168b70f12fdacb41551cde6c536d619c7dfa4-1aae7e4fdf9bcea1a0d6947d94cd6669-1752638887-1752617287&remote=157.100.199.113
 #EXTINF:-3,El canal
 #EXTINF:-3,Fox deportes
 #EXTINF:-3,Espn 
@@ -198,11 +199,8 @@ https://live2.saohgdasregions.fun:9091/47_/index.m3u8?token=90d168b70f12fdacb415
 #EXTINF:-3,Espn 6
 #EXTINF:-3,Espn 7
 #EXTINF:-3,Rcn
-https://live2.saohgdasregions.fun:9091/616_/index.m3u8?token=9abe7868a6d13c723dc967f0f5447f488c3a032c-c603fa0e52c7bcbc2e295eb0e1e511a5-1752638728-1752617128&remote=157.100.199.113
 #EXTINF:-3,Telemundo 51
-https://live2.saohgdasregions.fun:9091/48_/index.m3u8?token=864fee8bb6560ab013a412dc03d87c3f22d920f1-ee536a8662bacb9bc9c669508b58b3f4-1752639675-1752618075&remote=157.100.199.113
 #EXTINF:-3,Univisión
-https://live2.saohgdasregions.fun:9091/62_/index.m3u8?token=6d19212582e4890e36f954ff1131394938592418-fbb48471518e0032838b22d159bc021d-1752639111-1752617511&remote=157.100.199.113
 #EXTINF:-3,Win Sports +
 #EXTINF:-3,
 #EXTINF:-3,
