@@ -5,6 +5,8 @@ https://server6.globalhostla.com:9168/stream
 https://server6.globalhostla.com:8068/stream
 #EXTINF:-3,La x ca
 https://acp2.lorini.net:39500/stream/1/
+#EXTINF:-3,La mega
+https://acp4.lorini.net/proxy/ur2050?mp=/stream
 #EXTINF:-3,Líder ba
 https://acp4.lorini.net/proxy/15020?mp=/stream
 #EXTINF:-3,Onda superestación
