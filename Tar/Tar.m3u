@@ -53,10 +53,6 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-3,Linares
 https://v1.tustreaming.cl/tv5linares/index.m3u8
-#EXTINF:-3,Mega tv arequipa
-https://mc.servidor.stream:19360/megatv/megatv.m3u8
-#EXTINF:-3,Megavisión
-https://66b3a8363297d.streamlock.net/megavision/MV/playlist.m3u8
 #EXTINF:-3,Metro tv
 https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:-3,Next
