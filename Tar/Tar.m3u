@@ -31,10 +31,6 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UC
 https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-3,Cdm tv
 https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
-#EXTINF:-3,Cdn
-https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/7ed9a111-1110-47df-3bd8-85a9e0a15e3c.m3u8
-#EXTINF:-3,Ctv barranquilla
-https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 #EXTINF:-3,Delta tv
 https://rdn.essastream.com:3949/live/deltatv50live.m3u8
 #EXTINF:-3,Dw Español
