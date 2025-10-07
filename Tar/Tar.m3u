@@ -5,10 +5,6 @@ https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo_720p/playlist
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-3,Antares
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-3,América
-https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_360p/chunks.m3u8
-#EXTINF:-3,Américatevé
-https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 #EXTINF:-3,Atv
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-3,Atv más
@@ -19,12 +15,8 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 #EXTINF:-3,Biobio
 https://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-3,Bolivia tv
-https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 #EXTINF:-3,Cali
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
-#EXTINF:-3,Canal 1
-https://stream.gia.tv/giatv/giatv-uno1604/uno1604/chunks.m3u8
 #EXTINF:-3,Canal 7
 https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-3,Canal 7 jujuy
@@ -137,8 +129,6 @@ https://envivo.telerama.ec/stream.m3u8
 https://66b3a8363297d.streamlock.net/teleunion/TU/playlist.m3u8
 #EXTINF:-3,Teleuniverso
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
-#EXTINF:-3,Todo noticias
-https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/c7dd0e68-f39d-4183-8ade-623e585605fb:TUL/master.m3u8
 #EXTINF:-3,Tn8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-3,Trt
@@ -163,8 +153,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunk
 https://g4.proy-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-3,Tv uunah
 https://live-utv.unah.edu.hn/web/salida.m3u8
-#EXTINF:-3,Vale
-https://vcp2.myplaytv.com/valetv/valetv/master.m3u8
 #EXTINF:-3,Vepaco
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-3,Vlnus
