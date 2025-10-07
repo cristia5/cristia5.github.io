@@ -59,14 +59,10 @@ https://s.emisoras.tv:8081/metrotv/index.m3u8
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 #EXTINF:-3,Oromar
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-#EXTINF:-3,Panamericana
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-3,Promar
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-3,Pura Noticias
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
-#EXTINF:-3,Q'hubo tv
-https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w1830057077.m3u8
 #EXTINF:-3,Red noticias
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel%28REDMASHDWEB%29/master.m3u8
 #EXTINF:-3,Rnn
@@ -79,8 +75,6 @@ https://d27a7brtx3v90o.cloudfront.net/index.m3u8
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-3,Rrtvd
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:-3,Señal Colombia
-https://stream.gia.tv/giatv/giatv-sc1604/sc1604/chunks.m3u8
 #EXTINF:-3,Señales tv
 https://live.dionelysterrero.com/senalestv/stream.m3u8
 #EXTINF:-3,Smrt
@@ -104,21 +98,15 @@ https://rdn.essastream.com:3230/live/telenovisa43live.m3u8
 #EXTINF:-3,Teleragua
 http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-3,Telerama
-https://envivo.telerama.ec/stream.m3u8
+https://play.once.net.ec/telerama/live.tv/538.m3u8
 #EXTINF:-3,Telesur
 
-#EXTINF:-3,Teleunión
-https://66b3a8363297d.streamlock.net/teleunion/TU/playlist.m3u8
-#EXTINF:-3,Teleuniverso
-https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-3,Tn8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-3,Trt
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 #EXTINF:-3,Tv+
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8?dpssid=b21148711290680528d9c562b&sid=ba5t1l1xb2705191720680528f08c72b&ndvc=0
-#EXTINF:-3,Tv Azteca gla
-https://ch1-tva.duin.dev/hls/0/stream.m3u8
 #EXTINF:-3,Tv azteca internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-3,Tvc
@@ -127,20 +115,12 @@ https://d2blnrh268ipk.cloudfront.net/index.m3u8
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-3,Tvf
 https://hostingservicios.info/memfs/2b2e8b12-b741-4c00-9a34-f20dfbaf6462.m3u8
-#EXTINF:-3,Tv perú
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-#EXTINF:-3,Tv perú 1
-https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
 #EXTINF:-3,Tv pública
 https://g4.proy-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-#EXTINF:-3,Tv uunah
-https://live-utv.unah.edu.hn/web/salida.m3u8
 #EXTINF:-3,Vepaco
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-3,Vlnus
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=eeab7b8a64e58259688b1102d8d753b135ec7d257699277e9d3ff7c1cd658d3d&exp=1747249254
-#EXTINF:-3,Xtremo
-https://cdn.mycloudstream.io/hls/live/broadcast/opwwfnpv/index.m3u8?DVR
 #EXTINF:-3,Canal 26
 #EXTINF:-3,Chespirito 2
 https://jdou5wo6ffta.acek-cdn.com/hls2/01/05316/vdeamz4mtd5q_h/master.m3u8?t=ko_X-bwXS0Qq4frS5IoQK-lvXot8h1HCayd1QUCuiRU&s=1755031102&e=129600&f=26580236&srv=lrAomU956ig7J&i=0.4&sp=500&p1=lrAomU956ig7J&p2=lrAomU956ig7J&asn=27947
