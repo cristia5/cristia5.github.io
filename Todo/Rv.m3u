@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-3,Adulto joven ca
 https://server6.globalhostla.com:9168/stream
+#EXTINF:-3,Clásico san
+https://acp4.lorini.net:15048/stream
 #EXTINF:-3,La romántica
 https://acp2.lorini.net:58100/stream
 #EXTINF:-3,La x ca
@@ -31,5 +33,9 @@ https://acp4.lorini.net:15028/stream
 https://acp4.lorini.net:2060/stream
 #EXTINF:-3,Pop ca
 https://acp2.lorini.net:10120/stream
+#EXTINF:-3,Romance san
+https://acp4.lorini.net:15044/stream
+#EXTINF:-3,San seb san
+https://acp4.lorini.net:15042/stream
 #EXTINF:-3,Woao 88 uno vale ec
 https://stream.zeno.fm/361as28sbc9uv
