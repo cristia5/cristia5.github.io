@@ -35,6 +35,8 @@ https://d189ti2o3c9n0l.cloudfront.net/joya.m3u8
 https://radio30.virtualtronics.com/proxy/lavozdelamor?mp=/stream
 #EXTINF:-3,Pop
 https://popradio.stweb.tv/popradio/live/playlist.m3u8
+#EXTINF:-3,Pop 1
+https://popradio.stweb.tv/popradio/live/chunks.m3u8?nimblesessionid=155982076
 #EXTINF:-3,Redonda
 https://laredondafm.makrodigital.com:9550/stream
 #EXTINF:-3,Ritmo romántica
