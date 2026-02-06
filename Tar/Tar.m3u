@@ -23,12 +23,16 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-3,Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+#EXTINF:-3,Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
+#EXTINF:-3,Canal 261
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-3,Canal abc
 https://cdn.jwplayer.com/live/broadcast/GQagSggs.mpd
 #EXTINF:-3,Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Canal I
-https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
+https://streaming.canal-i.com/master.m3u8
 #EXTINF:-3,Cdm tv
 https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
 #EXTINF:-3,Delta tv
@@ -51,6 +55,8 @@ https://streamtv.intervenhosting.net:3592/stream/play.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b22068928289680d5e0adb0bb
 #EXTINF:-3,Latina 1
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-3,Latino
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 #EXTINF:-3,Linares
 https://v1.tustreaming.cl/tv5linares/index.m3u8
 #EXTINF:-3,Metro tv
@@ -81,6 +87,8 @@ https://live.dionelysterrero.com/senalestv/stream.m3u8
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-3,Sol
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-3,Somos
+https://vcp3.myplaytv.com/somostv/somostv/playlis.m3u8
 #EXTINF:-3,T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did=b298147788467be06b29c917
 #EXTINF:-3,Teleantillas
@@ -91,6 +99,8 @@ https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-3,Teleisla
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w883419953.m3u8
+#EXTINF:-3,Telemundo
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
 #EXTINF:-3,Telemundo puer
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-3,Telenovisa
@@ -100,7 +110,7 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-3,Telerama
 https://play.once.net.ec/telerama/live.tv/538.m3u8
 #EXTINF:-3,Telesur
-
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-3,Tn8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-3,Trt
@@ -117,6 +127,14 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 https://hostingservicios.info/memfs/2b2e8b12-b741-4c00-9a34-f20dfbaf6462.m3u8
 #EXTINF:-3,Tv pública
 https://g4.proy-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+#EXTINF:-3,Un24+
+https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
+#EXTINF:-3,Vale
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+#EXTINF:-3,Venevisión
+https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
+#EXTINF:-3,Venevisión internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-3,Vepaco
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-3,Vlnus
