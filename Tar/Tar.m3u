@@ -197,7 +197,8 @@ https://s1.vimeos.net/hls2/02/00010/xnpnfox3lgwu_,n,h,.urlset/master.m3u8?t=3oxn
 #EXTINF:-3,Rcn
 #EXTINF:-3,Telemundo 51
 #EXTINF:-3,Tudn
-https://aw1wcm92zq.fubohd.com/tudn/mono.m3u8?token=5853356881d6262721bbd337e6e368862652120f-e0-1760498786-1760480786
+#EXTINF:-3,Ufc
+https://aw1wcm92zq.fubo18.com/paramount1/mono.m3u8?token=97dcc253ec4aca6a41b00161079e0ba63d523983-75-1781498964-1781480964
 #EXTINF:-3,Univisión
 #EXTINF:-3,Win Sports +
 #EXTINF:-3,
