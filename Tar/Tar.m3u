@@ -171,9 +171,7 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=eeab7b8a64e58259688b1102d8d753b135ec7d257699277e9d3ff7c1cd658d3d&exp=1747249254
 #EXTINF:-3,Canal 26
 #EXTINF:-3,Chespirito 2
-https://jdou5wo6ffta.acek-cdn.com/hls2/01/05316/vdeamz4mtd5q_h/master.m3u8?t=ko_X-bwXS0Qq4frS5IoQK-lvXot8h1HCayd1QUCuiRU&s=1755031102&e=129600&f=26580236&srv=lrAomU956ig7J&i=0.4&sp=500&p1=lrAomU956ig7J&p2=lrAomU956ig7J&asn=27947
 #EXTINF:-3,Pablo 1
-https://s1.vimeos.net/hls2/02/00010/xnpnfox3lgwu_,n,h,.urlset/master.m3u8?t=3oxnP_wlnYTuc3wL5psvu0fsara2DWuzqeqho4B7qNs&s=1778083669&e=43200&v=209054652&i=0.0&sp=0&fr=xnpnfox3lgwu&r=e
 #EXTINF:-3,Ntn 24
 
 #EXTINF:-3,Tc Televisión
@@ -195,8 +193,11 @@ https://s1.vimeos.net/hls2/02/00010/xnpnfox3lgwu_,n,h,.urlset/master.m3u8?t=3oxn
 #EXTINF:-3,Espn 6
 #EXTINF:-3,Espn 7
 #EXTINF:-3,Rcn
-#EXTINF:-3,Telemundo 51
+#EXTINF:-3,Telemundo
+https://mm.domain77654422122.sbs/telemundo/index.m3u8?token=e4ea8a2a42cd0ce662ccca0963f48cad88fd5e7e-70-1784513823-1784459823&ip=157.100.199.112
 #EXTINF:-3,Tudn
+#EXTINF:-3,Tycsports
+https://ss.domain77654422122.sbs/tyc/index.m3u8?token=75b69f33f6f758728552176b401f87fb1741c544-0e-1784513764-1784459764&ip=157.100.199.112
 #EXTINF:-3,Ufc
 https://aw1wcm92zq.fubo18.com/paramount1/mono.m3u8?token=97dcc253ec4aca6a41b00161079e0ba63d523983-75-1781498964-1781480964
 #EXTINF:-3,Univisión
