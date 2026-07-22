@@ -47,11 +47,6 @@ https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-3,Canal I
 https://streaming.canal-i.com/master.m3u8
-#EXTINF:-3,Caracol
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:-3,Caracol 1
-https://live20.bozztv.com/giatv/giatv-c1tensixmay/c1tensixmay/chunks.m3u8
-#EXTINF:-3,Caracol sports
 #EXTINF:-3,Caravisión
 https://cdn.mycloudstream.io/hls/live/broadcast/xljks6ec/index.m3u8
 #EXTINF:-3,Cdm tv
