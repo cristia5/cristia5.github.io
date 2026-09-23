@@ -76,9 +76,9 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:206532-5753030/playlist.m3u8
 #EXTINF:-3,Rt Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-3,Rts
-https://d27a7brtx3v90o.cloudfront.net/index.m3u8
+https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8
 #EXTINF:-3,Rtu
-https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
+https://rtu.video.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-3,Rrtvd
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-3,Señales tv
@@ -135,6 +135,8 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 https://play.once.net.ec/telerama/live.tv/538.m3u8
 #EXTINF:-3,Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-3,Televen
+https://televen.streampool.net/10255/dvr/hls/televentrx/spntl=exp=1790206394~id=bqJoO4Viu_s-sS9y9T_IyBM~acl=%2F10255%2Fdvr%2Fhls%2Fteleventrx%2F%2A~data=ip=254.188.23.176,pid=255,sid=WBS,did=N%2FA,id=TLVGUEST~hmac=08ad47bb4f804728ac707814c7db584b3c32450f08f46fa8abfe4e37d5e14f43/playlist_3.m3u8
 #EXTINF:-3,Tn8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-3,Trt
