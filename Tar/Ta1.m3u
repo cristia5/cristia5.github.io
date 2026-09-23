@@ -179,6 +179,8 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://66b3a8363297d.streamlock.net/teleunion/TU/playlist.m3u8
 #EXTINF:-3,Teleuniverso
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-3,Televen
+https://televen.streampool.net/10255/dvr/hls/televentrx/spntl=exp=1790206394~id=bqJoO4Viu_s-sS9y9T_IyBM~acl=%2F10255%2Fdvr%2Fhls%2Fteleventrx%2F%2A~data=ip=254.188.23.176,pid=255,sid=WBS,did=N%2FA,id=TLVGUEST~hmac=08ad47bb4f804728ac707814c7db584b3c32450f08f46fa8abfe4e37d5e14f43/playlist_3.m3u8
 #EXTINF:-3,Todo noticias
 https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/4d6d851e-218c-4fb2-a666-5af3b3aa6464:MRN2/master.m3u8
 #EXTINF:-3,Tn8
