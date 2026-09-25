@@ -137,8 +137,6 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 https://play.once.net.ec/telerama/live.tv/538.m3u8
 #EXTINF:-3,Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-3,Televen
-https://televen.streampool.net/10255/dvr/hls/televentrx/spntl=exp=1790206394~id=bqJoO4Viu_s-sS9y9T_IyBM~acl=%2F10255%2Fdvr%2Fhls%2Fteleventrx%2F%2A~data=ip=254.188.23.176,pid=255,sid=WBS,did=N%2FA,id=TLVGUEST~hmac=08ad47bb4f804728ac707814c7db584b3c32450f08f46fa8abfe4e37d5e14f43/playlist_3.m3u8
 #EXTINF:-3,Tn8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-3,Trt
@@ -180,6 +178,8 @@ https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=eeab7b
 #EXTINF:-3,Movistar
 #EXTINF:-3,Directv
 #EXTINF:-3,Directv 2
+#EXTINF:-3,Disney
+https://5.ftlly.com/disney7/mono.m3u8?token=c61134a457e1ceae0deccbc177fdb26ac9b90a20-57-1790378905-1790360905
 #EXTINF:-3,Distrito comedia
 #EXTINF:-3,El canal
 #EXTINF:-3,Fox deportes
