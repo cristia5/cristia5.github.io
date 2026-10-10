@@ -213,6 +213,8 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?uid=AwdmVA
 https://g4.proy-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-3,Tv uunah
 https://live-utv.unah.edu.hn/web/salida.m3u8
+#EXTINF:-3,Tycsports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-3,Un24+
 https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
 #EXTINF:-3,Vale
@@ -221,6 +223,8 @@ https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 #EXTINF:-3,Venevisión internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-3,Venus
+https://full-online.xyz/proxy/ssl/?url=http%3A%2F%2F181.119.215.61%3A8000%2Fplay%2Fa02u%2Findex.m3u8%3Fhls
 #EXTINF:-3,Vipaco
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-3,Vlnus
