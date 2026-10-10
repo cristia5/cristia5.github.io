@@ -83,18 +83,24 @@ https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 https://v1.tustreaming.cl/tv5linares/index.m3u8
 #EXTINF:-3,Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-3,Mega 1
+https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-3,Mega tv arequipa
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
 #EXTINF:-3,Megavisión
 https://66b3a8363297d.streamlock.net/megavision/MV/playlist.m3u8
 #EXTINF:-3,Metro tv
 https://s.emisoras.tv:8081/metrotv/index.m3u8
+#EXTINF:-3,miami
+https://77f7ee394fe8493493685681bfe14df3.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Latino/playlist.m3u8
 #EXTINF:-3,Next
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 #EXTINF:-3,Oromar
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-3,Panamericana
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+#EXTINF:-3,Play boy
+https://pelisjuanita.xyz/proxy/ssl/?url=http%3A%2F%2F181.119.215.61%3A8000%2Fplay%2Fa02t%2Findex.m3u8%3Fhls
 #EXTINF:-3,Promar
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-3,Pura Noticias
